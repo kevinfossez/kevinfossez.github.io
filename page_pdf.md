@@ -1,8 +1,10 @@
 ---
 layout: default
-title: How-to: pdf files
+title: How-to pdf files
 description: Useful commands to manipulate pdf files
 ---
+
+# Convert from/to pdf
 
 ## Convert a pdf into a djvu file (about 10% of the pdf size)
 
@@ -10,31 +12,11 @@ description: Useful commands to manipulate pdf files
 pdf2djvu -o output_file input_file
 ```
 
-## Concatenate several pdf files
+## Convert a djvu file into a pdf file
 
 ```bash
-pdftk 1.pdf 2.pdf 3.pdf cat output 123.pdf
-```
-
-## Rotate by 180 degrees pdf file
-
-### Single-page file ("1")
-
-```bash
-pdftk in.pdf cat 1south output out.pdf 
-```
-
-### All pages ("1-end")
-
-```bash
-pdftk in.pdf cat 1-endsouth output out.pdf
-```
-
-
-## Extract pages from different pdf files (without removing them from the original files...)
-
-```bash
-pdftk A=f1.pdf B=f2.pdf cat A12-14 B2-34 A15 output outf.pdf
+djvups doc.djvu doc.ps
+ps2pdf doc.ps
 ```
 
 ## Convert all eps files in a directory into pdf files
@@ -43,23 +25,12 @@ pdftk A=f1.pdf B=f2.pdf cat A12-14 B2-34 A15 output outf.pdf
 find . -name "*.eps" -exec epstopdf {} \;
 ```
 
-## Extract one page from a djvu file
+## Convert a jpg file into a pdf file
 
 ```bash
-djvused landau4.djvu -e 'select 22; save-page out22.djvu'
-```
-
-## Concatenate pages from different djvu files
-
-```bash
-djvm -c doc.djvu out18.djvu out19.djvu out20.djvu out21.djvu out22.djvu out23.djvu
-```
-
-## Convert a djvu file into a pdf file
-
-```bash
-djvups doc.djvu doc.ps
-ps2pdf doc.ps
+convert -compress jpeg -quality 85 p*.jpg out.pdf
+pdf2ps out.pdf out.ps
+ps2pdf f.ps
 ```
 
 ## Convert an epub file into a pdf file
@@ -89,14 +60,49 @@ import cairosvg
 cairosvg.svg2pdf(url='image.svg', write_to='image.pdf')
 ```
 
-## Convert a jpg file into a pdf file
+
+# Manipulate a pdf file
+
+
+## Concatenate several pdf files
 
 ```bash
-convert -compress jpeg -quality 85 p*.jpg out.pdf
-pdf2ps out.pdf out.ps
-ps2pdf f.ps
+pdftk 1.pdf 2.pdf 3.pdf cat output 123.pdf
 ```
 
+## Rotate by 180 degrees pdf file
+
+### Single-page file ("1")
+
+```bash
+pdftk in.pdf cat 1south output out.pdf 
+```
+
+### All pages ("1-end")
+
+```bash
+pdftk in.pdf cat 1-endsouth output out.pdf
+```
+
+## Extract pages from different pdf files (without removing them from the original files...)
+
+```bash
+pdftk A=f1.pdf B=f2.pdf cat A12-14 B2-34 A15 output outf.pdf
+```
+
+## Extract one page from a djvu file
+
+```bash
+djvused landau4.djvu -e 'select 22; save-page out22.djvu'
+```
+
+## Concatenate pages from different djvu files
+
+```bash
+djvm -c doc.djvu out18.djvu out19.djvu out20.djvu out21.djvu out22.djvu out23.djvu
+```
+
+# Extract pieces of a pdf file
 
 ## Extract an element from a pdf file (figure, anything)
 
