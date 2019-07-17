@@ -1,11 +1,124 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: How-to: pdf files
+description: Useful commands to manipulate pdf files
 ---
 
-## Welcome to another page
+## Convert a pdf into a djvu file (about 10% of the pdf size)
 
-_yay_
+```bash
+pdf2djvu -o output_file input_file
+```
+
+## Concatenate several pdf files
+
+```bash
+pdftk 1.pdf 2.pdf 3.pdf cat output 123.pdf
+```
+
+## Rotate by 180 degrees pdf file
+
+### Single-page file ("1")
+
+```bash
+pdftk in.pdf cat 1south output out.pdf 
+```
+
+### All pages ("1-end")
+
+```bash
+pdftk in.pdf cat 1-endsouth output out.pdf
+```
+
+
+## Extract pages from different pdf files (without removing them from the original files...)
+
+```bash
+pdftk A=f1.pdf B=f2.pdf cat A12-14 B2-34 A15 output outf.pdf
+```
+
+## Convert all eps files in a directory into pdf files
+
+```bash
+find . -name "*.eps" -exec epstopdf {} \;
+```
+
+## Extract one page from a djvu file
+
+```bash
+djvused landau4.djvu -e 'select 22; save-page out22.djvu'
+```
+
+## Concatenate pages from different djvu files
+
+```bash
+djvm -c doc.djvu out18.djvu out19.djvu out20.djvu out21.djvu out22.djvu out23.djvu
+```
+
+## Convert a djvu file into a pdf file
+
+```bash
+djvups doc.djvu doc.ps
+ps2pdf doc.ps
+```
+
+## Convert an epub file into a pdf file
+
+```bash
+ebook-convert truc.epub truc.pdf
+```
+
+## Convert a svg file into a pdf file
+
+### Method that works well
+
+```bash
+rsvg-convert -f pdf -o t.pdf t.svg
+```
+
+### Method that works less well
+
+```bash
+cairosvg image.svg -o image.pdf
+```
+
+### Idem (in python3)
+
+```python
+import cairosvg
+cairosvg.svg2pdf(url='image.svg', write_to='image.pdf')
+```
+
+## Convert a jpg file into a pdf file
+
+```bash
+convert -compress jpeg -quality 85 p*.jpg out.pdf
+pdf2ps out.pdf out.ps
+ps2pdf f.ps
+```
+
+
+## Extract an element from a pdf file (figure, anything)
+
+Cuts by "290", "140", etc. points on the bottom, left, etc.
+
+```bash
+pdfcrop --margins '-290 -140 -290 -130' old.pdf new.pdf
+```
+Then remove "hidden stuffs" around the extracted piece that pdfcrop did not remove:
+
+```bash
+pdf2ps out.pdf out.ps
+ps2pdf f.ps
+```
+
+Or better:
+
+```bash
+pdfcrop --margins 0 old.pdf new.pdf
+```
+
+
+
 
 [back](./)
