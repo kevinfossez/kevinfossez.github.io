@@ -64,6 +64,50 @@ aspell -c file.tex -d en
 \definecolor{Tab10lCyan}{RGB}{158, 218, 229}
 ```
 
+## BibTex entry
+
+### For standard bibliography display
+
+```latex
+@article{author07_1,
+author = {A. Name and B. Name and C. {Al Name}},
+title = {Title of the paper},
+journal = {Journal of blabla},
+volume = {8},
+pages = {9},
+year = {2048},
+keywords = {theory,blabla},
+url = {[insert doi link here]}
+}
+```
+
+### For cases where the volume number is not in bold (hack)
+
+```latex
+@article{author07_1,
+author = {A. Name and B. Name and C. {Al Name}},
+title = {Title of the paper},
+journal = {Journal of blabla, \textbf{8}, 9 (2048)},
+keywords = {theory,blabla},
+url = {[insert doi link here]}
+}
+```
+
+
+### For books
+
+```latex
+@book{gelfand61_b1,
+author = {I. M. Gel'fand and G. E. Shilov and N. Ya. Vilenkin and M. I. Graev},
+title = {Generalized {F}unctions. {V}ol. 1: {P}roperties and {O}perations},
+publisher = {Academic Press, New York},
+edition = {1st ed.},
+year = {1964}
+}
+```
+
+Note that first letters in the title must be surrounded by braces to stay in capital after processing. The url field can be added if a doi link is available.
+
 
 
 [back](./)
