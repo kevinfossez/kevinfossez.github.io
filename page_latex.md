@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How-to: tex files
+title: How-to - tex files
 description: Useful stuffs for LaTeX
 ---
 

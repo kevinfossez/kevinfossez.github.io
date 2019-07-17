@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How-to: bash
+title: How-to - bash
 description: Useful bash commands
 ---
 
