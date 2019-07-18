@@ -2,13 +2,16 @@
 layout: default
 ---
 
-[My papers](./page_papers.html)
+## General
 
-Useful command to manipulate pdf files [How to: pdf files](./page_pdf.html).
+[My articles](./page_papers.html)
 
-Usefull bash commands [How to: bash](./page_bash.html)
 
-Usefull LaTeX stuffs [How to: LaTeX](./page_latex.html)
+## Useful notes
+
+- Commands to manipulate [pdf files](./page_pdf.html).
+- Miscellaneous [bash commands](./page_bash.html)
+- [LaTeX notes](./page_latex.html)
 
 
 
