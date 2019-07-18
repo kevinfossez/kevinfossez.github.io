@@ -1,12 +1,13 @@
 ---
 layout: default
 title: My papers
-description: [arXiv](https://arxiv.org/a/fossez_k_1.html)
+description: aaa
 mathjax: true
-future: true
 ---
 
 [back](./)
+
+[arXiv](https://arxiv.org/a/fossez_k_1.html)
 
 
 ## Nuclear Physics

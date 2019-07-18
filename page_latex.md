@@ -2,7 +2,6 @@
 layout: default
 title: How-to -- tex files
 description: Useful stuffs for LaTeX
-future: true
 ---
 
 [back](./)

@@ -2,7 +2,6 @@
 layout: default
 title: How-to -- bash
 description: Useful bash commands
-future: true
 ---
 
 [back](./)

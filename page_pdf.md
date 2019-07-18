@@ -2,7 +2,6 @@
 layout: default
 title: How-to -- pdf files
 description: Useful commands to manipulate pdf files
-future: true
 ---
 
 [back](./)
