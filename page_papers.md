@@ -1,13 +1,13 @@
 ---
 layout: default
-title: My papers
-description: aaa
+title: My articles
+description: List of articles in atomic and nuclear physics
 mathjax: true
 ---
 
 [back](./)
 
-[arXiv](https://arxiv.org/a/fossez_k_1.html)
+List of my articles on [arXiv](https://arxiv.org/a/fossez_k_1.html).
 
 
 ## Nuclear Physics

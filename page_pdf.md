@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How-to -- pdf files
+title: How-to pdf
 description: Useful commands to manipulate pdf files
 ---
 

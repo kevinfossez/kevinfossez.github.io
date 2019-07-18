@@ -1,7 +1,7 @@
 ---
 layout: default
-title: How-to -- tex files
-description: Useful stuffs for LaTeX
+title: How-to tex files
+description: Notes on LaTeX
 ---
 
 [back](./)
