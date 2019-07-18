@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Kevin Fossez
+description: Personal page
 ---
 
 ## General
