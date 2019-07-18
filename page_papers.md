@@ -2,6 +2,7 @@
 layout: default
 title: My papers
 description: [arXiv](https://arxiv.org/a/fossez_k_1.html)
+mathjax: true
 ---
 
 [back](./)
