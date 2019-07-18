@@ -19,6 +19,7 @@ mathjax: true
 	Phys. Rev. C **91**, 034609 (2015)
 
 
+$$ \int_0^\infty $$
 
 
 ## Atomic physics
