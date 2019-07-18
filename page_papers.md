@@ -11,7 +11,7 @@ mathjax: true
 ## Nuclear Physics
 
 2- G. X. Dong , **K. Fossez**, N. Michel, and M. P&#322;oszajczak}  
-  _Astrophysical ${ S }$-factor for ${ {}^{6}\mathrm{Li} ( p , \gamma ) {}^{7}\mathrm{Be} }$ in the coupled-channel Gamow shell model_  
+  _Astrophysical <span>${ S }$</span>-factor for ${ {}^{6}\mathrm{Li} ( p , \gamma ) {}^{7}\mathrm{Be} }$ in the coupled-channel Gamow shell model_  
   EPJ Web Conf. **109**, 05003 (2016)
 
 1- **K. Fossez**, N. Michel, M. P&#322;oszajczak, Y. Jaganathen, and R. M. Id Betan  
