@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: kevinfossez.github.io
-description: [Personal page]
+description: Personal page
+markdown: kramdown
