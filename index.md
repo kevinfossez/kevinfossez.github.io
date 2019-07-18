@@ -2,6 +2,7 @@
 layout: default
 title: Kevin Fossez
 description: Personal page
+future: true
 ---
 
 ## General
