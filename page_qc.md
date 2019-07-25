@@ -35,7 +35,7 @@ description: Links and docs on quantum computing
   _Quantum mechanical Hamiltonian models of Turing machines_  
   Journal of Statistical Physics 29 (3), 515–546 (1982) [article](http://link.springer.com/article/10.1007%2FBF01342185)
 
-- R. Feynmann  
+- R. Feynman  
   _Simulating physics with computers_  
   Int. J. Theor. Phys. **21**, 467 (1982) [article](https://doi.org/10.1007/BF02650179) [pdf]()
 
