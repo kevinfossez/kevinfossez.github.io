@@ -51,8 +51,15 @@ description: Links and docs on quantum computing
 ## Links
 
 - Wikipedia pages for [quantum computing](https://en.wikipedia.org/wiki/Quantum_computing) and [quantum logic gates](https://en.wikipedia.org/wiki/Quantum_logic_gate)
-- Lecture notes by J. Preskill [link](http://www.theory.caltech.edu/~preskill/ph219/index.html#lecture)
+
 - _Quantum Computation and Quantum Information_ by M. Nielsen and I. Chuang, Massachusetts Institute of Technology, 2010 [book](https://doi.org/10.1017/CBO9780511976667)
+
+- Lecture notes by J. Preskill [link](http://www.theory.caltech.edu/~preskill/ph219/index.html#lecture)
+
+- J. Preskill  
+  _Quantum computing in the NISQ era and beyond_  
+  Quantum **2**, 79 (2018) [article](https://doi.org/10.22331/q-2018-08-06-79) [arXiv](https://arxiv.org/abs/1801.00862)
+
 
 
 ## Variational Quantum Eigensolver (VQE)
