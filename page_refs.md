@@ -12,7 +12,7 @@ mathjax: true
 ## Nuclear Physics
 
 
-### 2019
+### 2019 (in-medium similarity renormalization group in the Berggren basis)
 
 - B. S. Hu, Q. Wu, Z. H. Sun and F. R. Xu  
   _Ab initio Gamow in-medium similarity renormalization group with resonance and continuum_  
@@ -228,7 +228,7 @@ mathjax: true
   _Direct demonstration of the completeness of the eigenstates of the Schr&#246;dinger equation with local and non-local potentials bearing a Coulomb tail_  
   J. Math. Phys. **49**, 022109 (2008) [article](https://dx.doi.org/10.1063/1.2830976) [arXiv](https://arxiv.org/abs/0712.2651)
 
-### 2007
+### 2007 (coupled clusters theory in the Berggren basis)
 
 - G. Hagen, D. J. Dean, M. Hjorth-Jensen and T. Papenbrock  
   _Complex coupled-cluster approach to an ab initio description of open quantum systems_  
@@ -254,7 +254,7 @@ mathjax: true
   _Precise Coulomb wave functions for a wide range of complex $${ l }$$, $${ \eta }$$ and $${ z }$$_  
   Comp. Phys. Comm. **176**, 232 (2007) [article](https://dx.doi.org/10.1016/j.cpc.2006.10.004) [arXiv](https://arxiv.org/abs/physics/0702051)
 
-### 2006
+### 2006 (density matrix renormalization group in the Berggren basis)
 
 - J. Rotureau, N. Michel, W. Nazarewicz, M. P&#322;oszajczak and J. Dukelsky  
   _Density matrix renormalisation group approach for many-body open quantum systems_  
@@ -338,15 +338,15 @@ mathjax: true
   _Clusters as many-body resonances_  
   Acta Physica Hungarica A) Heavy Ion Phys. **18**, 267 (2003) [article](https://dx.doi.org/10.1556/APH.18.2003.2-4.24)
 
-### 2002
-
-- R. M. Id Betan and R. J. Liotta and N. Sandulescu and T. Vertse  
-  _Two-particle resonant states in a many-body mean field_  
-  Phys. Rev. Lett. **89**, 042501 (2002) [article](https://dx.doi.org/10.1103/PhysRevLett.89.042501) [arXiv](https://arxiv.org/abs/nucl-th/0201077)
+### 2002 (first shell model in the Berggren basis or the Gamow shell model)
 
 - N. Michel, W. Nazarewicz, M. P&#322;oszajczak and K. Bennaceur  
   _Gamow shell model description of neutron-rich nuclei_  
   Phys. Rev. Lett. **89**, 042502 (2002) [article](https://dx.doi.org/10.1103/PhysRevLett.89.042502) [arXiv](https://arxiv.org/abs/nucl-th/0201073)
+
+- R. M. Id Betan and R. J. Liotta and N. Sandulescu and T. Vertse  
+  _Two-particle resonant states in a many-body mean field_  
+  Phys. Rev. Lett. **89**, 042501 (2002) [article](https://dx.doi.org/10.1103/PhysRevLett.89.042501) [arXiv](https://arxiv.org/abs/nucl-th/0201077)
 
 ### 1996
 - R. J. Liotta and E. Maglione and N. Sandulescu and T. Vertse  
