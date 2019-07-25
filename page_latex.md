@@ -1,7 +1,7 @@
 ---
 layout: default
 title: How-to tex files
-description: Notes on LaTeX
+description: Last update on July 25, 2019
 ---
 
 [back](./)

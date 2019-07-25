@@ -1,7 +1,7 @@
 ---
 layout: default
 title: How-to pdf
-description: Useful commands to manipulate pdf files
+description: Last update on July 25, 2019
 ---
 
 [back](./)

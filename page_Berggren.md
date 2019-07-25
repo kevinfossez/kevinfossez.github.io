@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Articles by T. Berggren and P. Lind
-description: 
+description: Last update on July 25, 2019
 mathjax: true
 ---
 
