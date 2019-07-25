@@ -389,14 +389,14 @@ mathjax: true
 
 ## ORCID links to some of the authors above (if found)
 
-[W. Nazzarewicz](https://orcid.org/0000-0002-8084-7425)
-[G. Hagen](https://orcid.org/0000-0001-6019-1687)
-[R. Id Betan](http://orcid.org/0000-0002-6813-3235)
-[Y. Jaganathen](https://orcid.org/0000-0003-3233-6185)
-[K. Fossez](https://orcid.org/0000-0002-5823-4446)
-[S. Wang](https://orcid.org/0000-0002-8902-6842)
-[J. Rotureau](https://orcid.org/0000-0003-1617-565X) (not completed)
-[M. Ploszajczak](https://orcid.org/0000-0001-5206-0273) (not completed)
+- [W. Nazzarewicz](https://orcid.org/0000-0002-8084-7425)
+- [G. Hagen](https://orcid.org/0000-0001-6019-1687)
+- [R. Id Betan](http://orcid.org/0000-0002-6813-3235)
+- [Y. Jaganathen](https://orcid.org/0000-0003-3233-6185)
+- [K. Fossez](https://orcid.org/0000-0002-5823-4446)
+- [S. Wang](https://orcid.org/0000-0002-8902-6842)
+- [J. Rotureau](https://orcid.org/0000-0003-1617-565X) (not completed)
+- [M. Ploszajczak](https://orcid.org/0000-0001-5206-0273) (not completed)
 
 
 
