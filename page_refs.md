@@ -353,6 +353,16 @@ mathjax: true
   _A representation to describe nuclear processes in the continuum_  
   Phys. Rev. B **367**, 1 (1996) [article](https://dx.doi.org/10.1016/0370-2693(95)01415-2)
 
+### 1994
+
+- P. Lind, R. J. Liotta, E. Maglione and T. Vertse  
+  _Resonant state expansions of the continuum_  
+  Z. Phys. A **347**, 231 (1994) [article](https://dx.doi.org/10.1007/BF01289789)  
+> Last (prescient) sentence in the article:
+>
+> -- _We consider this a proof that the set of single-particle states in the Berggren and Mittag-Leffler expansions can be used as representation in shell-model calculations where the continuum plays an important role._
+
+
 
 
 ## Atomic physics
