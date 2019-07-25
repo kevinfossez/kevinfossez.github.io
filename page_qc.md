@@ -20,7 +20,7 @@ description: Links and docs on quantum computing
 
 - P. Benioff  
   _The computer as a physical system: A microscopic quantum mechanical Hamiltonian model of computers as represented by Turing machines_  
-  Journal of Statistical Physics 22 (5), 563–591 (1980) [article](http://link.springer.com/article/10.1007%2FBF01011339)
+  Journal of Statistical Physics **22**, 563 (1980) [article](http://link.springer.com/article/10.1007%2FBF01011339)
 
 - Y. Manin  
   _Computable and uncomputable_ (_Вычислимое и невычислимое_)  
@@ -29,11 +29,11 @@ description: Links and docs on quantum computing
 
 - P. Benioff  
   _Quantum mechanical Hamiltonian models of discrete processes that erase their own histories: application to Turing machines_  
-  International Journal of Theoretical Physics 21 (3/4), 177–201 (1982) [article](http://link.springer.com/article/10.1007%2FBF01857725)
+  International Journal of Theoretical Physics **21**, 177 (1982) [article](http://link.springer.com/article/10.1007%2FBF01857725)
 
 - P. Benioff  
   _Quantum mechanical Hamiltonian models of Turing machines_  
-  Journal of Statistical Physics 29 (3), 515–546 (1982) [article](http://link.springer.com/article/10.1007%2FBF01342185)
+  Journal of Statistical Physics **29**, 515 (1982) [article](http://link.springer.com/article/10.1007%2FBF01342185)
 
 - R. Feynman  
   _Simulating physics with computers_  
