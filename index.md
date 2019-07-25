@@ -9,6 +9,7 @@ future: true
 ## General
 
 [My articles](./page_papers.html)
+List of [theoretical articles](./page_refs.html) where the Berggren basis was used.
 
 
 ## Useful notes
