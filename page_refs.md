@@ -362,8 +362,7 @@ mathjax: true
 >
 > -- _We consider this a proof that the set of single-particle states in the Berggren and Mittag-Leffler expansions can be used as representation in shell-model calculations where the continuum plays an important role._  
 
-
-  See articles by T. Berggren and P. Lind [link](./page_Berggren.html)
+  See articles by T. Berggren and P. Lind \[[link](./page_Berggren.html)\]
 
 
 
