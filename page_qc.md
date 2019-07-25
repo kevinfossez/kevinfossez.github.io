@@ -6,7 +6,7 @@ description: Links and docs on quantum computing
 
 [back](./)
 
-## R. Feynman lecture and Y. Manin book
+## R. Feynman suggestion
 
 - R. Feynman  
   _There's plenty of room at the bottom_  
