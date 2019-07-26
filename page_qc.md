@@ -68,13 +68,14 @@ description: Links and docs on quantum computing
   _The theory of variational hybrid quantum-classical algorithms_  
   New J. Phys. **18**, 023023 (2016) [article](https://doi.org/10.1088/1367-2630/18/2/023023) [arXiv](https://arxiv.org/abs/1509.04279)
 
+- P. J. J. O’Malley, R. Babbush, I. D. Kivlichan, J. Romero, J. R. McClean, R. Barends, J. Kelly, P. Roushan, A. Tranter, N. Ding, B. Campbell, Y. Chen, Z. Chen, B. Chiaro, A. Dunsworth, A. G. Fowler, E. Jeffrey, E. Lucero, A. Megrant, J. Y. Mutus, M. Neeley, C. Neill, C. Quintana, D. Sank, A. Vainsencher, J. Wenner, T. C. White, P. V. Coveney, P. J. Love, H. Neven, A. Aspuru-Guzik and J. M. Martinis5  
+  _Scalable Quantum Simulation of Molecular Energies_  
+  Phys. Rev. X **6**, 031007 (2016) [article](https://doi.org/10.1103/PhysRevX.6.031007) [arXiv](https://arxiv.org/abs/1512.06860)  
+
 - A. Peruzzo, J. McClean, P. Shadbolt, Man-Hong Yung, Xiao-Qi Zhou, P. J. Love, A. Aspuru-Guzik and J. L. O’Brien  
   _A variational eigenvalue solver on a photonic quantum processor_  
   Nature Communications **5**, 4213 (2014) [article](https://www.nature.com/articles/ncomms5213) [arXiv](https://arxiv.org/abs/1304.3061)
 
-- P. J. J. O’Malley, R. Babbush, I. D. Kivlichan, J. Romero, J. R. McClean, R. Barends, J. Kelly, P. Roushan, A. Tranter, N. Ding, B. Campbell, Y. Chen, Z. Chen, B. Chiaro, A. Dunsworth, A. G. Fowler, E. Jeffrey, E. Lucero, A. Megrant, J. Y. Mutus, M. Neeley, C. Neill, C. Quintana, D. Sank, A. Vainsencher, J. Wenner, T. C. White, P. V. Coveney, P. J. Love, H. Neven, A. Aspuru-Guzik and J. M. Martinis5  
-  _Scalable Quantum Simulation of Molecular Energies_  
-  Phys. Rev. X **6**, 031007 (2016) [article](https://doi.org/10.1103/PhysRevX.6.031007) [arXiv](https://arxiv.org/abs/1512.06860)
 
 
 
@@ -84,6 +85,8 @@ description: Links and docs on quantum computing
 
 - E. F. Dumitrescu, A. J. McCaskey, G. Hagen, G. R. Jansen, T. D. Morris, T. Papenbrock, R. C. Pooser, D. J. Dean, and P. Lougovski  
   _Cloud Quantum Computing of an Atomic Nucleus_  
-  Phys. Rev. Lett. **120**, 210501 (2018) [article](https://doi.org/10.1103/PhysRevLett.120.210501) -- [arXiv](https://arxiv.org/abs/1801.03897)
+  Phys. Rev. Lett. **120**, 210501 (2018) [article](https://doi.org/10.1103/PhysRevLett.120.210501) -- [arXiv](https://arxiv.org/abs/1801.03897)  
+  
+  For details see [link](./page_qc_art_2073.html).
 
 [back](./)
