@@ -183,7 +183,85 @@ $$
   0 \\
   1
   \end{pmatrix}
+  \right) \\
+  &\quad + d \left[
+	\begin{pmatrix}
+		0 & 0 & 0 & 1 \\
+		0 & 0 & 1 & 0 \\
+    0 & 1 & 0 & 0 \\
+    1 & 0 & 0 & 0 
+	\end{pmatrix}
+  \left(
+			\cos(\frac{\theta}{2})
+			\begin{pmatrix}
+			0 \\
+			0 \\
+			1 \\
+			0
+			\end{pmatrix}
+			\sin(\frac{\theta}{2})
+			\begin{pmatrix}
+			0 \\
+			1 \\
+			0 \\
+			0
+			\end{pmatrix}
   \right)
+	+
+	\begin{pmatrix}
+		0 & 0 & 0 & -1 \\
+		0 & 0 & 1 & 0 \\
+    0 & 1 & 0 & 0 \\
+    -1 & 0 & 0 & 0 
+	\end{pmatrix}
+  \left(
+			\cos(\frac{\theta}{2})
+			\begin{pmatrix}
+			0 \\
+			0 \\
+			1 \\
+			0
+			\end{pmatrix}
+			\sin(\frac{\theta}{2})
+			\begin{pmatrix}
+			0 \\
+			1 \\
+			0 \\
+			0
+			\end{pmatrix}
+  \right)
+  \right] \\
+	&= a \cos(\frac{\theta}{2}) \ket{10} + a \sin(\frac{\theta}{2}) \ket{01} -b \cos(\frac{\theta}{2}) \ket{10} + b \sin(\frac{\theta}{2}) \ket{01} + c \cos(\frac{\theta}{2}) \ket{10} -c \sin(\frac{\theta}{2}) \ket{01} \\
+	&\quad + d \cos(\frac{\theta}{2}) 
+	\begin{pmatrix}
+			0 \\
+			1 \\
+			0 \\
+			0
+	\end{pmatrix}
+  + d \sin(\frac{\theta}{2}) 
+	\begin{pmatrix}
+			0 \\
+			0 \\
+			1 \\
+			0
+	\end{pmatrix}
+  + d \cos(\frac{\theta}{2}) 
+	\begin{pmatrix}
+			0 \\
+			1 \\
+			0 \\
+			0
+	\end{pmatrix}
+  + d \sin(\frac{\theta}{2}) 
+	\begin{pmatrix}
+			0 \\
+			0 \\
+			1 \\
+			0
+	\end{pmatrix} \\
+	&= \left[ (a+b-c) \sin(\frac{\theta}{2}) + 2d \cos(\frac{\theta}{2}) \right] \ket{01} + \left[ (a-b+c) \cos(\frac{\theta}{2}) + 2d \sin(\frac{\theta}{2}) \right] \ket{10}
+
 \end{align}
 $$  
 One can then compute the average energy of the system as:  
