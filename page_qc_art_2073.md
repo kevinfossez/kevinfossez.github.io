@@ -154,7 +154,7 @@ $$
   1
   \end{pmatrix}
   \right) \\
-  &\quad + c \left( 
+  & + c \left( 
   \cos(\frac{\theta}{2}) 
   \begin{pmatrix}
   0 \\
@@ -169,8 +169,8 @@ $$
   1 \\
   0
   \end{pmatrix}
+	+ \sin(\frac{\theta}{2}) 
   \right)
-	%+ \sin(\frac{\theta}{2}) 
   %\begin{pmatrix}
   %1 \\
   %0
