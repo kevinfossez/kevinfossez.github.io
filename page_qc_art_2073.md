@@ -184,13 +184,13 @@ $$
   1
   \end{pmatrix}
   \right) \\
-  & + d \left[
+  & + d \left[ 
   \begin{pmatrix}
-  0 & 0 & 0 & 1 \\
-  0 & 0 & 1 & 0 \\
-  0 & 1 & 0 & 0 \\
-  1 & 0 & 0 & 0 
-  \end{pmatrix}
+		0 & 0 & 0 & 1 \\
+		0 & 0 & 1 & 0 \\
+    0 & 1 & 0 & 0 \\
+    1 & 0 & 0 & 0 
+	\end{pmatrix}
   \left]
 %  \left(
 %  \cos(\frac{\theta}{2})
@@ -262,12 +262,11 @@ $$
 %    0
 %  \end{pmatrix} \\
 %  &= \left[ (a+b-c) \sin(\frac{\theta}{2}) + 2d \cos(\frac{\theta}{2}) \right] \ket{01} + \left[ (a-b+c) \cos(\frac{\theta}{2}) + 2d \sin(\frac{\theta}{2}) \right] \ket{10}
-
 \end{align}
 $$  
 One can then compute the average energy of the system as:  
 
-test16
+test17
 
 
 
