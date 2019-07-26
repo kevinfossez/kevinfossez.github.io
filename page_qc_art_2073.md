@@ -40,7 +40,7 @@ The UCC ansatz was simplified in article to a $${ X }$$ gate the first qubit, a 
 $$
 \newcommand{\bra}[1]{\left<#1\right|}
 \newcommand{\ket}[1]{\left|#1\right>}
-\newcommand{\bk}[2]{\left<#1\middle|#2\right>}
+\newcommand{\bk}[2]{\left<#1|#2\right>}
 \begin{align}
 	\ket{\Psi({t}_{1})} &= X \ket{0} \otimes {R}_{y}(\theta) \ket{0} \\
 	&= 
