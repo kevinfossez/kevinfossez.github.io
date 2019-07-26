@@ -2,6 +2,7 @@
 layout: default
 title: How-to pdf
 description: Last update on July 25, 2019
+future: true
 ---
 
 [back](./)

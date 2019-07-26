@@ -2,6 +2,7 @@
 layout: default
 title: How-to bash
 description: Last update on July 25, 2019
+future: true
 ---
 
 [back](./)

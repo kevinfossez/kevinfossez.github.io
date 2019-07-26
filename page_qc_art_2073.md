@@ -2,6 +2,7 @@
 layout: default
 title: Quantum computing
 description: Details on E. F. Dumitrescu et al., Phys. Rev. Lett. 120, 210501 (2018)
+future: true
 ---
 
 [back](./)
@@ -259,7 +260,6 @@ $$
 			1 \\
 			0
 	\end{pmatrix} \\
-	&= \left[ (a+b-c) \sin(\frac{\theta}{2}) + 2d \cos(\frac{\theta}{2}) \right] \ket{01} + \left[ (a-b+c) \cos(\frac{\theta}{2}) + 2d \sin(\frac{\theta}{2}) \right] \ket{10}
 \end{align}
 $$  
 One can then compute the average energy of the system as:  

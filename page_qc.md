@@ -2,6 +2,7 @@
 layout: default
 title: Quantum computing
 description: Links and docs on quantum computing
+future: true
 ---
 
 [back](./)
