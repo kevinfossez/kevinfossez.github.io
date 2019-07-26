@@ -88,6 +88,5 @@ future: true
   _Cloud Quantum Computing of an Atomic Nucleus_  
   Phys. Rev. Lett. **120**, 210501 (2018) [article](https://doi.org/10.1103/PhysRevLett.120.210501) -- [arXiv](https://arxiv.org/abs/1801.03897)  
   
-  For details see [link](./page_qc_art_2073.html).
 
 [back](./)
