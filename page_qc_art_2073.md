@@ -41,8 +41,9 @@ $$
 \newcommand{\bra}[1]{\left<#1\right|}
 \newcommand{\ket}[1]{\left|#1\right>}
 \newcommand{\bk}[2]{\left<#1\middle|#2\right>}
-\begin{equation}
-	\ket{\Psi({t}_{1})} = X \ket{0} \otimes {R}_{y}(\theta) \ket{0} = 
+\begin{align}
+	\ket{\Psi({t}_{1})} &= X \ket{0} \otimes {R}_{y}(\theta) \ket{0} \\
+	&= 
 	\begin{pmatrix}
 		0 & 1 \\
 		1 & 0
@@ -59,16 +60,17 @@ $$
 	\begin{pmatrix}
 		1 \\
 		0
-	\end{pmatrix}
-  = \ket{1} \otimes \left( \cos(\frac{\theta}{2}) \ket{0} + \sin(\frac{\theta}{2}) \ket{1} \right) 
-  = \cos(\frac{\theta}{2}) \ket{10} + \sin(\frac{\theta}{2}) \ket{11}
-\end{equation}
+	\end{pmatrix}\\
+  &= \ket{1} \otimes \left( \cos(\frac{\theta}{2}) \ket{0} + \sin(\frac{\theta}{2}) \ket{1} \right) \\
+  &= \cos(\frac{\theta}{2}) \ket{10} + \sin(\frac{\theta}{2}) \ket{11}
+\end{align}
 $$
 and then after the two-quibit gate one has:
 $$
-\begin{equation}
-	\ket{\Psi({t}_{2})} = \text{CNOT}_{01} \ket{\Psi({t}_{1})}
-	\begin{pmatrix}
+\begin{align}
+	\ket{\Psi({t}_{2})} &= \text{CNOT}_{01} \ket{\Psi({t}_{1})} \\
+	&= 
+  \begin{pmatrix}
 		1 & 0 & 0 & 0 \\
 		0 & 0 & 0 & 1 \\
     0 & 0 & 1 & 0 \\
@@ -103,10 +105,163 @@ $$
 		1 \\
 		0 \\
 		0 
-	\end{pmatrix}
-  = \cos(\frac{\theta}{2}) \ket{10} + \sin(\frac{\theta}{2}) \ket{01}
+	\end{pmatrix}\\
+  &= \cos(\frac{\theta}{2}) \ket{10} + \sin(\frac{\theta}{2}) \ket{01}
+\end{align}
+$$
+
+The UCC ansatz wave function looks like a parametrized Bell state. Once the ansatz is set, one can apply the Hamiltonian derived in the article:
+
+$$
+\begin{equation}
+	{H}_{2} = a I + b {Z}_{0} + c {Z}_{1} + d ({X}_{0} {X}_{1} + {Y}_{0} {Y}_{1})
 \end{equation}
 $$
+where $${ a }$$, $${ b }$$, $${ c }$$, and $${ d }$$ are constants given by the problem (see article). The identity $${ I }$$ and the $${ Z }$$ gates are trivial while the two-qubit gates $${ XX }$$ and $${ YY }$$ need to be computed before. The final ansatz wave function is:
+
+$$
+\begin{align}
+ {H}_{2} \ket{\Psi({t}_{2})} &= a \left( \cos(\frac{\theta}{2}) \ket{10} + \sin(\frac{\theta}{2}) \ket{01} \right) \\
+ &\quad + b \left( 
+  \cos(\frac{\theta}{2}) 
+  \begin{pmatrix}
+		1 & 0 \\
+		0 & -1
+	\end{pmatrix}
+	\begin{pmatrix}
+		0 \\
+		1
+	\end{pmatrix}
+  \otimes
+  \begin{pmatrix}
+		1 \\
+		0
+	\end{pmatrix}
+  + \sin(\frac{\theta}{2}) 
+  \begin{pmatrix}
+		1 & 0 \\
+		0 & -1
+	\end{pmatrix}
+	\begin{pmatrix}
+		1 \\
+		0
+	\end{pmatrix}
+  \otimes
+  \begin{pmatrix}
+		0 \\
+		1
+	\end{pmatrix}
+ \right) \\
+ &\quad + c \left( 
+  \cos(\frac{\theta}{2}) 
+	\begin{pmatrix}
+		0 \\
+		1
+	\end{pmatrix}
+	\otimes
+  \begin{pmatrix}
+		1 & 0 \\
+		0 & -1
+	\end{pmatrix}
+	\begin{pmatrix}
+		1 \\
+		0
+	\end{pmatrix}
+  + \sin(\frac{\theta}{2}) 
+	\begin{pmatrix}
+		1 \\
+		0
+	\end{pmatrix}
+	\otimes
+  \begin{pmatrix}
+		1 & 0 \\
+		0 & -1
+	\end{pmatrix}
+	\begin{pmatrix}
+		0 \\
+		1
+	\end{pmatrix}
+  \right) \\
+  &\quad + d \left[
+	\begin{pmatrix}
+		0 & 0 & 0 & 1 \\
+		0 & 0 & 1 & 0 \\
+    0 & 1 & 0 & 0 \\
+    1 & 0 & 0 & 0 
+	\end{pmatrix}
+  \left(
+			\cos(\frac{\theta}{2})
+			\begin{pmatrix}
+			0 \\
+			0 \\
+			1 \\
+			0
+			\end{pmatrix}
+			\sin(\frac{\theta}{2})
+			\begin{pmatrix}
+			0 \\
+			1 \\
+			0 \\
+			0
+			\end{pmatrix}
+  \right)
+	+
+	\begin{pmatrix}
+		0 & 0 & 0 & -1 \\
+		0 & 0 & 1 & 0 \\
+    0 & 1 & 0 & 0 \\
+    -1 & 0 & 0 & 0 
+	\end{pmatrix}
+  \left(
+			\cos(\frac{\theta}{2})
+			\begin{pmatrix}
+			0 \\
+			0 \\
+			1 \\
+			0
+			\end{pmatrix}
+			\sin(\frac{\theta}{2})
+			\begin{pmatrix}
+			0 \\
+			1 \\
+			0 \\
+			0
+			\end{pmatrix}
+  \right)
+  \right] \\
+	&= a \cos(\frac{\theta}{2}) \ket{10} + a \sin(\frac{\theta}{2}) \ket{01} -b \cos(\frac{\theta}{2}) \ket{10} + b \sin(\frac{\theta}{2}) \ket{01} + c \cos(\frac{\theta}{2}) \ket{10} -c \sin(\frac{\theta}{2}) \ket{01} \\
+	&\quad + d \cos(\frac{\theta}{2}) 
+	\begin{pmatrix}
+			0 \\
+			1 \\
+			0 \\
+			0
+	\end{pmatrix}
+  + d \sin(\frac{\theta}{2}) 
+	\begin{pmatrix}
+			0 \\
+			0 \\
+			1 \\
+			0
+	\end{pmatrix}
+  + d \cos(\frac{\theta}{2}) 
+	\begin{pmatrix}
+			0 \\
+			1 \\
+			0 \\
+			0
+	\end{pmatrix}
+  + d \sin(\frac{\theta}{2}) 
+	\begin{pmatrix}
+			0 \\
+			0 \\
+			1 \\
+			0
+	\end{pmatrix} \\
+	&= \left[ (a+b-c) \sin(\frac{\theta}{2}) + 2d \cos(\frac{\theta}{2}) \right] \ket{01} + \left[ (a-b+c) \cos(\frac{\theta}{2}) + 2d \sin(\frac{\theta}{2}) \right] \ket{10}
+\end{align}
+$$
+
 
 
 
