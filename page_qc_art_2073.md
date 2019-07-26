@@ -144,17 +144,16 @@ $$
   1 & 0 \\
   0 & -1
   \end{pmatrix}
+  \begin{pmatrix}
+  1 \\
+  0
+  \end{pmatrix}
+  \otimes
+  \begin{pmatrix}
+  0 \\
+  1
+  \end{pmatrix}
   \right)
-  %\begin{pmatrix}
-  %1 \\
-  %0
-  %\end{pmatrix}
-  %\otimes
-  %\begin{pmatrix}
-  %0 \\
-  %1
-  %\end{pmatrix}
-  %\right)
 \end{align}
 $$  
 One can then compute the average energy of the system as:  
