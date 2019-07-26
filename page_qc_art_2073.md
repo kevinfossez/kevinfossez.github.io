@@ -144,10 +144,10 @@ $$
   1 & 0 \\
   0 & -1
   \end{pmatrix}
-  \begin{pmatrix}
-  1 \\
-  0
-  \end{pmatrix}
+  %\begin{pmatrix}
+  %1 \\
+  %0
+  %\end{pmatrix}
   %\otimes
   %\begin{pmatrix}
   %0 \\
@@ -158,7 +158,7 @@ $$
 $$  
 One can then compute the average energy of the system as:  
 
-test7
+test9
 
 
 
