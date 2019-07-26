@@ -264,12 +264,6 @@ $$
 $$  
 One can then compute the average energy of the system as:  
 
-$$
-\begin{align}
-  \bk{ \Psi({t}_{2}) }{ \Psi({t}_{2}) } &= a
-\begin{align}
-$$
-
 
 
 
