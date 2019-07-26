@@ -191,46 +191,47 @@ $$
     0 & 1 & 0 & 0 \\
     1 & 0 & 0 & 0 
   \end{pmatrix}
-  \left(
-  \cos(\frac{\theta}{2})
-  \begin{pmatrix}
-    0 \\
-    0 \\
-    1 \\
-    0
-  \end{pmatrix}
-  \sin(\frac{\theta}{2})
-  \begin{pmatrix}
-    0 \\
-    1 \\
-    0 \\
-    0
-  \end{pmatrix}
-  \right)
-  +
-  \begin{pmatrix}
-    0 & 0 & 0 & -1 \\
-    0 & 0 & 1 & 0 \\
-    0 & 1 & 0 & 0 \\
-    -1 & 0 & 0 & 0 
-  \end{pmatrix}
-  \left(
-  \cos(\frac{\theta}{2})
-  \begin{pmatrix}
-  0 \\
-  0 \\
-  1 \\
-  0
-  \end{pmatrix}
-  \sin(\frac{\theta}{2})
-  \begin{pmatrix}
-  0 \\
-  1 \\
-  0 \\
-  0
-  \end{pmatrix}
-  \right)
-  \right] \\
+  \left]
+%  \left(
+%  \cos(\frac{\theta}{2})
+%  \begin{pmatrix}
+%    0 \\
+%    0 \\
+%    1 \\
+%    0
+%  \end{pmatrix}
+%  \sin(\frac{\theta}{2})
+%  \begin{pmatrix}
+%    0 \\
+%    1 \\
+%    0 \\
+%    0
+%  \end{pmatrix}
+%  \right)
+%  +
+%  \begin{pmatrix}
+%    0 & 0 & 0 & -1 \\
+%    0 & 0 & 1 & 0 \\
+%    0 & 1 & 0 & 0 \\
+%    -1 & 0 & 0 & 0 
+%  \end{pmatrix}
+%  \left(
+%  \cos(\frac{\theta}{2})
+%  \begin{pmatrix}
+%  0 \\
+%  0 \\
+%  1 \\
+%  0
+%  \end{pmatrix}
+%  \sin(\frac{\theta}{2})
+%  \begin{pmatrix}
+%  0 \\
+%  1 \\
+%  0 \\
+%  0
+%  \end{pmatrix}
+%  \right)
+%  \right] \\
 %  &= a \cos(\frac{\theta}{2}) \ket{10} + a \sin(\frac{\theta}{2}) \ket{01} -b \cos(\frac{\theta}{2}) \ket{10} + b \sin(\frac{\theta}{2}) \ket{01} + c \cos(\frac{\theta}{2}) \ket{10} -c \sin(\frac{\theta}{2}) \ket{01} \\
 %  &\quad + d \cos(\frac{\theta}{2}) 
 %  \begin{pmatrix}
