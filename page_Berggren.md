@@ -103,4 +103,16 @@ mathjax: true
 - _Many-body open quantum systems: From atomic nuclei to quantum dots_ at the ECT\*, Trento, Italy, 2007; Talk on _40 years of the Berggren representation_ by T. Vertse [slides](https://kevinfossez.github.io/downloads/presentation_Vertse_Berggren_40years.pdf).
 
 
+## Retrospectively funny T. Berggren quote
+
+- T. Berggren  
+  _Resonance State Expansions in Nuclear Physics_  
+  _Resonances, The Unifying Route Towards the Formulation of Dynamical Processes. Foundations and Applications in Nuclear, Atomic, and Molecular Physics_. Proceedings of a Symposium held at Lertorpet, Värmland, Sweden, 1987. Edited by E. Brändas and N. Elander. Lecture Notes in Physics **325**. Berlin, Springer-Verlag, 1989, p.105 [article](https://doi.org/10.1007/3-540-50994-1_37)  
+>
+> The Next Generation: What More Can We Do?
+
+> The question in the title of this chapter is a suitable point for finishing this brief and incomplete review of resonance state expansions based on completeness. The situation is, I think, that we have a lot more to do in this field. My own activity here is, at present, very low. If there is still some interest in deep hole states in nuclei when I get time for them (they are highly excited, unbound, and decay via a kind of Auger process), then I would like to play with them for a while. Many intricate problems remain to be solved. There is an abundance of possible applications of resonance state expansions. The younger generation of physicists can just pick up a problem which appeals to their taste and work happily ever after.
+
+
+
 [back](./)
