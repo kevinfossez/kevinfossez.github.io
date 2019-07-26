@@ -35,7 +35,7 @@ description: Details on E. F. Dumitrescu et al., Phys. Rev. Lett. 120, 210501 
   Scientific Reports **4**, 3589 (2014) [article](https://doi.org/10.1038/srep03589)
 
 
-The UCC ansatz was simplified in article to a $${ X }$$ gate the first qubit, a rotation around the $${ y }$$ axis $${ {R}_{y}(\theta) = {e}^{-i \frac{\theta}{2} Y } }$$ on the second qubit, and the CNOT gate from 2 to 1 (also noted $${ \text{CNOT}_{01} }$$ instead of $${ \text{CNOT}_{10} }$$ for usual one). This results in th following wave function after the first operations:
+The UCC ansatz was simplified in article to a $${ X }$$ gate the first qubit, a rotation around the $${ y }$$ axis $${ {R}_{y}(\theta) = {e}^{-i \frac{\theta}{2} Y } }$$ on the second qubit, and the CNOT gate from 2 to 1 (also noted $${ \text{CNOT}_{01} }$$ instead of $${ \text{CNOT}_{10} }$$ for usual one). This results in the following wave function after the first operations:
 
 $$
 \newcommand{\bra}[1]{\left<#1\right|}
@@ -112,6 +112,7 @@ $$
 $$  
 
 The UCC ansatz wave function looks like a parametrized Bell state. Once the ansatz is set, one can apply the Hamiltonian derived in the article:  
+
 $$
 \begin{equation}
 	{H}_{2} = a I + b {Z}_{0} + c {Z}_{1} + d ({X}_{0} {X}_{1} + {Y}_{0} {Y}_{1})
@@ -260,6 +261,15 @@ $$
 	\end{pmatrix} \\
 	&= \left[ (a+b-c) \sin(\frac{\theta}{2}) + 2d \cos(\frac{\theta}{2}) \right] \ket{01} + \left[ (a-b+c) \cos(\frac{\theta}{2}) + 2d \sin(\frac{\theta}{2}) \right] \ket{10}
 \end{align}
+$$  
+One can then compute the average energy of the system as:  
+
+$$
+\begin{align}
+  \bk{ \Psi({t}_{2}) }{ \Psi({t}_{2}) } &= \left( \cos(\frac{\theta}{2}) \bra{10} + \sin(\frac{\theta}{2}) \bra{01} \right) \left( \left[ (a+b-c) \sin(\frac{\theta}{2}) + 2d \cos(\frac{\theta}{2}) \right] \ket{01} + \left[ (a-b+c) \cos(\frac{\theta}{2}) + 2d \sin(\frac{\theta}{2}) \right] \ket{10} \right) \\
+  &= \cos(\frac{\theta}{2}) \left( (a-b+c) \cos(\frac{\theta}{2}) + 2d \sin(\frac{\theta}{2}) \right) + \sin(\frac{\theta}{2}) \left( (a+b-c) \sin(\frac{\theta}{2}) + 2d \cos(\frac{\theta}{2}) \right) \\
+  &= a + (c-b) \left( { \cos(\frac{\theta}{2}) }^{2} - { \sin(\frac{\theta}{2}) }^{2} \right) + 4d \sin(\frac{\theta}{2}) \cos(\frac{\theta}{2})
+\begin{align}
 $$
 
 
