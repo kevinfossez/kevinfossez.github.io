@@ -184,21 +184,21 @@ $$
   1
   \end{pmatrix}
   \right) \\
-  &\quad + d \left[
+  & + d \left[
   \begin{pmatrix}
-    0 & 0 & 0 & 1 \\
-    0 & 0 & 1 & 0 \\
-    0 & 1 & 0 & 0 \\
-    1 & 0 & 0 & 0 
+  0 & 0 & 0 & 1 \\
+  0 & 0 & 1 & 0 \\
+  0 & 1 & 0 & 0 \\
+  1 & 0 & 0 & 0 
   \end{pmatrix}
   \left]
 %  \left(
 %  \cos(\frac{\theta}{2})
 %  \begin{pmatrix}
-%    0 \\
-%    0 \\
-%    1 \\
-%    0
+%  0 \\
+%  0 \\
+%  1 \\
+%  0
 %  \end{pmatrix}
 %  \sin(\frac{\theta}{2})
 %  \begin{pmatrix}
@@ -267,7 +267,7 @@ $$
 $$  
 One can then compute the average energy of the system as:  
 
-test14
+test15
 
 
 
