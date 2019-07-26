@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Quantum computing -- _Cloud Quantum Computing of an Atomic Nucleus_
-description: Details on E. F. Dumitrescu _et al._, Phys. Rev. Lett. **120**, 210501 (2018)
+title: Quantum computing
+description: Details on E. F. Dumitrescu et al., Phys. Rev. Lett. 120, 210501 (2018)
 ---
 
 [back](./)
@@ -38,6 +38,9 @@ description: Details on E. F. Dumitrescu _et al._, Phys. Rev. Lett. **120**, 2
 The UCC ansatz was simplified in article to a $${ X }$$ gate the first qubit, a rotation around the $${ y }$$ axis $${ {R}_{y}(\theta) = {e}^{-i \frac{\theta}{2} Y } }$$ on the second qubit, and the CNOT gate from 2 to 1 (also noted $${ \text{CNOT}_{01} }$$ instead of $${ \text{CNOT}_{10} }$$ for usual one). This results in th following wave function after the first operations:
 
 $$
+\newcommand{\bra}[1]{\left<#1\right|}
+\newcommand{\ket}[1]{\left|#1\right>}
+\newcommand{\bk}[2]{\left<#1\middle|#2\right>}
 \begin{equation}
 	\ket{\Psi({t}_{1})} = X \ket{0} \otimes {R}_{y}(\theta) \ket{0} = 
 	\begin{pmatrix}
