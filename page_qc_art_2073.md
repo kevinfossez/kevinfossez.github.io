@@ -174,17 +174,16 @@ $$
   1 \\
   0
   \end{pmatrix}
+  \otimes
+  \begin{pmatrix}
+  1 & 0 \\
+  0 & -1
+  \end{pmatrix}
+  \begin{pmatrix}
+  0 \\
+  1
+  \end{pmatrix}
   \right)
-  %\otimes
-  %\begin{pmatrix}
-  %1 & 0 \\
-  %0 & -1
-  %\end{pmatrix}
-  %\begin{pmatrix}
-  %0 \\
-  %1
-  %\end{pmatrix}
-  %\right)
 \end{align}
 $$  
 One can then compute the average energy of the system as:  
