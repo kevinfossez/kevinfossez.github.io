@@ -139,7 +139,8 @@ $$
   1 \\
   0
   \end{pmatrix}
-  + \sin(\frac{\theta}{2}) 
+	+ \sin(\frac{\theta}{2}) 
+  \right)
   %\begin{pmatrix}
   %1 & 0 \\
   %0 & -1
@@ -153,12 +154,12 @@ $$
   %0 \\
   %1
   %\end{pmatrix}
-  \right)
+  %\right)
 \end{align}
 $$  
 One can then compute the average energy of the system as:  
 
-test11
+test12
 
 
 
