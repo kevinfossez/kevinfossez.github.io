@@ -127,38 +127,38 @@ $$
   &+ b \left( 
   \cos(\frac{\theta}{2}) 
   \begin{pmatrix}
-    1 & 0 \\
-    0 & -1
+  1 & 0 \\
+  0 & -1
   \end{pmatrix}
   \begin{pmatrix}
-    0 \\
-    1
+  0 \\
+  1
   \end{pmatrix}
   \otimes
   \begin{pmatrix}
-    1 \\
-    0
+  1 \\
+  0
   \end{pmatrix}
   + \sin(\frac{\theta}{2}) 
   \begin{pmatrix}
-    1 & 0 \\
-    0 & -1
+  1 & 0 \\
+  0 & -1
   \end{pmatrix}
   \begin{pmatrix}
-    1 \\
-    0
+  1 \\
+  0
   \end{pmatrix}
   \otimes
   \begin{pmatrix}
-    0 \\
-    1
+  0 \\
+  1
   \end{pmatrix}
   \right)
-  \end{align}
+\end{align}
 $$  
 One can then compute the average energy of the system as:  
 
-test3
+test4
 
 
 
