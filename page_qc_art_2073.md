@@ -92,8 +92,8 @@ $$
 		0 \\
 		1 
 	\end{pmatrix}
-	\right] = 
-  \cos(\frac{\theta}{2})
+	\right] \\
+	= \cos(\frac{\theta}{2})
 	\begin{pmatrix}
 		0 \\
 		0 \\
