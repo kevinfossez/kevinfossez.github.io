@@ -64,8 +64,9 @@ $$
   &= \ket{1} \otimes \left( \cos(\frac{\theta}{2}) \ket{0} + \sin(\frac{\theta}{2}) \ket{1} \right) \\
   &= \cos(\frac{\theta}{2}) \ket{10} + \sin(\frac{\theta}{2}) \ket{11}
 \end{align}
-$$
-and then after the two-quibit gate one has:
+$$  
+and then after the two-quibit gate one has:  
+
 $$
 \begin{align}
 	\ket{\Psi({t}_{2})} &= \text{CNOT}_{01} \ket{\Psi({t}_{1})} \\
@@ -108,16 +109,15 @@ $$
 	\end{pmatrix}\\
   &= \cos(\frac{\theta}{2}) \ket{10} + \sin(\frac{\theta}{2}) \ket{01}
 \end{align}
-$$
+$$  
 
-The UCC ansatz wave function looks like a parametrized Bell state. Once the ansatz is set, one can apply the Hamiltonian derived in the article:
-
+The UCC ansatz wave function looks like a parametrized Bell state. Once the ansatz is set, one can apply the Hamiltonian derived in the article:  
 $$
 \begin{equation}
 	{H}_{2} = a I + b {Z}_{0} + c {Z}_{1} + d ({X}_{0} {X}_{1} + {Y}_{0} {Y}_{1})
 \end{equation}
-$$
-where $${ a }$$, $${ b }$$, $${ c }$$, and $${ d }$$ are constants given by the problem (see article). The identity $${ I }$$ and the $${ Z }$$ gates are trivial while the two-qubit gates $${ XX }$$ and $${ YY }$$ need to be computed before. The final ansatz wave function is:
+$$  
+where $${ a }$$, $${ b }$$, $${ c }$$, and $${ d }$$ are constants given by the problem (see article). The identity $${ I }$$ and the $${ Z }$$ gates are trivial while the two-qubit gates $${ XX }$$ and $${ YY }$$ need to be computed before. The final ansatz wave function is:  
 
 $$
 \begin{align}
