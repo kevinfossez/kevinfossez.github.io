@@ -124,7 +124,7 @@ where $${ a }$$, $${ b }$$, $${ c }$$, and $${ d }$$ are constants given by the 
 $$
 \begin{align}
   {H}_{2} \ket{\Psi({t}_{2})} &= a \left( \cos(\frac{\theta}{2}) \ket{10} + \sin(\frac{\theta}{2}) \ket{01} \right) \\
-  &\quad + b \left( 
+  &+ b \left( 
   \cos(\frac{\theta}{2}) 
   \begin{pmatrix}
   1 & 0 \\
@@ -159,7 +159,7 @@ $$
 $$  
 One can then compute the average energy of the system as:  
 
-test0
+test1
 
 
 
