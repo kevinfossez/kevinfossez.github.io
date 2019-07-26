@@ -124,6 +124,36 @@ where $${ a }$$, $${ b }$$, $${ c }$$, and $${ d }$$ are constants given by the 
 $$
 \begin{align}
   {H}_{2} \ket{\Psi({t}_{2})} &= a \left( \cos(\frac{\theta}{2}) \ket{10} + \sin(\frac{\theta}{2}) \ket{01} \right) \\
+  &\quad + b \left( 
+  \cos(\frac{\theta}{2}) 
+  \begin{pmatrix}
+  	1 & 0 \\
+  	0 & -1
+  \end{pmatrix}
+  \begin{pmatrix}
+  	0 \\
+  	1
+  \end{pmatrix}
+  \otimes
+  \begin{pmatrix}
+  	1 \\
+  	0
+  \end{pmatrix}
+  + \sin(\frac{\theta}{2}) 
+  \begin{pmatrix}
+  	1 & 0 \\
+  	0 & -1
+  \end{pmatrix}
+  \begin{pmatrix}
+  	1 \\
+  	0
+  \end{pmatrix}
+  \otimes
+  \begin{pmatrix}
+  	0 \\
+  	1
+  \end{pmatrix}
+  \right) \\
   &= a
 \end{align}
 $$  
