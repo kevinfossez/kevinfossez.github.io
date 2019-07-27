@@ -119,7 +119,165 @@ $$
 	{H}_{2} = a I + b {Z}_{0} + c {Z}_{1} + d ({X}_{0} {X}_{1} + {Y}_{0} {Y}_{1})
 \end{equation}
 $$  
-where $${ a }$$, $${ b }$$, $${ c }$$, and $${ d }$$ are constants given by the problem (see article). The identity $${ I }$$ and the $${ Z }$$ gates are trivial while the two-qubit gates $${ XX }$$ and $${ YY }$$ need to be computed before. The final ansatz wave function is:  
+where $${ a }$$, $${ b }$$, $${ c }$$, and $${ d }$$ are constants given by the problem (see article). The identity $${ I }$$ and the $${ Z }$$ gates are trivial while the two-qubit gates $${ XX }$$ and $${ YY }$$ need to be computed before. The effect of each term of the Hamiltonian on the wave function is:  
+
+
+$$
+\begin{align}
+  {Z}_{0} \ket{\Psi({t}_{2})} 
+  &= b \left( 
+  \cos(\frac{\theta}{2}) 
+  \begin{pmatrix}
+  1 & 0 \\
+  0 & -1
+  \end{pmatrix}
+  \begin{pmatrix}
+  0 \\
+  1
+  \end{pmatrix}
+  \otimes
+  \begin{pmatrix}
+  1 \\
+  0
+  \end{pmatrix}
+	+ \sin(\frac{\theta}{2}) 
+  \begin{pmatrix}
+  1 & 0 \\
+  0 & -1
+  \end{pmatrix}
+  \begin{pmatrix}
+  1 \\
+  0
+  \end{pmatrix}
+  \otimes
+  \begin{pmatrix}
+  0 \\
+  1
+  \end{pmatrix}
+  \right)
+\end{align}
+$$
+
+$$
+\begin{align}
+  {Z}_{1} \ket{\Psi({t}_{2})} 
+  &= c \left( 
+  \cos(\frac{\theta}{2}) 
+  \begin{pmatrix}
+  0 \\
+  1
+  \end{pmatrix}
+  \otimes
+  \begin{pmatrix}
+  1 & 0 \\
+  0 & -1
+  \end{pmatrix}
+  \begin{pmatrix}
+  1 \\
+  0
+  \end{pmatrix}
+	+ \sin(\frac{\theta}{2}) 
+  \begin{pmatrix}
+  1 \\
+  0
+  \end{pmatrix}
+  \otimes
+  \begin{pmatrix}
+  1 & 0 \\
+  0 & -1
+  \end{pmatrix}
+  \begin{pmatrix}
+  0 \\
+  1
+  \end{pmatrix}
+  \right)
+\end{align}
+$$
+
+$$
+\begin{align}
+  {X}_{0} {X}_{1} \ket{\Psi({t}_{2})} 
+  &= d \left[ 
+  \begin{pmatrix}
+		0 & 0 & 0 & 1 \\
+		0 & 0 & 1 & 0 \\
+    0 & 1 & 0 & 0 \\
+    1 & 0 & 0 & 0 
+	\end{pmatrix}
+  \left]
+%  \left(
+%  \cos(\frac{\theta}{2})
+%  \begin{pmatrix}
+%  0 \\
+%  0 \\
+%  1 \\
+%  0
+%  \end{pmatrix}
+%  \sin(\frac{\theta}{2})
+%  \begin{pmatrix}
+%    0 \\
+%    1 \\
+%    0 \\
+%    0
+%  \end{pmatrix}
+%  \right)
+%  +
+%  \begin{pmatrix}
+%    0 & 0 & 0 & -1 \\
+%    0 & 0 & 1 & 0 \\
+%    0 & 1 & 0 & 0 \\
+%    -1 & 0 & 0 & 0 
+%  \end{pmatrix}
+%  \left(
+%  \cos(\frac{\theta}{2})
+%  \begin{pmatrix}
+%  0 \\
+%  0 \\
+%  1 \\
+%  0
+%  \end{pmatrix}
+%  \sin(\frac{\theta}{2})
+%  \begin{pmatrix}
+%  0 \\
+%  1 \\
+%  0 \\
+%  0
+%  \end{pmatrix}
+%  \right)
+%  \right] \\
+%  &= a \cos(\frac{\theta}{2}) \ket{10} + a \sin(\frac{\theta}{2}) \ket{01} -b \cos(\frac{\theta}{2}) \ket{10} + b \sin(\frac{\theta}{2}) \ket{01} + c \cos(\frac{\theta}{2}) \ket{10} -c \sin(\frac{\theta}{2}) \ket{01} \\
+%  &\quad + d \cos(\frac{\theta}{2}) 
+%  \begin{pmatrix}
+%    0 \\
+%    1 \\
+%    0 \\
+%    0
+%  \end{pmatrix}
+%  + d \sin(\frac{\theta}{2}) 
+%  \begin{pmatrix}
+%    0 \\
+%    0 \\
+%    1 \\
+%    0
+%  \end{pmatrix}
+%  + d \cos(\frac{\theta}{2}) 
+%  \begin{pmatrix}
+%    0 \\
+%    1 \\
+%    0 \\
+%    0
+%  \end{pmatrix}
+%  + d \sin(\frac{\theta}{2}) 
+%  \begin{pmatrix}
+%    0 \\
+%    0 \\
+%    1 \\
+%    0
+%  \end{pmatrix} \\
+%  &= \left[ (a+b-c) \sin(\frac{\theta}{2}) + 2d \cos(\frac{\theta}{2}) \right] \ket{01} + \left[ (a-b+c) \cos(\frac{\theta}{2}) + 2d \sin(\frac{\theta}{2}) \right] \ket{10}
+\end{align}
+$$  
+
 
 $$
 \begin{align}
