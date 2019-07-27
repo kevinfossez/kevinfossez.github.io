@@ -198,7 +198,7 @@ $$
 
 $$
 \begin{align}
-  {X}_{0} {X}_{1} \ket{\Psi({t}_{2})} 
+  d ({X}_{0} {X}_{1} + {Y}_{0} {Y}_{1}) \ket{\Psi({t}_{2})} 
   &= d \left[ 
   \begin{pmatrix}
 		0 & 0 & 0 & 1 \\
@@ -246,7 +246,13 @@ $$
   0
   \end{pmatrix}
   \right)
-  \right] \\
+  \right]
+\end{align}
+$$  
+
+$$
+\begin{align}
+  d ({X}_{0} {X}_{1} + {Y}_{0} {Y}_{1}) \ket{\Psi({t}_{2})} 
   &= d \cos(\frac{\theta}{2}) 
   \begin{pmatrix}
     0 \\
@@ -274,9 +280,10 @@ $$
     0 \\
     1 \\
     0
-  \end{pmatrix} \\
+  \end{pmatrix}
 \end{align}
 $$  
+
 
 
 
