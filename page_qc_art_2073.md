@@ -206,7 +206,6 @@ $$
     0 & 1 & 0 & 0 \\
     1 & 0 & 0 & 0 
 	\end{pmatrix}
-  \left]
   \left(
   \cos(\frac{\theta}{2})
   \begin{pmatrix}
