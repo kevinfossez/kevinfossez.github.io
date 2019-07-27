@@ -124,7 +124,7 @@ where $${ a }$$, $${ b }$$, $${ c }$$, and $${ d }$$ are constants given by the 
 
 $$
 \begin{align}
-  {Z}_{0} \ket{\Psi({t}_{2})} 
+  b {Z}_{0} \ket{\Psi({t}_{2})} 
   &= b \left( 
   \cos(\frac{\theta}{2}) 
   \begin{pmatrix}
@@ -154,13 +154,14 @@ $$
   0 \\
   1
   \end{pmatrix}
-  \right)
+  \right) \\
+  &= -b \cos(\frac{\theta}{2}) \ket{10} + b \sin(\frac{\theta}{2}) \ket{01}
 \end{align}
 $$
 
 $$
 \begin{align}
-  {Z}_{1} \ket{\Psi({t}_{2})} 
+  c {Z}_{1} \ket{\Psi({t}_{2})} 
   &= c \left( 
   \cos(\frac{\theta}{2}) 
   \begin{pmatrix}
@@ -190,7 +191,8 @@ $$
   0 \\
   1
   \end{pmatrix}
-  \right)
+  \right) \\
+  &= c \cos(\frac{\theta}{2}) \ket{10} -c \sin(\frac{\theta}{2}) \ket{01}
 \end{align}
 $$
 
@@ -205,224 +207,87 @@ $$
     1 & 0 & 0 & 0 
 	\end{pmatrix}
   \left]
-%  \left(
-%  \cos(\frac{\theta}{2})
-%  \begin{pmatrix}
-%  0 \\
-%  0 \\
-%  1 \\
-%  0
-%  \end{pmatrix}
-%  \sin(\frac{\theta}{2})
-%  \begin{pmatrix}
-%    0 \\
-%    1 \\
-%    0 \\
-%    0
-%  \end{pmatrix}
-%  \right)
-%  +
-%  \begin{pmatrix}
-%    0 & 0 & 0 & -1 \\
-%    0 & 0 & 1 & 0 \\
-%    0 & 1 & 0 & 0 \\
-%    -1 & 0 & 0 & 0 
-%  \end{pmatrix}
-%  \left(
-%  \cos(\frac{\theta}{2})
-%  \begin{pmatrix}
-%  0 \\
-%  0 \\
-%  1 \\
-%  0
-%  \end{pmatrix}
-%  \sin(\frac{\theta}{2})
-%  \begin{pmatrix}
-%  0 \\
-%  1 \\
-%  0 \\
-%  0
-%  \end{pmatrix}
-%  \right)
-%  \right] \\
-%  &= a \cos(\frac{\theta}{2}) \ket{10} + a \sin(\frac{\theta}{2}) \ket{01} -b \cos(\frac{\theta}{2}) \ket{10} + b \sin(\frac{\theta}{2}) \ket{01} + c \cos(\frac{\theta}{2}) \ket{10} -c \sin(\frac{\theta}{2}) \ket{01} \\
-%  &\quad + d \cos(\frac{\theta}{2}) 
-%  \begin{pmatrix}
-%    0 \\
-%    1 \\
-%    0 \\
-%    0
-%  \end{pmatrix}
-%  + d \sin(\frac{\theta}{2}) 
-%  \begin{pmatrix}
-%    0 \\
-%    0 \\
-%    1 \\
-%    0
-%  \end{pmatrix}
-%  + d \cos(\frac{\theta}{2}) 
-%  \begin{pmatrix}
-%    0 \\
-%    1 \\
-%    0 \\
-%    0
-%  \end{pmatrix}
-%  + d \sin(\frac{\theta}{2}) 
-%  \begin{pmatrix}
-%    0 \\
-%    0 \\
-%    1 \\
-%    0
-%  \end{pmatrix} \\
-%  &= \left[ (a+b-c) \sin(\frac{\theta}{2}) + 2d \cos(\frac{\theta}{2}) \right] \ket{01} + \left[ (a-b+c) \cos(\frac{\theta}{2}) + 2d \sin(\frac{\theta}{2}) \right] \ket{10}
+  \left(
+  \cos(\frac{\theta}{2})
+  \begin{pmatrix}
+  0 \\
+  0 \\
+  1 \\
+  0
+  \end{pmatrix}
+  \sin(\frac{\theta}{2})
+  \begin{pmatrix}
+    0 \\
+    1 \\
+    0 \\
+    0
+  \end{pmatrix}
+  \right)
+  +
+  \begin{pmatrix}
+    0 & 0 & 0 & -1 \\
+    0 & 0 & 1 & 0 \\
+    0 & 1 & 0 & 0 \\
+    -1 & 0 & 0 & 0 
+  \end{pmatrix}
+  \left(
+  \cos(\frac{\theta}{2})
+  \begin{pmatrix}
+  0 \\
+  0 \\
+  1 \\
+  0
+  \end{pmatrix}
+  \sin(\frac{\theta}{2})
+  \begin{pmatrix}
+  0 \\
+  1 \\
+  0 \\
+  0
+  \end{pmatrix}
+  \right)
+  \right] \\
+  &= d \cos(\frac{\theta}{2}) 
+  \begin{pmatrix}
+    0 \\
+    1 \\
+    0 \\
+    0
+  \end{pmatrix}
+  + d \sin(\frac{\theta}{2}) 
+  \begin{pmatrix}
+    0 \\
+    0 \\
+    1 \\
+    0
+  \end{pmatrix}
+  + d \cos(\frac{\theta}{2}) 
+  \begin{pmatrix}
+    0 \\
+    1 \\
+    0 \\
+    0
+  \end{pmatrix}
+  + d \sin(\frac{\theta}{2}) 
+  \begin{pmatrix}
+    0 \\
+    0 \\
+    1 \\
+    0
+  \end{pmatrix} \\
 \end{align}
 $$  
 
+
+
+
+One can then compute the average energy of the system as:  
 
 $$
-\begin{align}
-  {H}_{2} \ket{\Psi({t}_{2})} &= a \left( \cos(\frac{\theta}{2}) \ket{10} + \sin(\frac{\theta}{2}) \ket{01} \right) \\
-  &+ b \left( 
-  \cos(\frac{\theta}{2}) 
-  \begin{pmatrix}
-  1 & 0 \\
-  0 & -1
-  \end{pmatrix}
-  \begin{pmatrix}
-  0 \\
-  1
-  \end{pmatrix}
-  \otimes
-  \begin{pmatrix}
-  1 \\
-  0
-  \end{pmatrix}
-	+ \sin(\frac{\theta}{2}) 
-  \begin{pmatrix}
-  1 & 0 \\
-  0 & -1
-  \end{pmatrix}
-  \begin{pmatrix}
-  1 \\
-  0
-  \end{pmatrix}
-  \otimes
-  \begin{pmatrix}
-  0 \\
-  1
-  \end{pmatrix}
-  \right) \\
-  & + c \left( 
-  \cos(\frac{\theta}{2}) 
-  \begin{pmatrix}
-  0 \\
-  1
-  \end{pmatrix}
-  \otimes
-  \begin{pmatrix}
-  1 & 0 \\
-  0 & -1
-  \end{pmatrix}
-  \begin{pmatrix}
-  1 \\
-  0
-  \end{pmatrix}
-	+ \sin(\frac{\theta}{2}) 
-  \begin{pmatrix}
-  1 \\
-  0
-  \end{pmatrix}
-  \otimes
-  \begin{pmatrix}
-  1 & 0 \\
-  0 & -1
-  \end{pmatrix}
-  \begin{pmatrix}
-  0 \\
-  1
-  \end{pmatrix}
-  \right) \\
-  & + d \left[ 
-  \begin{pmatrix}
-		0 & 0 & 0 & 1 \\
-		0 & 0 & 1 & 0 \\
-    0 & 1 & 0 & 0 \\
-    1 & 0 & 0 & 0 
-	\end{pmatrix}
-  \left]
-%  \left(
-%  \cos(\frac{\theta}{2})
-%  \begin{pmatrix}
-%  0 \\
-%  0 \\
-%  1 \\
-%  0
-%  \end{pmatrix}
-%  \sin(\frac{\theta}{2})
-%  \begin{pmatrix}
-%    0 \\
-%    1 \\
-%    0 \\
-%    0
-%  \end{pmatrix}
-%  \right)
-%  +
-%  \begin{pmatrix}
-%    0 & 0 & 0 & -1 \\
-%    0 & 0 & 1 & 0 \\
-%    0 & 1 & 0 & 0 \\
-%    -1 & 0 & 0 & 0 
-%  \end{pmatrix}
-%  \left(
-%  \cos(\frac{\theta}{2})
-%  \begin{pmatrix}
-%  0 \\
-%  0 \\
-%  1 \\
-%  0
-%  \end{pmatrix}
-%  \sin(\frac{\theta}{2})
-%  \begin{pmatrix}
-%  0 \\
-%  1 \\
-%  0 \\
-%  0
-%  \end{pmatrix}
-%  \right)
-%  \right] \\
-%  &= a \cos(\frac{\theta}{2}) \ket{10} + a \sin(\frac{\theta}{2}) \ket{01} -b \cos(\frac{\theta}{2}) \ket{10} + b \sin(\frac{\theta}{2}) \ket{01} + c \cos(\frac{\theta}{2}) \ket{10} -c \sin(\frac{\theta}{2}) \ket{01} \\
-%  &\quad + d \cos(\frac{\theta}{2}) 
-%  \begin{pmatrix}
-%    0 \\
-%    1 \\
-%    0 \\
-%    0
-%  \end{pmatrix}
-%  + d \sin(\frac{\theta}{2}) 
-%  \begin{pmatrix}
-%    0 \\
-%    0 \\
-%    1 \\
-%    0
-%  \end{pmatrix}
-%  + d \cos(\frac{\theta}{2}) 
-%  \begin{pmatrix}
-%    0 \\
-%    1 \\
-%    0 \\
-%    0
-%  \end{pmatrix}
-%  + d \sin(\frac{\theta}{2}) 
-%  \begin{pmatrix}
-%    0 \\
-%    0 \\
-%    1 \\
-%    0
-%  \end{pmatrix} \\
-%  &= \left[ (a+b-c) \sin(\frac{\theta}{2}) + 2d \cos(\frac{\theta}{2}) \right] \ket{01} + \left[ (a-b+c) \cos(\frac{\theta}{2}) + 2d \sin(\frac{\theta}{2}) \right] \ket{10}
-\end{align}
-$$  
-One can then compute the average energy of the system as:  
+\begin{equation}
+  = \left[ (a+b-c) \sin(\frac{\theta}{2}) + 2d \cos(\frac{\theta}{2}) \right] \ket{01} + \left[ (a-b+c) \cos(\frac{\theta}{2}) + 2d \sin(\frac{\theta}{2}) \right] \ket{10}
+\end{equation}
+$$
 
 test18
 
