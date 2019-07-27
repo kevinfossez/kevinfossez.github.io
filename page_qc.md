@@ -87,6 +87,8 @@ future: true
 - E. F. Dumitrescu, A. J. McCaskey, G. Hagen, G. R. Jansen, T. D. Morris, T. Papenbrock, R. C. Pooser, D. J. Dean, and P. Lougovski  
   _Cloud Quantum Computing of an Atomic Nucleus_  
   Phys. Rev. Lett. **120**, 210501 (2018) [article](https://doi.org/10.1103/PhysRevLett.120.210501) -- [arXiv](https://arxiv.org/abs/1801.03897)  
+
+  See details of the method at [link](./page_qc_pn.html)
   
 
 [back](./)
