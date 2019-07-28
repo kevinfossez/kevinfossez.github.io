@@ -91,4 +91,9 @@ future: true
   See details of the method at [link](./page_qc_pn.html)
   
 
+# Misc
+
+[quantum gates](./page_qc_gates.html)
+
+
 [back](./)
