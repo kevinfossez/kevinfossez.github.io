@@ -39,8 +39,16 @@ ps2pdf f.ps
 ## Convert an epub file into a pdf file
 
 ```bash
-ebook-convert truc.epub truc.pdf
+ebook-convert foo.epub foo.pdf
 ```
+
+With more options for a better output:
+
+```bash
+ebook-convert foo.epub foo.pdf --margin-bottom "75" --margin-top "75" --margin-left "75" --margin-right "75" --pdf-serif-family "Calibri" --pdf-sans-family "Calibri" --base-font-size "14" --pdf-mono-font-size "12" --paper-size "a4" --change-justification "justify"
+```
+
+
 
 ## Convert a svg file into a pdf file
 

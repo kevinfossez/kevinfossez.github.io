@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Quantum computing: deuteron
+title: Quantum computing -- deuteron
 description: Details on E. F. Dumitrescu et al., Phys. Rev. Lett. 120, 210501 (2018)
 future: true
 ---
