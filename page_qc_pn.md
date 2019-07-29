@@ -113,7 +113,12 @@ $$
 \end{align}
 $$  
 
-The UCC ansatz wave function looks like a parametrized Bell state. Once the ansatz is set, one can apply the Hamiltonian derived in the article:  
+The UCC ansatz wave function looks like a parametrized Bell state. 
+
+
+## Hamiltonian on two qubits
+
+Once the ansatz is set, one can apply the Hamiltonian derived in the article:
 
 $$
 \begin{equation}
