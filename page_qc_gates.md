@@ -85,21 +85,21 @@ $$
     0 \\
     0 \\
     0 
-  \end{pmatrix}, \qquad 
+  \end{pmatrix}, \quad 
   \ket{01} = 
   \begin{pmatrix}
     0 \\
     1 \\
     0 \\
     0 
-  \end{pmatrix}, \qquad 
+  \end{pmatrix}, \quad 
   \ket{10} = 
   \begin{pmatrix}
     0 \\
     0 \\
     1 \\
     0 
-  \end{pmatrix}, \qquad 
+  \end{pmatrix}, \quad 
   \ket{11} = 
   \begin{pmatrix}
     0 \\
@@ -116,22 +116,22 @@ $$
 The CNOT gate from 1 to 2 is denoted $${ \text{CNOT}_{10} }$$ while the CNOT gate from 2 to 1 is denoted $${ \text{CNOT}_{01} }$$:
 
 $$
-\begin{align}
-  & \text{CNOT}_{10} =  
+\begin{equation}
+  \text{CNOT}_{10} =  
   \begin{pmatrix}
 		1 & 0 & 0 & 0 \\
 		0 & 1 & 0 & 0 \\
     0 & 0 & 0 & 1 \\
     0 & 0 & 1 & 0 
-  \end{pmatrix} \\
-  & \text{CNOT}_{01} =  
+  \end{pmatrix}, \quad 
+  \text{CNOT}_{01} =  
   \begin{pmatrix}
 		1 & 0 & 0 & 0 \\
 		0 & 0 & 0 & 1 \\
     0 & 0 & 1 & 0 \\
     0 & 1 & 0 & 0 
 	\end{pmatrix}
-  \end{align}
+  \end{equation}
 $$  
 
   
