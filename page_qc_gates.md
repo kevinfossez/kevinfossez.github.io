@@ -78,36 +78,36 @@ The two-qubit states can also be represented as matrices:
 $$
 \newcommand{\bra}[1]{\left<#1\right|}
 \newcommand{\ket}[1]{\left|#1\right>}
-\begin{align}
-  & \ket{00} = 
+\begin{equation}
+  \ket{00} = 
   \begin{pmatrix}
     1 \\
     0 \\
     0 \\
     0 
-  \end{pmatrix} \\
-  & \ket{01} = 
+  \end{pmatrix}, \qquad 
+  \ket{01} = 
   \begin{pmatrix}
     0 \\
     1 \\
     0 \\
     0 
-  \end{pmatrix} \\
-  & \ket{10} = 
+  \end{pmatrix}, \qquad 
+  \ket{10} = 
   \begin{pmatrix}
     0 \\
     0 \\
     1 \\
     0 
-  \end{pmatrix} \\
-  & \ket{11} = 
+  \end{pmatrix}, \qquad 
+  \ket{11} = 
   \begin{pmatrix}
     0 \\
     0 \\
     0 \\
     1 
   \end{pmatrix}
-\end{align}
+\end{equation}
 $$  
 
 
