@@ -46,6 +46,8 @@ $$
 The identity matrix is trivially:
 
 $$
+\newcommand{\bra}[1]{\left<#1\right|}
+\newcommand{\ket}[1]{\left|#1\right>}
 \begin{equation}
   I =  
   \begin{pmatrix}
@@ -61,6 +63,8 @@ $$
 Pauli matrices are the building blocks for all operations acting on spins $${ 1/2 }$$ and so on individual qubits. In matrix representation they are defined as:  
 
 $$
+\newcommand{\bra}[1]{\left<#1\right|}
+\newcommand{\ket}[1]{\left|#1\right>}
 \begin{align}
   & {\sigma}_{1} =  
   \begin{pmatrix}
@@ -118,6 +122,45 @@ $$
 $$  
 
 
+The Hadamard gate $${ H }$$ satisfies $${ {H}^{2} = I }$$ and $${ {H}^{\dagger} = H }$$, and writes:
+
+$$
+\begin{equation}
+  H = \frac{1}{ \sqrt{2} } 
+  \begin{pmatrix}
+    1 & 1 \\
+    1 & -1
+  \end{pmatrix} 
+\end{equation}
+$$  
+This gate puts a qubit in a pure state into a mixed state (superposition):
+
+$$
+\newcommand{\bra}[1]{\left<#1\right|}
+\newcommand{\ket}[1]{\left|#1\right>}
+\begin{align}
+  & H \ket{0} = \frac{1}{ \sqrt{2} } 
+  \begin{pmatrix}
+    1 & 1 \\
+    1 & -1
+  \end{pmatrix} 
+	\begin{pmatrix}
+    1 \\
+    0 
+  \end{pmatrix} 
+  = \frac{1}{ \sqrt{2} } ( \ket{0} + \ket{1} ) \\
+  & H \ket{1} = \frac{1}{ \sqrt{2} } 
+  \begin{pmatrix}
+    1 & 1 \\
+    1 & -1
+  \end{pmatrix} 
+	\begin{pmatrix}
+    0 \\
+    1 
+  \end{pmatrix} 
+  = \frac{1}{ \sqrt{2} } ( \ket{0} - \ket{1} )
+\end{align}
+$$  
 
 
 ## Two qubits
