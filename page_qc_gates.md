@@ -122,7 +122,7 @@ $$
 $$  
 
 
-The Hadamard gate $${ H }$$ satisfies $${ {H}^{2} = I }$$ and $${ {H}^{\dagger} = H }$$, and writes:
+The Hadamard gate $${ H }$$ satisfies $${ {H}^{2} = I }$$ and $${ {H}^{\dagger} = H }$$, and writes:  
 
 $$
 \begin{equation}
@@ -133,6 +133,7 @@ $$
   \end{pmatrix} 
 \end{equation}
 $$  
+
 This gate puts a qubit in a pure state into a mixed state (superposition):
 
 $$
