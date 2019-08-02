@@ -68,6 +68,40 @@ $$
 \end{align}
 $$  
 
+The rotation gates along the $${ X }$$, $${ Y }$$, and $${ Z }$$ axes are defined as:
+
+$$
+\begin{equation}
+  {R}_{X}(\theta) = {e}^{ -i \frac{\theta}{2} X } = cos\left( \frac{\theta}{2} \right) I - i \sin\left( \frac{\theta}{2} \right) X = 
+  \begin{pmatrix}
+    \cos\left( \frac{\theta}{2} \right) & -i \sin\left( \frac{\theta}{2} \right) \\
+    -i \sin\left( \frac{\theta}{2} \right) & \cos\left( \frac{\theta}{2} \right)
+  \end{pmatrix} 
+\end{equation}
+$$  
+
+$$
+\begin{equation}
+  {R}_{Y}(\theta) = {e}^{ -i \frac{\theta}{2} Y } = cos\left( \frac{\theta}{2} \right) I - i \sin\left( \frac{\theta}{2} \right) Y = 
+  \begin{pmatrix}
+    \cos\left( \frac{\theta}{2} \right) & - \sin\left( \frac{\theta}{2} \right) \\
+     \sin\left( \frac{\theta}{2} \right) & \cos\left( \frac{\theta}{2} \right)
+  \end{pmatrix} 
+\end{equation}
+$$  
+
+$$
+\begin{equation}
+  {R}_{Z}(\theta) = {e}^{ -i \frac{\theta}{2} Z } = cos\left( \frac{\theta}{2} \right) I - i \sin\left( \frac{\theta}{2} \right) Z = 
+  \begin{pmatrix}
+    {e}^{ -i \frac{\theta}{2} } & 0 \\
+    0 & {e}^{ i \frac{\theta}{2} }
+  \end{pmatrix} 
+\end{equation}
+$$  
+
+
+
 
 ## Two qubits
 
@@ -220,6 +254,7 @@ $$
   \end{pmatrix}
 \end{equation}
 $$  
+
 
 
 
