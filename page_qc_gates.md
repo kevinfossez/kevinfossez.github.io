@@ -134,6 +134,36 @@ $$
   \end{equation}
 $$  
 
+The gates $${ {X}_{0} {X}_{1} }$$, $${ {Y}_{0} {Y}_{1} }$$, and $${ {Z}_{0} {Z}_{1} }$$ can be obtained with the tensorial product $${ \otimes }$$ of the one-qubit matrices:
+
+$$
+\begin{equation}
+	{X}_{0} {X}_{1} =  
+	\begin{pmatrix}
+		0 \begin{pmatrix} 
+				0 & 1 \\
+				1 & 0
+			\end{pmatrix} & 1 \begin{pmatrix}
+													0 & 1 \\
+													1 & 0
+												\end{pmatrix} \\
+    1 \begin{pmatrix} 
+				0 & 1 \\
+				1 & 0
+			\end{pmatrix} & 0 \begin{pmatrix}
+													0 & 1 \\
+													1 & 0
+												\end{pmatrix} 
+  \end{pmatrix} = 
+  \begin{pmatrix}
+		0 & 0 & 0 & 1 \\
+		0 & 0 & 1 & 0 \\
+    0 & 1 & 0 & 0 \\
+    1 & 0 & 0 & 0 
+  \end{pmatrix}
+\end{equation}
+$$  
+
   
 
 [back](./)
