@@ -138,7 +138,7 @@ The gates $${ {X}_{0} {X}_{1} }$$, $${ {Y}_{0} {Y}_{1} }$$, and $${ {Z}_{0} {Z}_
 
 $$
 \begin{equation}
-	{X}_{0} {X}_{1} =  
+	{X}_{0} \otimes {X}_{1} =  
 	\begin{pmatrix}
 		0 \begin{pmatrix} 
 				0 & 1 \\
@@ -165,5 +165,62 @@ $$
 $$  
 
   
+$$
+\begin{equation}
+	{Y}_{0} \otimes {Y}_{1} =  
+	\begin{pmatrix}
+		0 \begin{pmatrix} 
+				0 & -i \\
+				i & 0
+			\end{pmatrix} & -i \begin{pmatrix}
+													0 & -i \\
+													i & 0
+												\end{pmatrix} \\
+    i \begin{pmatrix} 
+				0 & -i \\
+				i & 0
+			\end{pmatrix} & 0 \begin{pmatrix}
+													0 & -i \\
+													i & 0
+												\end{pmatrix} 
+  \end{pmatrix} = 
+  \begin{pmatrix}
+		0 & 0 & 0 & -1 \\
+		0 & 0 & 1 & 0 \\
+    0 & 1 & 0 & 0 \\
+    -1 & 0 & 0 & 0 
+  \end{pmatrix}
+\end{equation}
+$$  
+
+$$
+\begin{equation}
+	{Z}_{0} \otimes {Z}_{1} =  
+	\begin{pmatrix}
+		1 \begin{pmatrix} 
+				1 & 0 \\
+				0 & -1
+			\end{pmatrix} & 0 \begin{pmatrix}
+													1 & 0 \\
+													0 & -1
+												\end{pmatrix} \\
+    0 \begin{pmatrix} 
+				1 & 0 \\
+				0 & -1
+			\end{pmatrix} & -1 \begin{pmatrix}
+													1 & 0 \\
+													0 & -1
+												\end{pmatrix} 
+  \end{pmatrix} = 
+  \begin{pmatrix}
+		1 & 0 & 0 & 0 \\
+		0 & -1 & 0 & 0 \\
+    0 & 0 & -1 & 0 \\
+    0 & 0 & 0 & 1 
+  \end{pmatrix}
+\end{equation}
+$$  
+
+
 
 [back](./)
