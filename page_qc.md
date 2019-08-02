@@ -49,6 +49,7 @@ future: true
   _Quantum Computing: Beginnings to Current Frontiers_ [website](https://www.phy.anl.gov/theory/qc2016/)
 
 
+
 ## Links
 
 - Wikipedia pages for [quantum computing](https://en.wikipedia.org/wiki/Quantum_computing) and [quantum logic gates](https://en.wikipedia.org/wiki/Quantum_logic_gate)
@@ -82,7 +83,8 @@ future: true
 
 ## Quantum computing and nuclear physics
 
-- _Intersections between Nuclear Physics and Quantum Information_ at Argonne National Laboratory (2018) [website](https://www.phy.anl.gov/npqi2018/program.php)
+- _Intersections between Nuclear Physics and Quantum Information_ at Argonne National Laboratory (2018) [website](https://www.phy.anl.gov/npqi2018/program.php) and the following white paper _Opportunities for Nuclear Physics \& Quantum Information Science_ [arXiv](https://arxiv.org/abs/1903.05453).
+
 
 - E. F. Dumitrescu, A. J. McCaskey, G. Hagen, G. R. Jansen, T. D. Morris, T. Papenbrock, R. C. Pooser, D. J. Dean, and P. Lougovski  
   _Cloud Quantum Computing of an Atomic Nucleus_  
