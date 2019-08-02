@@ -43,6 +43,21 @@ $$
 
 ### One-qubit gates
 
+The identity matrix is trivially:
+
+$$
+\begin{equation}
+  I =  
+  \begin{pmatrix}
+    1 & 0 \\
+    0 & 1
+  \end{pmatrix} 
+  = \ket{0}\bra{0} + \ket{1}\bra{1}
+\end{equation}
+$$  
+
+
+
 Pauli matrices are the building blocks for all operations acting on spins $${ 1/2 }$$ and so on individual qubits. In matrix representation they are defined as:  
 
 $$
@@ -52,21 +67,23 @@ $$
     0 & 1 \\
     1 & 0
   \end{pmatrix} 
-  = X \\
+  = X = \ket{1}\bra{0} + \ket{0}\bra{1} \\
   & {\sigma}_{2} =  
   \begin{pmatrix}
     0 & -i \\
     i & 0
   \end{pmatrix} 
-  = Y \\
+  = Y = i \ket{1}\bra{0} -i \ket{0}\bra{1} \\
   & {\sigma}_{3} =  
   \begin{pmatrix}
     1 & 0 \\
     0 & -1
   \end{pmatrix} 
-  = Z
+  = Z = \ket{0}\bra{0} - \ket{1}\bra{1}
 \end{align}
 $$  
+
+The $${ X }$$ matrix is also called the NOT gate.
 
 The rotation gates along the $${ X }$$, $${ Y }$$, and $${ Z }$$ axes are defined as:
 
