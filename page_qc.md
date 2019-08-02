@@ -83,8 +83,7 @@ future: true
 
 ## Quantum computing and nuclear physics
 
-- _Intersections between Nuclear Physics and Quantum Information_ at Argonne National Laboratory (2018) [website](https://www.phy.anl.gov/npqi2018/program.php) and the following white paper _Opportunities for Nuclear Physics \& Quantum Information Science_ [arXiv](https://arxiv.org/abs/1903.05453).
-
+- _Intersections between Nuclear Physics and Quantum Information_ at Argonne National Laboratory (2018) [website](https://www.phy.anl.gov/npqi2018/program.php) and the following white paper by I. Cloët and M. Dietrich (eds.), _Opportunities for Nuclear Physics & Quantum Information Science_ (2019) [arXiv](https://arxiv.org/abs/1903.05453).
 
 - E. F. Dumitrescu, A. J. McCaskey, G. Hagen, G. R. Jansen, T. D. Morris, T. Papenbrock, R. C. Pooser, D. J. Dean, and P. Lougovski  
   _Cloud Quantum Computing of an Atomic Nucleus_  
