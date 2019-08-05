@@ -92,6 +92,27 @@ future: true
   See details of the method at [link](./page_qc_pn.html)
   
 
+- A. Roggero and A. Baroni  
+  _Short-depth circuits for efficient expectation value estimation_  
+  [arXiv](https://arxiv.org/abs/1905.08383)
+
+- A. Roggero and J. Carlson  
+  _Linear Response on a Quantum Computer_  
+  [arXiv](https://arxiv.org/abs/1804.01505)
+
+- D. Kaplan, N. Klco, and A. Roggero  
+  _Ground States via Spectral Combing on a Quantum Computer_  
+  [arXiv](https://arxiv.org/abs/1709.08250)
+
+- Hsuan-Hao Lu, N. Klco, J. Lukens, T. Morris, A. Bansal, A. Ekström, G. Hagen, T. Papenbrock, A. Weiner, M. Savage, and P. Lougovski  
+  _Simulations of subatomic many-body physics on a quantum frequency processor_  
+  Phys. Rev. A **100**, 012320 (2019) [article](https://doi.org/10.1103/PhysRevA.100.012320) [arXiv](https://arxiv.org/abs/1810.03959)
+
+- N. Klco, E. Dumitrescu, A. McCaskey, T. Morris, R. Pooser, M. Sanz, E. Solano, P. Lougovski, and M. Savage  
+  _Quantum-Classical Computation of Schwinger Model Dynamics using Quantum Computers_  
+  Phys. Rev. A **98**, 032331 (2018) [article](https://doi.org/10.1103/PhysRevA.98.032331) [arXiv](https://arxiv.org/abs/1803.03326)
+
+
 # Misc
 
 [quantum gates](./page_qc_gates.html)

@@ -38,7 +38,7 @@ future: true
 
 The UCC ansatz was simplified in the article to a $${ X }$$ gate on the first qubit, a rotation around the $${ y }$$ axis $${ {R}_{y}(\theta) = {e}^{-i \frac{\theta}{2} Y } }$$ on the second qubit, and the CNOT gate from 2 to 1 (also noted $${ \text{CNOT}_{01} }$$ instead of $${ \text{CNOT}_{10} }$$ for usual one). 
 
-![](assets/fig_qc_circuit_UCC.pdf)
+![](assets/fig_qc_circuit_UCC.png)
 
 This results in the following wave function after the first operations:
 

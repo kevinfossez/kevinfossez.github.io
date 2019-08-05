@@ -15,6 +15,14 @@ future: true
 pdf2djvu -o output_file input_file
 ```
 
+## Convert a pdf into a png file (single page)
+
+```bash
+pdftoppm input_file.pdf output_file -png -f 1 -singlefile -rx 300 -ry 300
+```
+(here page number is "1", dpi quality is "300")
+
+
 ## Convert a djvu file into a pdf file
 
 ```bash
