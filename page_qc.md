@@ -7,52 +7,9 @@ future: true
 
 [back](./)
 
-## R. Feynman suggestion
+Wikipedia pages for [quantum computing](https://en.wikipedia.org/wiki/Quantum_computing) and [quantum logic gates](https://en.wikipedia.org/wiki/Quantum_logic_gate)
 
-- R. Feynman  
-  _There's plenty of room at the bottom_  
-  Talk at the annual meeting of the American Physical Society at Caltech (1959) [pdf](http://calteches.library.caltech.edu/1976/1/1960Bottom.pdf)  
->
-> _When we get to the very, very small world—say circuits of seven atoms—we have a lot of new things that would happen that represent completely new opportunities for design. Atoms on a small scale behave like nothing on a large scale, for they satisfy the laws of quantum mechanics. So, as we go down and fiddle around with the atoms down there, we are working with different laws, and we can expect to do different things. We can manufacture in different ways. We can use, not just circuits, but some system involving the quantized energy levels, or the interactions of quantized spins, etc._
->
-
-
-## Seminal papers that opened the field of quantum computing
-
-- P. Benioff  
-  _The computer as a physical system: A microscopic quantum mechanical Hamiltonian model of computers as represented by Turing machines_  
-  Journal of Statistical Physics **22**, 563 (1980) [article](http://link.springer.com/article/10.1007%2FBF01011339)
-
-- Y. Manin  
-  _Computable and uncomputable_ (_Вычислимое и невычислимое_)  
-  Moscow: Sovetskoye Radio Publishing House. Cybernetic Literature Editorial Board, 1980. - _Cybernetics_ Series  
-  Москва: Издательство "Советское радио". Редакция кибернетической литературы, 1980. - Серия _Кибернетика_ [link to djvu](http://publ.lib.ru/ARCHIVES/M/MANIN_Yuriy_Ivanovich/_Manin_Yu.I..html#0001) (in russian)
-
-- P. Benioff  
-  _Quantum mechanical Hamiltonian models of discrete processes that erase their own histories: application to Turing machines_  
-  International Journal of Theoretical Physics **21**, 177 (1982) [article](http://link.springer.com/article/10.1007%2FBF01857725)
-
-- P. Benioff  
-  _Quantum mechanical Hamiltonian models of Turing machines_  
-  Journal of Statistical Physics **29**, 515 (1982) [article](http://link.springer.com/article/10.1007%2FBF01342185)
-
-- R. Feynman  
-  _Simulating physics with computers_  
-  Int. J. Theor. Phys. **21**, 467 (1982) [article](https://doi.org/10.1007/BF02650179) [pdf]()
-
-
-## P. Benioff
-
-- Wikipedia page for P. Benioff [link](https://en.wikipedia.org/wiki/Paul_Benioff)
-
-- Symposium in honor of Paul Benioff's fundamental contributions to Quantum Computing at Argonne National Laboratory (2016)  
-  _Quantum Computing: Beginnings to Current Frontiers_ [website](https://www.phy.anl.gov/theory/qc2016/)
-
-
-
-## Links
-
-- Wikipedia pages for [quantum computing](https://en.wikipedia.org/wiki/Quantum_computing) and [quantum logic gates](https://en.wikipedia.org/wiki/Quantum_logic_gate)
+## To be up-to-date
 
 - _Quantum Computation and Quantum Information_ by M. Nielsen and I. Chuang, Massachusetts Institute of Technology, 2010 [book](https://doi.org/10.1017/CBO9780511976667)
 
@@ -61,6 +18,8 @@ future: true
 - J. Preskill  
   _Quantum computing in the NISQ era and beyond_  
   Quantum **2**, 79 (2018) [article](https://doi.org/10.22331/q-2018-08-06-79) [arXiv](https://arxiv.org/abs/1801.00862)
+
+
 
 
 
@@ -77,8 +36,6 @@ future: true
 - A. Peruzzo, J. McClean, P. Shadbolt, Man-Hong Yung, Xiao-Qi Zhou, P. J. Love, A. Aspuru-Guzik and J. L. O’Brien  
   _A variational eigenvalue solver on a photonic quantum processor_  
   Nature Communications **5**, 4213 (2014) [article](https://www.nature.com/articles/ncomms5213) [arXiv](https://arxiv.org/abs/1304.3061)
-
-
 
 
 ## Quantum computing and nuclear physics
@@ -113,9 +70,12 @@ future: true
   Phys. Rev. A **98**, 032331 (2018) [article](https://doi.org/10.1103/PhysRevA.98.032331) [arXiv](https://arxiv.org/abs/1803.03326)
 
 
-# Misc
+## Links
 
-[quantum gates](./page_qc_gates.html)
+- Historical notes [link](./page_qc_history.html)
+- Matrix representations of quantum gates [link](./page_qc_gates.html)
+- Details of the deuteron on two qubits (E. Dumitrescu _et al._, Phys. Rev. Lett. **120**, 210501 (2018)) [link](./page_qc_pn.html)
+- Quantum circuits [link](./page_qc_circuit.html)
 
 
 [back](./)
