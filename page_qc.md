@@ -76,6 +76,7 @@ Wikipedia pages for [quantum computing](https://en.wikipedia.org/wiki/Quantum_co
 - Matrix representations of quantum gates [link](./page_qc_gates.html)
 - Details of the deuteron on two qubits (E. Dumitrescu _et al._, Phys. Rev. Lett. **120**, 210501 (2018)) [link](./page_qc_pn.html)
 - Quantum circuits [link](./page_qc_circuit.html)
+- Two spin problem (super simple) [link](./page_qc_twospins.html)
 
 
 [back](./)

@@ -73,7 +73,7 @@ $$
 \newcommand{\bra}[1]{\left<#1\right|}
 \newcommand{\ket}[1]{\left|#1\right>}
 \begin{equation}
-  \ket{\Psi}_{\text{UCC}} = \cos\left(\frac{\theta}{2}\right) \ket{10} + \sin\left(\đrac{\theta}{2}\right) \ket{01}
+  \ket{\Psi}_{\text{UCC}} = \cos\left(\frac{\theta}{2}\right) \ket{10} + \sin\left(\frac{\theta}{2}\right) \ket{01}
 \end{equation}
 $$
 
@@ -84,7 +84,8 @@ $$
 \newcommand{\ket}[1]{\left|#1\right>}
 \begin{align}
   H \ket{\Psi}_{\text{UCC}} &= 
-  \frac{ 3 {\hbar}^{2} }{4} \ket{\Psi}_{\text{UCC}} +  \frac{ {\hbar}^{2} }{2} \left[  
+  \frac{ 3 {\hbar}^{2} }{4} \ket{\Psi}_{\text{UCC}} \\
+  &+ \frac{ {\hbar}^{2} }{2} 
   \begin{pmatrix}
     0 & 0 & 0 & 1 \\
     0 & 0 & 1 & 0 \\
@@ -97,14 +98,15 @@ $$
     0 \\
     1 \\
     0 
-  \end{pmatrix} + \sin\left(\đrac{\theta}{2}\right) 
+  \end{pmatrix} + \sin\left(\frac{\theta}{2}\right) 
   \begin{pmatrix}
     0 \\
     1 \\
     0 \\
     0 
   \end{pmatrix}
-  \right] + 
+  \right] \\
+  &+ \frac{ {\hbar}^{2} }{2} 
   \begin{pmatrix}
     0 & 0 & 0 & -1 \\
     0 & 0 & 1 & 0 \\
@@ -117,14 +119,15 @@ $$
     0 \\
     1 \\
     0 
-  \end{pmatrix} + \sin\left(\đrac{\theta}{2}\right) 
+  \end{pmatrix} + \sin\left(\frac{\theta}{2}\right) 
   \begin{pmatrix}
     0 \\
     1 \\
     0 \\
     0 
   \end{pmatrix}
-  \right] + 
+  \right] \\ 
+  &+ \frac{ {\hbar}^{2} }{2} 
   \begin{pmatrix}
     1 & 0 & 0 & 0 \\
     0 & -1 & 0 & 0 \\
@@ -137,17 +140,35 @@ $$
     0 \\
     1 \\
     0 
-  \end{pmatrix} + \sin\left(\đrac{\theta}{2}\right) 
+  \end{pmatrix} + \sin\left(\frac{\theta}{2}\right) 
   \begin{pmatrix}
     0 \\
     1 \\
     0 \\
     0 
   \end{pmatrix}
-  \right] \right]
+  \right] \\
+  &= \frac{ 3 {\hbar}^{2} }{4} \left[ \cos\left(\frac{\theta}{2}\right) \ket{10} + \sin\left(\frac{\theta}{2}\right) \ket{01} \right] \\
+  &+ \frac{ {\hbar}^{2} }{2} \left[ 2 \cos\left(\frac{\theta}{2}\right) \ket{01} + 2\sin\left(\frac{\theta}{2}\right) \ket{10} - \cos\left(\frac{\theta}{2}\right) \ket{10} - \sin\left(\frac{\theta}{2}\right) \ket{01} \right] \\
+  &= \frac{ {\hbar}^{2} }{4} \left[ \left( \cos\left(\frac{\theta}{2}\right) + 4 \sin\left(\frac{\theta}{2}\right) \right) \ket{10} + \left( \sin\left(\frac{\theta}{2}\right) + 4 \cos\left(\frac{\theta}{2}\right) \right) \ket{01} \right] 
 \end{align}
 $$
 
+# Energy of the system
+
+The ground state energy of the two-spins system can be found by minimizing its energy given by:  
+
+$$
+\newcommand{\bra}[1]{\left<#1\right|}
+\newcommand{\ket}[1]{\left|#1\right>}
+\begin{align}
+  H \ket{\Psi}_{\text{UCC}} &= \frac{ {\hbar}^{2} }{4} \left[ \cos\left(\frac{\theta}{2}\right) \bra{10} + \sin\left(\frac{\theta}{2}\right) \bra{01} \right] \left[ \left( \cos\left(\frac{\theta}{2}\right) + 4 \sin\left(\frac{\theta}{2}\right) \right) \ket{10} + \left( \sin\left(\frac{\theta}{2}\right) + 4 \cos\left(\frac{\theta}{2}\right) \right) \ket{01} \right] \\
+  &= \frac{ {\hbar}^{2} }{4} \left( {\cos}^{2}\left(\frac{\theta}{2}\right) + 4 \cos\left(\frac{\theta}{2}\right) \sin\left(\frac{\theta}{2}\right) + {\sin}^{2}\left(\frac{\theta}{2}\right) + 4 \sin\left(\frac{\theta}{2}\right) \cos\left(\frac{\theta}{2}\right) \right) \\
+  &= \frac{ {\hbar}^{2} }{4} + {\hbar}^{2} \cos\left(\frac{\theta}{2}\right) \sin\left(\frac{\theta}{2}\right) 
+\end{align}
+$$
+
+The minimum is obtained for $${ \theta = -\pi/2 }$$ and gives $${ E = - {\hbar}^{2}/4 }$$ as expected. One notes that the ground state energy can be obtained for $${ \theta = +\pi/2 }$$ and one has $${ E = + 3 {\hbar}^{2}/4 }$$.
 
 
 
