@@ -36,7 +36,11 @@ future: true
   Scientific Reports **4**, 3589 (2014) [article](https://doi.org/10.1038/srep03589)
 
 
-The UCC ansatz was simplified in the article to a $${ X }$$ gate on the first qubit, a rotation around the $${ y }$$ axis $${ {R}_{y}(\theta) = {e}^{-i \frac{\theta}{2} Y } }$$ on the second qubit, and the CNOT gate from 2 to 1 (also noted $${ \text{CNOT}_{01} }$$ instead of $${ \text{CNOT}_{10} }$$ for usual one). This results in the following wave function after the first operations:
+The UCC ansatz was simplified in the article to a $${ X }$$ gate on the first qubit, a rotation around the $${ y }$$ axis $${ {R}_{y}(\theta) = {e}^{-i \frac{\theta}{2} Y } }$$ on the second qubit, and the CNOT gate from 2 to 1 (also noted $${ \text{CNOT}_{01} }$$ instead of $${ \text{CNOT}_{10} }$$ for usual one). 
+
+![](assets/fig_qc_circuit_UCC.pdf)
+
+This results in the following wave function after the first operations:
 
 $$
 \newcommand{\bra}[1]{\left<#1\right|}
