@@ -168,7 +168,7 @@ $$
 \end{align}
 $$
 
-The minimum is obtained for $${ \theta = -\pi/2 }$$ and gives $${ E = - {\hbar}^{2}/4 }$$ as expected. One notes that the ground state energy can be obtained for $${ \theta = +\pi/2 }$$ and one has $${ E = + 3 {\hbar}^{2}/4 }$$.
+The minimum is obtained for $${ \theta = -\pi/2 }$$ and gives $${ E = - {\hbar}^{2}/4 }$$ as expected. One notes that the excited state energy can be obtained for $${ \theta = +\pi/2 }$$ and one has $${ E = + 3 {\hbar}^{2}/4 }$$.
 
 
 
