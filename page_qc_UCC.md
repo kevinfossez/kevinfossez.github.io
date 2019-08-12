@@ -125,7 +125,7 @@ $$
 \newcommand{\bra}[1]{\left<#1\right|}
 \newcommand{\ket}[1]{\left|#1\right>}
 \begin{equation}
-	{\Psi}_{\text{UCC}} = \cos(\frac{\theta}{2}) \ket{10} + \sin(\frac{\theta}{2}) \ket{01}
+	\ket{\Psi}_{\text{UCC}} = \cos(\frac{\theta}{2}) \ket{10} + \sin(\frac{\theta}{2}) \ket{01}
 \end{equation}
 $$  
 
