@@ -73,7 +73,7 @@ $$
 \newcommand{\bra}[1]{\left<#1\right|}
 \newcommand{\ket}[1]{\left|#1\right>}
 \begin{equation}
-  \ket{\Psi}_{\text{UCC}} = \cos\left(\frac{\theta}{2}\right) \ket{10} + \sin\left(\frac{\theta}{2}\right) \ket{01}
+  \ket{ {\Psi}_{\text{UCC}} } = \cos\left(\frac{\theta}{2}\right) \ket{10} + \sin\left(\frac{\theta}{2}\right) \ket{01}
 \end{equation}
 $$
 
@@ -83,8 +83,8 @@ $$
 \newcommand{\bra}[1]{\left<#1\right|}
 \newcommand{\ket}[1]{\left|#1\right>}
 \begin{align}
-  H \ket{\Psi}_{\text{UCC}} &= 
-  \frac{ 3 {\hbar}^{2} }{4} \ket{\Psi}_{\text{UCC}} \\
+  H \ket{ {\Psi}_{\text{UCC}} } &= 
+  \frac{ 3 {\hbar}^{2} }{4} \ket{ {\Psi}_{\text{UCC}} } \\
   &+ \frac{ {\hbar}^{2} }{2} 
   \begin{pmatrix}
     0 & 0 & 0 & 1 \\
@@ -161,8 +161,9 @@ The ground state energy of the two-spins system can be found by minimizing its e
 $$
 \newcommand{\bra}[1]{\left<#1\right|}
 \newcommand{\ket}[1]{\left|#1\right>}
+\newcommand{\bk}[3]{\left<#1|#2|#3\right>}
 \begin{align}
-  \bra{\Psi}_{\text{UCC}} H \ket{\Psi}_{\text{UCC}} &= \frac{ {\hbar}^{2} }{4} \left[ \cos\left(\frac{\theta}{2}\right) \bra{10} + \sin\left(\frac{\theta}{2}\right) \bra{01} \right] \left[ \left( \cos\left(\frac{\theta}{2}\right) + 4 \sin\left(\frac{\theta}{2}\right) \right) \ket{10} + \left( \sin\left(\frac{\theta}{2}\right) + 4 \cos\left(\frac{\theta}{2}\right) \right) \ket{01} \right] \\
+  \bk{ {\Psi}_{\text{UCC}} }{ H }{ {\Psi}_{\text{UCC}} } &= \frac{ {\hbar}^{2} }{4} \left[ \cos\left(\frac{\theta}{2}\right) \bra{10} + \sin\left(\frac{\theta}{2}\right) \bra{01} \right] \left[ \left( \cos\left(\frac{\theta}{2}\right) + 4 \sin\left(\frac{\theta}{2}\right) \right) \ket{10} + \left( \sin\left(\frac{\theta}{2}\right) + 4 \cos\left(\frac{\theta}{2}\right) \right) \ket{01} \right] \\
   &= \frac{ {\hbar}^{2} }{4} \left( {\cos}^{2}\left(\frac{\theta}{2}\right) + 4 \cos\left(\frac{\theta}{2}\right) \sin\left(\frac{\theta}{2}\right) + {\sin}^{2}\left(\frac{\theta}{2}\right) + 4 \sin\left(\frac{\theta}{2}\right) \cos\left(\frac{\theta}{2}\right) \right) \\
   &= \frac{ {\hbar}^{2} }{4} + {\hbar}^{2} \cos\left(\frac{\theta}{2}\right) \sin\left(\frac{\theta}{2}\right) 
 \end{align}

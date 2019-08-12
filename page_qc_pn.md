@@ -26,7 +26,7 @@ $$
 \newcommand{\bra}[1]{\left<#1\right|}
 \newcommand{\ket}[1]{\left|#1\right>}
 \begin{equation}
-	\ket{\Psi}_{\text{UCC}} = \cos(\frac{\theta}{2}) \ket{10} + \sin(\frac{\theta}{2}) \ket{01}
+	\ket{ {\Psi}_{\text{UCC}} } = \cos(\frac{\theta}{2}) \ket{10} + \sin(\frac{\theta}{2}) \ket{01}
 \end{equation}
 $$  
 
@@ -49,7 +49,7 @@ $$
 \newcommand{\bra}[1]{\left<#1\right|}
 \newcommand{\ket}[1]{\left|#1\right>}
 \begin{align}
-  b {Z}_{0} \ket{\Psi}_{\text{UCC}} 
+  b {Z}_{0} \ket{ {\Psi}_{\text{UCC}} } 
   &= b \left( 
   \cos(\frac{\theta}{2}) 
   \begin{pmatrix}
@@ -88,7 +88,7 @@ $$
 \newcommand{\bra}[1]{\left<#1\right|}
 \newcommand{\ket}[1]{\left|#1\right>}
 \begin{align}
-  c {Z}_{1} \ket{\Psi}_{\text{UCC}} 
+  c {Z}_{1} \ket{ {\Psi}_{\text{UCC}} } 
   &= c \left( 
   \cos(\frac{\theta}{2}) 
   \begin{pmatrix}
@@ -128,7 +128,7 @@ $$
 \newcommand{\bra}[1]{\left<#1\right|}
 \newcommand{\ket}[1]{\left|#1\right>}
 \begin{align}
-  d {X}_{0} {X}_{1} \ket{\Psi}_{\text{UCC}} 
+  d {X}_{0} {X}_{1} \ket{ {\Psi}_{\text{UCC}} } 
   &= d  
   \begin{pmatrix}
 		0 & 0 & 0 & 1 \\
@@ -157,7 +157,7 @@ $$
 
 $$
 \begin{align}
-  d {Y}_{0} {Y}_{1} \ket{\Psi}_{\text{UCC}} 
+  d {Y}_{0} {Y}_{1} \ket{ {\Psi}_{\text{UCC}} } 
   &= d 
   \begin{pmatrix}
     0 & 0 & 0 & -1 \\
@@ -188,7 +188,7 @@ $$
 \newcommand{\bra}[1]{\left<#1\right|}
 \newcommand{\ket}[1]{\left|#1\right>}
 \begin{align}
-  d ({X}_{0} {X}_{1} + {Y}_{0} {Y}_{1}) \ket{\Psi}_{\text{UCC}} 
+  d ({X}_{0} {X}_{1} + {Y}_{0} {Y}_{1}) \ket{ {\Psi}_{\text{UCC}} } 
   &= d \cos(\frac{\theta}{2}) 
   \begin{pmatrix}
     0 \\
@@ -226,7 +226,7 @@ $$
 \newcommand{\bra}[1]{\left<#1\right|}
 \newcommand{\ket}[1]{\left|#1\right>}
 \begin{equation}
-  {H}_{2} \ket{\Psi}_{\text{UCC}} = \left[ (a+b-c) \sin(\frac{\theta}{2}) + 2d \cos(\frac{\theta}{2}) \right] \ket{01} + \left[ (a-b+c) \cos(\frac{\theta}{2}) + 2d \sin(\frac{\theta}{2}) \right] \ket{10}
+  {H}_{2} \ket{ {\Psi}_{\text{UCC}} } = \left[ (a+b-c) \sin(\frac{\theta}{2}) + 2d \cos(\frac{\theta}{2}) \right] \ket{01} + \left[ (a-b+c) \cos(\frac{\theta}{2}) + 2d \sin(\frac{\theta}{2}) \right] \ket{10}
 \end{equation}
 $$
 
