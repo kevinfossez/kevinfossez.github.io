@@ -162,7 +162,7 @@ $$
 \newcommand{\bra}[1]{\left<#1\right|}
 \newcommand{\ket}[1]{\left|#1\right>}
 \begin{align}
-  H \ket{\Psi}_{\text{UCC}} &= \frac{ {\hbar}^{2} }{4} \left[ \cos\left(\frac{\theta}{2}\right) \bra{10} + \sin\left(\frac{\theta}{2}\right) \bra{01} \right] \left[ \left( \cos\left(\frac{\theta}{2}\right) + 4 \sin\left(\frac{\theta}{2}\right) \right) \ket{10} + \left( \sin\left(\frac{\theta}{2}\right) + 4 \cos\left(\frac{\theta}{2}\right) \right) \ket{01} \right] \\
+  \bra{\Psi}_{\text{UCC}} H \ket{\Psi}_{\text{UCC}} &= \frac{ {\hbar}^{2} }{4} \left[ \cos\left(\frac{\theta}{2}\right) \bra{10} + \sin\left(\frac{\theta}{2}\right) \bra{01} \right] \left[ \left( \cos\left(\frac{\theta}{2}\right) + 4 \sin\left(\frac{\theta}{2}\right) \right) \ket{10} + \left( \sin\left(\frac{\theta}{2}\right) + 4 \cos\left(\frac{\theta}{2}\right) \right) \ket{01} \right] \\
   &= \frac{ {\hbar}^{2} }{4} \left( {\cos}^{2}\left(\frac{\theta}{2}\right) + 4 \cos\left(\frac{\theta}{2}\right) \sin\left(\frac{\theta}{2}\right) + {\sin}^{2}\left(\frac{\theta}{2}\right) + 4 \sin\left(\frac{\theta}{2}\right) \cos\left(\frac{\theta}{2}\right) \right) \\
   &= \frac{ {\hbar}^{2} }{4} + {\hbar}^{2} \cos\left(\frac{\theta}{2}\right) \sin\left(\frac{\theta}{2}\right) 
 \end{align}
