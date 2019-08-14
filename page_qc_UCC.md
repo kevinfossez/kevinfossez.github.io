@@ -46,6 +46,7 @@ $$
   \ket{\Psi}_{\text{UCC}} = {e}^{\hat{T} - \hat{T}^{\dagger}} \ket{\Psi}_{\text{HF}}
 \end{equation}
 $$  
+
 where $${ \hat{T} = \hat{T}_{1} + \hat{T}_{2} + ... }$$ with $${ \hat{T}_{i} }$$ is an operator exciting $${ i }$$ particles out of the Hartree-Fock (HF) reference state. In the "single" case ($${ i = 1 }$$) and for only two shells labeled by $${ n = 0,1 }$$, one has:  
 
 $$
@@ -70,6 +71,7 @@ $$
   & \hat{a}_{n} \to \frac{1}{2} \left[ \prod_{j=0}^{n-1} (-{Z}_{j}) \right] ( {X}_{n} + i {Y}_{n} ) \\
 \end{align}
 $$  
+
 It follows that:  
 
 $$
@@ -84,8 +86,7 @@ and hence:
 
 $$
 \begin{align}
-  {a}_{0}^{\dagger} {a}_{1} - {a}_{1}^{\dagger} {a}_{0} &\to \frac{1}{2} ( ( {X}_{0} - i {Y}_{0} ) (-{Z}_{0}) ( {X}_{1} + i {Y}_{1} ) - (-{Z}_{0}) ( {X}_{1} - i {Y}_{1} ) ( {X}_{0} + i {Y}_{0} ) ) \\
-  &= \frac{1}{2} ( {X}_{0} - i {Y}_{0} ) \frac{1}{2} (-{Z}_{0}) ( {X}_{1} + i {Y}_{1} ) - \frac{1}{2} (-{Z}_{0}) ( {X}_{1} - i {Y}_{1} ) \frac{1}{2} ( {X}_{0} + i {Y}_{0} ) \\
+  {a}_{0}^{\dagger} {a}_{1} - {a}_{1}^{\dagger} {a}_{0} &\to \frac{1}{2} ( {X}_{0} - i {Y}_{0} ) \frac{1}{2} (-{Z}_{0}) ( {X}_{1} + i {Y}_{1} ) - \frac{1}{2} (-{Z}_{0}) ( {X}_{1} - i {Y}_{1} ) \frac{1}{2} ( {X}_{0} + i {Y}_{0} ) \\
   &= \frac{1}{4} \left[ ( {X}_{0} {X}_{1} + i {X}_{0} {Y}_{1} - i {Y}_{0} {X}_{1} + {Y}_{0} {Y}_{1} ) (-{Z}_{0}) + {Z}_{0} ( {X}_{1} {X}_{0} + i {X}_{1} {Y}_{0} - i {Y}_{1} {X}_{0} + {Y}_{1} {Y}_{0} ) \right] \\
   &= \frac{1}{4} \left[ {X}_{1} ( {Z}_{0} {X}_{0} - {X}_{0} {Z}_{0} ) + {Y}_{1} ( {Z}_{0} {Y}_{0} - {Y}_{0} {Z}_{0} ) + i {Y}_{1} ( {Z}_{0} {Y}_{0} + {Y}_{0} {Z}_{0} ) - i {Y}_{1} ( {Z}_{0} {Y}_{0} + {Y}_{0} {Z}_{0} ) \right] \\
   &= \frac{1}{2} ( {X}_{1} {Y}_{0} - {Y}_{1} {X}_{0} )
