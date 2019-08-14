@@ -5,7 +5,7 @@ description: How it started
 future: true
 ---
 
-[back](./)
+[back](./page_qc.html)
 
 Wikipedia page on quantum computing [link](https://en.wikipedia.org/wiki/Quantum_computing)
 
@@ -52,4 +52,4 @@ Wikipedia page on quantum computing [link](https://en.wikipedia.org/wiki/Quantum
 
 
 
-[back](./)
+[back](./page_qc.html)

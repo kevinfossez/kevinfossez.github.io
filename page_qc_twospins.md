@@ -5,7 +5,7 @@ description: Two spins
 future: true
 ---
 
-[back](./)
+[back](./page_qc.html)
 
 The coupling of two spins is the easiest quantum problem to map on a quantum computer. 
 
@@ -174,4 +174,4 @@ The minimum is obtained for $${ \theta = -\pi/2 }$$ and gives $${ E = - {\hbar}^
 
 
 
-[back](./)
+[back](./page_qc.html)

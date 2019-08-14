@@ -5,7 +5,7 @@ description: Unitary Coupled Clusters ansatz
 future: true
 ---
 
-[back](./)
+[back](./page_qc.html)
 
 ## Unitary Coupled Clusters (UCC) ansatz
 
@@ -202,4 +202,4 @@ $$
 
 
 
-[back](./)
+[back](./page_qc.html)

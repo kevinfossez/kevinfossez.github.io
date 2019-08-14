@@ -5,7 +5,7 @@ description: One- and two-qubit gates
 future: true
 ---
 
-[back](./)
+[back](./page_qc.html)
 
 See wikipedia page on [quantum gates](https://en.wikipedia.org/wiki/Quantum_logic_gate) for more details.
 
@@ -319,4 +319,4 @@ $$
 
 
 
-[back](./)
+[back](./page_qc.html)
