@@ -37,6 +37,60 @@ future: true
   Phys. Rev. Lett. **120**, 210501 (2018) [article](https://doi.org/10.1103/PhysRevLett.120.210501) -- [arXiv](https://arxiv.org/abs/1801.03897)
 
 
+The UCC ansatz writes:  
+
+$$
+\newcommand{\bra}[1]{\left<#1\right|}
+\newcommand{\ket}[1]{\left|#1\right>}
+\begin{equation}
+  \ket{\Psi}_{\text{UCC}} = {e}^{\hat{T} - \hat{T}^{\dagger}} \ket{\Psi}_{\text{HF}}
+\end{equation}
+$$  
+where $${ \hat{T} = \hat{T}_{1} + \hat{T}_{2} + ... }$$ with $${ \hat{T}_{i} }$$ is an operator exciting $${ i }$$ particles out of the Hartree-Fock (HF) reference state. In the "single" case ($${ i = 1 }$$) and for only two shells labeled by $${ n = 0,1 }$$, one has:  
+
+$$
+\begin{equation}
+  {e}^{\hat{T} - \hat{T}^{\dagger}} = {e}^{ {a}_{0}^{\dagger} {a}_{1} - {a}_{1}^{\dagger} {a}_{0} }
+\end{equation}
+$$  
+
+As such, this ansatz cannot be used together with the VQE method (see [link](./page_qc.html)) and must be parametrized. To this end, one simply adds a parameter $${ \theta }$$ in the exponential. 
+
+$$
+\begin{equation}
+  U(\theta) = {e}^{ \theta ( {a}_{0}^{\dagger} {a}_{1} - {a}_{1}^{\dagger} {a}_{0} ) }
+\end{equation}
+$$  
+
+Moreover, the creation and annihilation operators can transformed into the $${ X }$$, $${ Y }$$, and $${ Z }$$ gates acting on qubits using the Jordan-Wigner transformation:
+
+$$
+\begin{align}
+  & \hat{a}_{n}^{\dagger} \to \frac{1}{2} \left[ \prod_{j=0}^{n-1} (-{Z}_{j}) \right] ( {X}_{n} - i {Y}_{n} ) \\
+  & \hat{a}_{n} \to \frac{1}{2} \left[ \prod_{j=0}^{n-1} (-{Z}_{j}) \right] ( {X}_{n} + i {Y}_{n} ) \\
+\end{align}
+$$  
+It follows that:  
+
+$$
+\begin{align}
+  & \hat{a}_{0}^{\dagger} \to \frac{1}{2} ( {X}_{0} - i {Y}_{0} ) \\
+  & \hat{a}_{0} \to \frac{1}{2} ( {X}_{0} + i {Y}_{0} ) \\
+  & \hat{a}_{1}^{\dagger} \to \frac{1}{2} (-{Z}_{0}) ( {X}_{1} - i {Y}_{1} ) \\
+  & \hat{a}_{1} \to \frac{1}{2} (-{Z}_{0}) ( {X}_{1} + i {Y}_{1} )
+\end{align}
+$$  
+and hence:  
+
+$$
+\begin{align}
+  {a}_{0}^{\dagger} {a}_{1} - {a}_{1}^{\dagger} {a}_{0} &\to \frac{1}{2} ( ( {X}_{0} - i {Y}_{0} ) (-{Z}_{0}) ( {X}_{1} + i {Y}_{1} ) - (-{Z}_{0}) ( {X}_{1} - i {Y}_{1} ) ( {X}_{0} + i {Y}_{0} ) ) \\
+  &= \frac{1}{2} ( {X}_{0} - i {Y}_{0} ) \frac{1}{2} (-{Z}_{0}) ( {X}_{1} + i {Y}_{1} ) - \frac{1}{2} (-{Z}_{0}) ( {X}_{1} - i {Y}_{1} ) \frac{1}{2} ( {X}_{0} + i {Y}_{0} ) \\
+  &= \frac{1}{4} \left[ ( {X}_{0} {X}_{1} + i {X}_{0} {Y}_{1} - i {Y}_{0} {X}_{1} + {Y}_{0} {Y}_{1} ) (-{Z}_{0}) + {Z}_{0} ( {X}_{1} {X}_{0} + i {X}_{1} {Y}_{0} - i {Y}_{1} {X}_{0} + {Y}_{1} {Y}_{0} ) \right] \\
+  &= \frac{1}{4} \left[ {X}_{1} ( {Z}_{0} {X}_{0} - {X}_{0} {Z}_{0} ) + {Y}_{1} ( {Z}_{0} {Y}_{0} - {Y}_{0} {Z}_{0} ) + i {Y}_{1} ( {Z}_{0} {Y}_{0} + {Y}_{0} {Z}_{0} ) - i {Y}_{1} ( {Z}_{0} {Y}_{0} + {Y}_{0} {Z}_{0} ) \right] \\
+  &= \frac{1}{2} ( {X}_{1} {Y}_{0} - {Y}_{1} {X}_{0} )
+\end{align}
+$$  
 
 The UCC ansatz was simplified in Phys. Rev. Lett. **120**, 210501 (2018) (for details see [link](./page_pn.html)) to a $${ X }$$ gate on the first qubit, a rotation around the $${ y }$$ axis $${ {R}_{y}(\theta) = {e}^{-i \frac{\theta}{2} Y } }$$ on the second qubit, and the CNOT gate from 2 to 1 (also noted $${ \text{CNOT}_{01} }$$ instead of $${ \text{CNOT}_{10} }$$ for usual one). 
 

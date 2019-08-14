@@ -15,7 +15,7 @@ future: true
 
 ## Details
 
-The article is based on the Unitary Coupled Clusters (UCC) ansatz (see [link](./page_UCC.html) for details) which can be obtained using the following circuit:  
+The article is based on the Unitary Coupled Clusters (UCC) ansatz (see [link](./page_qc_UCC.html) for details) which can be obtained using the following circuit:  
 
 ![](assets/fig_qc_circuit_UCC.png)
 
