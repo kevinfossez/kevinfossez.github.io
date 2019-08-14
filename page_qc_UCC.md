@@ -107,7 +107,15 @@ $$
 \end{equation}
 $$  
 
-This is equivalent to a $${ Y }$$ gate in the subspace defined by $${ \left|01\right> }$$ and $${ \left|10\right> }$$, and so the exponential operator is equivalent to a rotation operator around the $${ y }$$ axis in this subspace. One can then emulate the effect of this operator by starting from the HF reference state $${ \left|00\right> }$$, flip one qubit to $${ \left|1\right> }$$ using a $${ X }$$ gate, apply a rotation $${ {R}_{Y}(\theta) = {e}^{-i \frac{\theta}{2} Y } }$$ on the second qubit (also noted $${ Y(\theta) }$$), and finally flip the first qubit to $${ \left|0\right> }$$ only if the second qubit is $${ \left|1\right> }$$ using a CNOT gate from 2 to 1 (also noted $${ \text{CNOT}_{01} }$$ instead of $${ \text{CNOT}_{10} }$$ for usual one). This is how the UCC ansatz was simplified in Phys. Rev. Lett. **120**, 210501 (2018) (for details see [link](./page_pn.html)).  
+This is equivalent to a $${ Y }$$ gate in the subspace defined by $${ \left| 01 \right> }$$  
+
+and $${ \left| 10 \right> }$$, and so the exponential operator is equivalent to a rotation operator around  
+
+the $${ y }$$ axis in this subspace. One can then emulate the effect of this operator by starting from the HF reference  
+
+state $${ \left| 00 \right> }$$, flip one qubit  
+
+to $${ \left| 1 \right> }$$ using a $${ X }$$ gate, apply a rotation $${ {R}_{Y}(\theta) = {e}^{-i \frac{\theta}{2} Y } }$$ on the second qubit (also noted $${ Y(\theta) }$$), and finally flip the first qubit to $${ \left| 0 \right> }$$ only if the second qubit is $${ \left| 1 \right> }$$ using a CNOT gate from 2 to 1 (also noted $${ \text{CNOT}_{01} }$$ instead of $${ \text{CNOT}_{10} }$$ for usual one). This is how the UCC ansatz was simplified in Phys. Rev. Lett. **120**, 210501 (2018) (for details see [link](./page_pn.html)).  
 
 ![](assets/fig_qc_circuit_UCC.png)
 
