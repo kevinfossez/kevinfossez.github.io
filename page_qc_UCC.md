@@ -93,7 +93,7 @@ $$
 \end{align}
 $$  
 
-The UCC ansatz was simplified in Phys. Rev. Lett. **120**, 210501 (2018) (for details see [link](./page_pn.html)) to a $${ X }$$ gate on the first qubit, a rotation around the $${ y }$$ axis $${ {R}_{y}(\theta) = {e}^{-i \frac{\theta}{2} Y } }$$ on the second qubit, and the CNOT gate from 2 to 1 (also noted $${ \text{CNOT}_{01} }$$ instead of $${ \text{CNOT}_{10} }$$ for usual one). 
+The UCC ansatz was simplified in Phys. Rev. Lett. **120**, 210501 (2018) (for details see [link](./page_pn.html)) to a $${ X }$$ gate on the first qubit, a rotation around the $${ y }$$ axis $${ {R}_{y}(\theta) = {e}^{-i \frac{\theta}{2} Y } }$$ on the second qubit (also noted $${ Y(\theta) }$$), and the CNOT gate from 2 to 1 (also noted $${ \text{CNOT}_{01} }$$ instead of $${ \text{CNOT}_{10} }$$ for usual one). 
 
 ![](assets/fig_qc_circuit_UCC.png)
 
