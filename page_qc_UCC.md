@@ -107,11 +107,7 @@ $$
 \end{equation}
 $$  
 
-This is equivalent to a $${ Y }$$ gate in the subspace defined by $${ \left| 01 \right> }$$  
-
-and $${ \left| 10 \right> }$$, and so the exponential operator is equivalent to a rotation operator around  
-
-the $${ y }$$ axis in this subspace. One can then emulate the effect of this operator by starting from the HF reference  
+This is equivalent to a $${ Y }$$ gate in the subspace defined by $${ \ket{01} }$$ and $${ \ket{10} }$$, and so the exponential operator is equivalent to a rotation operator around the $${ y }$$ axis in this subspace. One can then emulate the effect of this operator by starting from the HF reference  
 
 state $${ \left| 00 \right> }$$, flip one qubit  
 
