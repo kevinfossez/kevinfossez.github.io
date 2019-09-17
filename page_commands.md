@@ -50,6 +50,15 @@ The options are:
 - `--stats` to show lots of information (not essential) 
 - `--progress` to show a progression bar
 
+
+## Vim command to search and replace in several files
+
+```bash
+vim
+:args *.cpp *.h
+:bufdo %s/pattern/replace/g | update
+```
+
 ## Generate public and private ssh keys
 
 ```bash
