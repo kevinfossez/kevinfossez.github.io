@@ -9,9 +9,10 @@ future: true
 ## General
 
 - [My articles](./page_papers.html)
-- List of [theoretical articles](./page_refs.html) where the Berggren basis was used.
+- List of [articles](./page_refs.html) where the Berggren basis was used.
 - List of [articles](./page_Berggren.html) by T. Berggren and P. Lind.
-- Density Matrix Renormalization Group in the Berggren basis [link](./page_DMRG.html).
+- List of [articles](./page_DMRG.html) on the Density Matrix Renormalization Group (DMRG) method (nuclear physics, harmonic oscillator and Berggren bases).
+- List of [articles](./page_IMSRG.html) on the In-Medium Similarity Renormalization Group (IM-SRG) method.
 - Links on [quantum computing](./page_qc.html).
 
 
