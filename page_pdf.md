@@ -56,6 +56,13 @@ With more options for a better output:
 ebook-convert foo.epub foo.pdf --margin-bottom "75" --margin-top "75" --margin-left "75" --margin-right "75" --pdf-serif-family "Calibri" --pdf-sans-family "Calibri" --base-font-size "14" --pdf-mono-font-size "12" --paper-size "a4" --change-justification "justify"
 ```
 
+In Mac OS:  
+
+```bash
+brew cask install calibre
+export PATH=/Applications/calibre.app/Contents/MacOS/:$PATH
+ebook-convert ~/Downloads/\[Nicholas_A._Christakis\]_Blueprint__The_Evolutiona\(z-lib.org\).epub book_Christakis_Blueprint_The_Evolutinary_Origins_of_a_Good_Society_2019.pdf --margin-bottom "75" --margin-top "75" --margin-left "50" --margin-right "50" --pdf-serif-family "Calibri" --pdf-sans-family "Calibri" --base-font-size "12" --pdf-mono-font-size "12" --paper-size "a4" --change-justification "justify"
+```
 
 
 ## Convert a svg file into a pdf file
