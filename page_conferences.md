@@ -79,6 +79,11 @@ future: true
   Location: FRIB, MI  
   [Website](https://indico.frib.msu.edu/event/17/)
 
+- MidWest Theory Get Together (MWTGT) 33, 2020  
+  Date: End of October  
+  Location: Argonne National Laboratory (ANL), IL  
+  No website yet
+
 - Halo-Week 2020  
   Date: July 12-17  
 	Location: Bergen, Norway  
