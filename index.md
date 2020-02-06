@@ -8,6 +8,7 @@ future: true
 
 ## General
 
+- List of [conferences and schools in low-energy nuclear theory](./page_conferences.html).
 - [My articles](./page_papers.html)
 - List of [articles](./page_refs.html) where the Berggren basis was used.
 - List of [articles](./page_Berggren.html) by T. Berggren and P. Lind.
