@@ -18,7 +18,7 @@ future: true
 - Institute for Nuclear Theory (INT) in Seattle  
   [List of current programs](https://sites.google.com/uw.edu/int/home)
 
-- NUclear Computational Low-Energy Initiative (NUCLEI)
+- NUclear Computational Low-Energy Initiative (NUCLEI)  
   [List](http://nuclei.mps.ohio-state.edu/content/conferences.php)
 
 - Facility for Rare Isotope Beams (FRIB) users  
@@ -66,17 +66,17 @@ future: true
 
 - DNP 2020
   Date: April 18-21  
-  Location: Washington DC
+  Location: Washington DC  
   [Website](https://www.aps.org/meetings/april/index.cfm)
 
 - Nuclear Structure 2020  
   Date: July 26-31  
-  Location: Santa Cruz, CA
+  Location: Santa Cruz, CA  
   [Website](https://conferences.lbl.gov/event/212/)
 
 - Nucleis and Mesoscopic Physics (NMP) 2020  
   Date: May 4-8  
-  Location: FRIB, MI
+  Location: FRIB, MI  
   [Website](https://indico.frib.msu.edu/event/17/)
 
 - Halo-Week 2020  
