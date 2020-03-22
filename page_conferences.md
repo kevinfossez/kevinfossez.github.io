@@ -127,7 +127,6 @@ future: true
     Location: INT in Seattle, WA, USA  
     Date: June 22 to July 10, 2020  
     [Website](https://nucleartalent.github.io/NuclearOQS2020/)
-    [Website to apply](https://www.mathprograms.org/db/programs/920)  
 
   - Density Functional Theory and Self-Consistent Methods  
     Location: LBNL, in Berkeley, CA, USA  

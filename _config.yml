@@ -1,4 +1,6 @@
 theme: jekyll-theme-cayman
+title: Kevin Fossez
+description: Personal page
 markdown: kramdown
 mathjax: true
 future: true
