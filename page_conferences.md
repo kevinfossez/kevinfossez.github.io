@@ -50,8 +50,8 @@ future: true
   [Website](https://abinitio.triumf.ca/2020/participants.html)
 
 - NUclear Computational Low-Energy Initiative (NUCLEI) meeting 2020  
-  Date: begining of June??  
-  Location:  
+  Date: June 8-11  
+  Location: Argonne National Laboratory, IL  
   [Website](http://nuclei.mps.ohio-state.edu/content/conferences.php)
 
 - Low Energy Community Meeting (LECM) 2020  
@@ -64,6 +64,11 @@ future: true
   Location: Avignon, France  
   [Website](https://indico.in2p3.fr/event/19688/page/2381-aris-history)  
 
+- DREB2020 - Direct Reactions with Exotic Beams  
+  Date: June 29 - July 3  
+  Location: University of Santiago de Compostela, Spain  
+  [Website](https://indico.cern.ch/event/812362/)  
+
 - DNP 2020
   Date: April 18-21  
   Location: Washington DC  
@@ -73,6 +78,11 @@ future: true
   Date: July 26-31  
   Location: Santa Cruz, CA  
   [Website](https://conferences.lbl.gov/event/212/)
+
+- 7th IEA International workshop - Clustering aspects in nuclei and reactions  
+  Date: September 8-12, 2020  
+  Location: University of Sao Paulo, Brazil  
+  [Website](https://sites.google.com/view/7thcluster)  
 
 - Nucleis and Mesoscopic Physics (NMP) 2020  
   Date: May 4-8  
