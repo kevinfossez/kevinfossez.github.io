@@ -1,3 +1,10 @@
+---
+layout: default
+title: Kevin Fossez
+description: Personal page (https://github.com/kevinfossez/kevinfossez.github.io)
+future: true
+---
+
 
 ## General
 
