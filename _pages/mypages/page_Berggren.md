@@ -98,7 +98,7 @@ description: Last update on July 25, 2019
 
 - _Symmetry in the world of atomic nuclei_ by I. Ragnarsson and S. Åberg, Lund University; See [slide on T. Berggren](http://history.fysik.lu.se/images/FysicumsHistoriaBok_pdf/EN_PhysicsInLund_web/EN_Bok_13_SaV_web.pdf)
 
-- _Many-body open quantum systems: From atomic nuclei to quantum dots_ at the ECT\*, Trento, Italy, 2007; Talk on _40 years of the Berggren representation_ by T. Vertse [slides](https://kevinfossez.github.io/downloads/presentation_Vertse_Berggren_40years.pdf).
+- _Many-body open quantum systems: From atomic nuclei to quantum dots_ at the ECT\*, Trento, Italy, 2007; Talk on _40 years of the Berggren representation_ by T. Vertse [slides](https://kevinfossez.github.io/files/presentation_Vertse_Berggren_40years.pdf).
 
 
 ## Retrospectively funny T. Berggren quote
