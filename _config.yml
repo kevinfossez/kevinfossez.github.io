@@ -1,6 +1,90 @@
-theme: jekyll-theme-cayman
-title: Kevin Fossez
-description: Personal page (https://github.com/kevinfossez/kevinfossez.github.io)
+name: KevinFossez
+
 markdown: kramdown
-mathjax: true
-future: true
+# theme: jekyll-theme-cayman
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+
+
+#title: "<i class='fab fa-lg fa-github' aria-hidden='true'></i> BUQEYE Collaboration"
+title: "Kevin Fossez webpage"
+#logo: "/assets/images/BUQEYE_logo.png"
+#header:
+#  image: "/assets/images/waveplot.png"
+
+# Reading Files
+include:
+  - _pages # Be sure Jekyll "sees" and processes the files inside of _pages
+
+
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache 
+
+
+
+# Collections
+collections:
+  talks:
+    output: true
+    permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  software:
+    output: true
+    permalink: /:collection/:path/
+
+
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      mathjax: true
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      mathjax: true
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      mathjax: true
+      author_profile: true
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      mathjax: true
+      author_profile: false
+  # _software
+  - scope:
+      path: ""
+      type: software
+    values:
+      layout: single
+      mathjax: true
+      author_profile: false
+
