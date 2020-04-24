@@ -12,5 +12,7 @@ About page test
 
 
 - List of [articles](/about/page_refs.html) where the Berggren basis was used.
+- List of [articles](/about/page_refs.md) where the Berggren basis was used.
+- List of [articles]({% link /about/page_refs.md %}) where the Berggren basis was used.
 
 
