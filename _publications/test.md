@@ -1,5 +1,5 @@
 ---
-title: List of publications test
+title: List of publications test2
 date: April 24, 2020
 permalink: /publication/test
 ---
