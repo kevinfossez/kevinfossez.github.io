@@ -19,6 +19,10 @@ author_profile: true
 
 ## Nuclear Physics
 
+10- **K. Fossez**, J. Rotureau, W. Nazarewicz, N. Michel, and M. P&#322;oszajczak  
+  _Effective description of $${ {}^{5-10}\mathrm{He} }$$ and the search for a narrow ${ {}^{4}\text{n} }$ resonance_  
+  Recent Progress in Few-Body Physics, **361** (2020). _Proceedings of the 22nd International Conference on Few-Body Problems in Physics_ [article](https://doi.org/10.1007/978-3-030-32357-8_61) 
+
 9- **K. Fossez**, J. Rotureau, and W. Nazarewicz  
   _Energy spectrum of neutron-rich helium isotopes: complex made simple_  
   Phys. Rev. C **98**, 061302(R) (2018) [article](https://doi.org/10.1103/PhysRevC.98.061302) [arXiv](https://arxiv.org/abs/1806.02936)
