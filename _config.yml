@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Kevin Fossez"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "FRIB Theory Fellow at Michigan State University and Argonne National Laboratory"
+  location         : "Chicago, USA"
   employer         :
   pubmed           : 
   arxiv            : "fossez_k_1.html"
