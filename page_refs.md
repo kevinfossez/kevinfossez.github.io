@@ -1,12 +1,9 @@
 ---
-layout: default
+permalink: /
 title: Theoretical articles using the Berggren basis
 description: Last update on July 25, 2019
-mathjax: true
-future: true
+author_profile: true
 ---
-
-[back](./)
 
 \[DISCLAMER: the list might not be complete, but at least the main articles are there\]
 
@@ -415,6 +412,3 @@ future: true
 
 
 
-
-
-[back](./)
