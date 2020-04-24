@@ -9,51 +9,56 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Professional background
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- 2014 Ph.D., University of Caen, France, with Prof. Marek P&#322;oszajczak
+- 2015-17 Research Associate, Michigan State University, USA, with Prof. Witek Nazarewicz
+- 2017-19 Research Associate, Michigan State University, USA, with Prof. Heiko Hergert
+- 2019- FRIB Theory Fellow (Assistant Professor), Michigan State University and Argonne National Laboratory, USA
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+## Research interests
+
+### Open quantum systems
+
+- Nuclear physics: weakly bound and unbound nuclei
+- Atomic physics: dipolar and quadrupolar anions
+
+### Quantum many-body physics
+
+- Emergent phenomena, interplay with continuum couplings (halos, exotic decay modes, many-body resonances, rotational motion in the continuum, etc.)
+- Effective scales, new degrees of freedom
+
+### Nuclear structure and reactions
+
+- Spectroscopy of atomic nuclei, rotational bands
+- Proton and neutron radiative capture reactions of astrophysical interest
+
+### Quantum computing
+(in development)
+
+
+## Framework
+
+### Formalism
+
+- Non-Hermitian quantum mechanics
+- Berggren basis
+- Resonating group method, coupled channel formalism
+- Effective field theory for the nuclear shell model (in development)
+
+### Many-body methods
+
+- Particle-plus-rotor in the Berggren basis
+- Gamow shell model (GSM)
+- Density matrix renormalization group (DMRG) for open quantum systems
+- In-medium similarity renormalization group (IM-SRG) for open quantum systems (in development)
+
+### Computing skills
+
+- Scientific computing: C++, OpenMP, MPI, hybrid parallel computing
+- Python, matplotlib
+- LaTeX, Tikz
+
+

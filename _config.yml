@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Personal page"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Kevin Fossez"
 description              : &description "personal description"
 url                      : https://kevinfossez.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://linkedin.com/in/kévin-fossez-13789798" 
   orcid            : "https://orcid.org/0000-0002-5823-4446"
   pinterest        :
   soundcloud       :
