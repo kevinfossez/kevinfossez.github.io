@@ -17,11 +17,6 @@ author_profile: true
 
 
 
-[back](./)
-
-List of my articles on [arXiv](https://arxiv.org/a/fossez_k_1.html) and [ORCID](https://orcid.org/0000-0002-8902-6842).
-
-
 ## Nuclear Physics
 
 9- **K. Fossez**, J. Rotureau, and W. Nazarewicz  
@@ -86,6 +81,3 @@ List of my articles on [arXiv](https://arxiv.org/a/fossez_k_1.html) and [ORCID](
 
 
 
-
-
-[back](./)

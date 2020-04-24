@@ -86,6 +86,7 @@ author:
   location         : "Location"
   employer         :
   pubmed           : 
+  arxiv            : "https://arxiv.org/a/fossez_k_1.html"
   googlescholar    : "https://scholar.google.com/citations?user=0dKGiPsAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
