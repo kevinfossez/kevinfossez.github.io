@@ -1,4 +1,6 @@
 ---
+title: List of publications test
+date: April 24, 2020
 permalink: /publication/test
 ---
 
