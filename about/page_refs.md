@@ -1,5 +1,4 @@
 ---
-permalink: /about/
 title: Theoretical articles using the Berggren basis
 description: Last update on July 25, 2019
 author_profile: true
