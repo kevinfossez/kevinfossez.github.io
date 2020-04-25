@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /qc_UCC/
+permalink: /qc/qc_UCC/
 title: Quantum computing -- UCC ansatz
 description: Unitary Coupled Clusters ansatz
 ---

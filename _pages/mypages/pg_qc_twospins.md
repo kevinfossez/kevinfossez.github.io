@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /qc_twospins/
+permalink: /qc/qc_twospins/
 title: Quantum computing
 description: Two spins
 ---

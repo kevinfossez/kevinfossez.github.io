@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /qc_history/
+permalink: /qc/qc_history/
 title: Quantum computing
 description: How it started
 ---
