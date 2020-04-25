@@ -2,8 +2,9 @@
 layout: archive
 permalink: /IMSRG/
 title: IM-SRG in nuclear physics
-description: IM-SRG: in-medium similarity renormalization group
+description: Links and docs on quantum computing
 ---
+
 
 
 The list might not be complete.

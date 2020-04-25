@@ -2,7 +2,7 @@
 layout: archive
 permalink: /DMRG/
 title: DMRG in nuclear physics
-description: DMRG: density matrix renormalization group
+description: Links and docs on quantum computing
 ---
 
 
