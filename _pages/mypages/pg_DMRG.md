@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /art_DMRG/
+permalink: /DMRG/
 title: DMRG in nuclear physics
 description: DMRG: density matrix renormalization group
 ---
