@@ -45,7 +45,7 @@ Wikipedia pages for [quantum computing](https://en.wikipedia.org/wiki/Quantum_co
   _Cloud Quantum Computing of an Atomic Nucleus_  
   Phys. Rev. Lett. **120**, 210501 (2018) [article](https://doi.org/10.1103/PhysRevLett.120.210501) -- [arXiv](https://arxiv.org/abs/1801.03897)  
 
-  See details of the method at [link](./page_qc_pn.html)
+  See details of the method at [link](./qc_pn/)
   
 
 - A. Roggero and A. Baroni  
@@ -71,10 +71,10 @@ Wikipedia pages for [quantum computing](https://en.wikipedia.org/wiki/Quantum_co
 
 ## Links
 
-- Historical notes [link](./page_qc_history.html)
-- Matrix representations of quantum gates [link](./page_qc_gates.html)
-- Details of the deuteron on two qubits (E. Dumitrescu _et al._, Phys. Rev. Lett. **120**, 210501 (2018)) [link](./page_qc_pn.html)
-- Quantum circuits [link](./page_qc_circuit.html)
-- Two spin problem (super simple) [link](./page_qc_twospins.html)
+- Historical notes [link](./qc_history/)
+- Matrix representations of quantum gates [link](./qc_gates/)
+- Details of the deuteron on two qubits (E. Dumitrescu _et al._, Phys. Rev. Lett. **120**, 210501 (2018)) [link](./qc_pn/)
+- Quantum circuits [link](./pg_qc_circuit/)
+- Two spin problem (super simple) [link](./qc_twospins/)
 
 
