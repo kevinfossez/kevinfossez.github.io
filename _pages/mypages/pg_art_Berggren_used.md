@@ -184,11 +184,11 @@ description: Last update on July 25, 2019
 
 - N. Michel, W. Nazarewicz and M. P&#322;oszajczak  
   _Isospin mixing and the continuum coupling in weakly bound nuclei_  
-  Phys. Rev. C **82**, 044315 (2010) [article](https://dx.doi.org/10.1103/PhysRevC.82.044315) [arXiv] (https://arxiv.org/abs/0911.4902)
+  Phys. Rev. C **82**, 044315 (2010) [article](https://dx.doi.org/10.1103/PhysRevC.82.044315) [arXiv](https://arxiv.org/abs/0911.4902)
 
 - N. Michel, W. Nazarewicz, J. Oko&#322;owicz and M. P&#322;oszajczak  
   _Open problems in the theory of nuclear open quantum systems_  
-  J. Phys. G **37**, 064042 (2010) [article] (https://dx.doi.org/10.1088/0954-3899/37/6/064042) [arXiv] (https://arxiv.org/abs/1002.0770)
+  J. Phys. G **37**, 064042 (2010) [article](https://dx.doi.org/10.1088/0954-3899/37/6/064042) [arXiv](https://arxiv.org/abs/1002.0770)
 
 ### 2009
 
