@@ -22,7 +22,7 @@ $
 
 Sometimes the kets ${ \ket{\pm} }$ are used for the Hadamard transformed basis [link](https://en.wikipedia.org/wiki/Controlled_NOT_gate), otherwise, the convention is to take ${ \ket{+} = \ket{0} }$ and ${ \ket{-} = \ket{1} }$, so in the matrix representation one has:  
 
-$
+$$
 \newcommand{\bra}[1]{\left<#1\right|}
 \newcommand{\ket}[1]{\left|#1\right>}
 \begin{align}
@@ -37,7 +37,7 @@ $
     1
   \end{pmatrix}
 \end{align}
-$  
+$$  
 
 
 ### One-qubit gates
