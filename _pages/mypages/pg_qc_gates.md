@@ -3,11 +3,10 @@ layout: archive
 permalink: /qc/qc_gates/
 title: Quantum computing gates
 description: One- and two-qubit gates
-usemathjax: true
 ---
 
 
-Test5
+Test6
 See wikipedia page on [quantum gates](https://en.wikipedia.org/wiki/Quantum_logic_gate) for more details.
 
 ## One qubit
