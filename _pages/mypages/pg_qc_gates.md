@@ -6,7 +6,14 @@ description: One- and two-qubit gates
 mathjax: true
 ---
 
-Test
+{% if page.mathjax %}
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+{% endif %}
+
+
+Test2
 See wikipedia page on [quantum gates](https://en.wikipedia.org/wiki/Quantum_logic_gate) for more details.
 
 ## One qubit
