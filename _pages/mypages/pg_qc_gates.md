@@ -13,13 +13,13 @@ See wikipedia page on [quantum gates](https://en.wikipedia.org/wiki/Quantum_logi
 
 ### Spin $${ 1/2 }$$ representation and conventions
 
-$$
+$
 \newcommand{\bra}[1]{\left<#1\right|}
 \newcommand{\ket}[1]{\left|#1\right>}
 \begin{equation}
   \ket{ s = 1/2, {m}_{s} = \pm 1/2 } = \ket{\pm}
 \end{equation}
-$$
+$
 
 Sometimes the kets $${ \ket{\pm} }$$ are used for the Hadamard transformed basis [link](https://en.wikipedia.org/wiki/Controlled_NOT_gate), otherwise, the convention is to take $${ \ket{+} = \ket{0} }$$ and $${ \ket{-} = \ket{1} }$$, so in the matrix representation one has:  
 
