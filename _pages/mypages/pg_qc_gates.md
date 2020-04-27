@@ -93,39 +93,40 @@ Pauli matrices are the building blocks for all operations acting on spins $${ 1/
 \end{aligned}
 \end{equation}
 
+
 The $${ X }$$ matrix is also called the NOT gate.
 
 The rotation gates along the $${ X }$$, $${ Y }$$, and $${ Z }$$ axes are defined as:
 
-$$
 \begin{equation}
+\begin{aligned}
   {R}_{X}(\theta) = {e}^{ -i \frac{\theta}{2} X } = cos\left( \frac{\theta}{2} \right) I - i \sin\left( \frac{\theta}{2} \right) X = 
   \begin{pmatrix}
-    \cos\left( \frac{\theta}{2} \right) & -i \sin\left( \frac{\theta}{2} \right) \\
+    \cos\left( \frac{\theta}{2} \right) & -i \sin\left( \frac{\theta}{2} \right) \\\\\\\\
     -i \sin\left( \frac{\theta}{2} \right) & \cos\left( \frac{\theta}{2} \right)
   \end{pmatrix} 
+\end{aligned}
 \end{equation}
-$$  
 
-$$
 \begin{equation}
+\begin{aligned}
   {R}_{Y}(\theta) = {e}^{ -i \frac{\theta}{2} Y } = cos\left( \frac{\theta}{2} \right) I - i \sin\left( \frac{\theta}{2} \right) Y = 
   \begin{pmatrix}
-    \cos\left( \frac{\theta}{2} \right) & - \sin\left( \frac{\theta}{2} \right) \\
+    \cos\left( \frac{\theta}{2} \right) & - \sin\left( \frac{\theta}{2} \right) \\\\\\\\
      \sin\left( \frac{\theta}{2} \right) & \cos\left( \frac{\theta}{2} \right)
   \end{pmatrix} 
+\end{aligned}
 \end{equation}
-$$  
 
-$$
 \begin{equation}
+\begin{aligned}
   {R}_{Z}(\theta) = {e}^{ -i \frac{\theta}{2} Z } = cos\left( \frac{\theta}{2} \right) I - i \sin\left( \frac{\theta}{2} \right) Z = 
   \begin{pmatrix}
-    {e}^{ -i \frac{\theta}{2} } & 0 \\
+    {e}^{ -i \frac{\theta}{2} } & 0 \\\\\\\\
     0 & {e}^{ i \frac{\theta}{2} }
   \end{pmatrix} 
+\end{aligned}
 \end{equation}
-$$  
 
 
 The Hadamard gate $${ H }$$ satisfies $${ {H}^{2} = I }$$ and $${ {H}^{\dagger} = H }$$, and writes:  
