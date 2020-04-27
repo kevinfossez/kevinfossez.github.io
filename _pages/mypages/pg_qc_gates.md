@@ -57,12 +57,14 @@ ttt
 
 
 Test6
+<![CDATA[
 $$
 \begin{align}
   a \&= b \\
   \&= c
 \end{align}
 $$  
+]]>
 
 Test7
 $$
