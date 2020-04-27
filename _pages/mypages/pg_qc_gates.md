@@ -43,6 +43,7 @@ $$
 \end{equation}
 $$  
 
+{% math %}
 $$
 \begin{equation}
   \begin{pmatrix}
@@ -50,8 +51,10 @@ $$
     0 & 1
   \end{pmatrix} 
 \end{equation}
-$$  
-ttt
+$$
+{%endmath%}
+
+tttt
 
 
 
