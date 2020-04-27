@@ -276,17 +276,17 @@ $$
 \begin{equation}
 	{X}_{0} \otimes {X}_{1} =  
 	\begin{pmatrix}
-		0 \begin{pmatrix} 
+		\begin{pmatrix} 
 				0 & 1 \\
 				1 & 0
-			\end{pmatrix} & 1 \begin{pmatrix}
+			\end{pmatrix} & \begin{pmatrix}
 													0 & 1 \\
 													1 & 0
 												\end{pmatrix} \\
-    1 \begin{pmatrix} 
+    \begin{pmatrix} 
 				0 & 1 \\
 				1 & 0
-			\end{pmatrix} & 0 \begin{pmatrix}
+			\end{pmatrix} & \begin{pmatrix}
 													0 & 1 \\
 													1 & 0
 												\end{pmatrix} 
