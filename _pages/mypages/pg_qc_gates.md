@@ -48,6 +48,21 @@ $$
 $$  
 
 
+$$
+\begin{align}
+  \ket{+} = \ket{0} = 
+  \begin{pmatrix}
+    1 \\
+    0
+  \end{pmatrix} \\
+  \ket{-} = \ket{1} = 
+  \begin{pmatrix}
+    0 \\
+    1
+  \end{pmatrix}
+\end{align}
+$$  
+
 
 
 $$
