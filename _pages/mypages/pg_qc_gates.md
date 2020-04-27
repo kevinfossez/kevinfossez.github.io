@@ -25,29 +25,33 @@ $$
 \end{equation}
 $$  
 
+{% raw %}
 $$
 \begin{aligned}
-  a \&= b \\\\\\
-  \&= c
+  a &= b \\\\\\
+  &= c
 \end{aligned}
 $$  
+{% endraw %}
 
 
-
+{% raw %}
 $$
 \begin{aligned}
-  a \&= b \\\\
-  \&= c
+  a &= b \\\\
+  &= c
 \end{aligned}
 $$  
+{% endraw %}
 
+{% raw %}
 $$
 \begin{aligned}
-  a \&= b \\
-  \&= c
+  a &= b \\
+  &= c
 \end{aligned}
 $$  
-
+{% endraw %}
 
 
 
