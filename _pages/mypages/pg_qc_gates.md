@@ -22,7 +22,7 @@ Sometimes the kets $${ \ket{\pm} }$$ are used for the Hadamard transformed basis
 $$
 \begin{align}
   a &= b \\
-	&= c
+  &= c
 \end{align}
 $$  
 
