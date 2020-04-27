@@ -31,7 +31,7 @@ $$
 \end{align}
 $$  
 
-Test4
+Test5
 $$
 \begin{align}
   a &= b \\
@@ -48,15 +48,15 @@ $$
 
 $$
 \begin{align}
-  a \\&= b \\
-  \\&= c
+  a \&= b \\
+  \&= c
 \end{align}
 $$  
 
 $$
 \begin{align}
-  a \\&= b \\\\
-  \\&= c
+  a = b \\
+  = c
 \end{align}
 $$  
 
