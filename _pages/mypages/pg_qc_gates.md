@@ -17,16 +17,6 @@ $$
 
 Sometimes the kets $${ \ket{\pm} }$$ are used for the Hadamard transformed basis [link](https://en.wikipedia.org/wiki/Controlled_NOT_gate), otherwise, the convention is to take $${ \ket{+} = \ket{0} }$$ and $${ \ket{-} = \ket{1} }$$, so in the matrix representation one has:  
 
-$$
-\begin{equation}
-\begin{aligned}
-    a &= b \\\\\\\\
-			&= c
-\end{aligned}
-\end{equation}
-$$
-
-
 \begin{equation}
 \begin{aligned}
     a &= b \\\\\\\\
@@ -35,37 +25,20 @@ $$
 \end{equation}
 
 
-$$
-\begin{align}
-  \ket{+} = \ket{0} = 
+\begin{equation}
+\begin{aligned}
+  & \ket{+} = \ket{0} = 
   \begin{pmatrix}
     1 \\
     0
   \end{pmatrix} \\
-  \ket{-} = \ket{1} = 
+  & \ket{-} = \ket{1} = 
   \begin{pmatrix}
     0 \\
     1
   \end{pmatrix}
-\end{align}
-$$  
-
-
-
-$$
-\begin{align}
-  &\ket{+} = \ket{0} = 
-  \begin{pmatrix}
-    1 \\
-    0
-  \end{pmatrix} \\
-  &\ket{-} = \ket{1} = 
-  \begin{pmatrix}
-    0 \\
-    1
-  \end{pmatrix}
-\end{align}
-$$  
+\end{aligned}
+\end{equation}
 
 
 ### One-qubit gates
