@@ -241,7 +241,7 @@ The gates $${ {X}_{0} {X}_{1} }$$, $${ {Y}_{0} {Y}_{1} }$$, and $${ {Z}_{0} {Z}_
 
 \begin{equation}
 \begin{aligned}
-	a =  
+	X_0 \otimes X_1 =  
 	\begin{pmatrix}
 		\begin{pmatrix} 
 			0 & 1 \\\\\\\\
@@ -272,17 +272,17 @@ The gates $${ {X}_{0} {X}_{1} }$$, $${ {Y}_{0} {Y}_{1} }$$, and $${ {Z}_{0} {Z}_
 \begin{aligned}
 	X_0 \otimes X_1 =  
 	\begin{pmatrix}
-		\begin{pmatrix} 
+		0\begin{pmatrix} 
 			0 & 1 \\\\\\\\
 			1 & 0
-		\end{pmatrix} & \begin{pmatrix}
+		\end{pmatrix} & 1\begin{pmatrix}
 											0 & 1 \\\\\\\\
 											1 & 0
 										\end{pmatrix} \\\\\\\\
-    \begin{pmatrix} 
+    1\begin{pmatrix} 
 			0 & 1 \\\\\\\\
 			1 & 0
-		\end{pmatrix} & \begin{pmatrix}
+		\end{pmatrix} & 0\begin{pmatrix}
 											0 & 1 \\\\\\\\
 											1 & 0
 										\end{pmatrix} 
@@ -300,35 +300,6 @@ The gates $${ {X}_{0} {X}_{1} }$$, $${ {Y}_{0} {Y}_{1} }$$, and $${ {Z}_{0} {Z}_
 
 
 
-$$
-\begin{equation}
-	{X}_{0} \otimes {X}_{1} =  
-	\begin{pmatrix}
-		\begin{pmatrix} 
-				0 & 1 \\
-				1 & 0
-			\end{pmatrix} & \begin{pmatrix}
-													0 & 1 \\
-													1 & 0
-												\end{pmatrix} \\
-    \begin{pmatrix} 
-				0 & 1 \\
-				1 & 0
-			\end{pmatrix} & \begin{pmatrix}
-													0 & 1 \\
-													1 & 0
-												\end{pmatrix} 
-  \end{pmatrix} = 
-  \begin{pmatrix}
-		0 & 0 & 0 & 1 \\
-		0 & 0 & 1 & 0 \\
-    0 & 1 & 0 & 0 \\
-    1 & 0 & 0 & 0 
-  \end{pmatrix}
-\end{equation}
-$$  
-
-  
 $$
 \begin{equation}
 	{Y}_{0} \otimes {Y}_{1} =  
