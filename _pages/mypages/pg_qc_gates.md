@@ -238,6 +238,34 @@ The CNOT gate from 1 to 2 is denoted $${ \text{CNOT}_{10} }$$ while the CNOT gat
 
 The gates $${ {X}_{0} {X}_{1} }$$, $${ {Y}_{0} {Y}_{1} }$$, and $${ {Z}_{0} {Z}_{1} }$$ can be obtained with the tensorial product $${ \otimes }$$ of the one-qubit matrices:
 
+
+
+\begin{equation}
+\begin{aligned}
+	a =  
+	\begin{pmatrix}
+		\begin{pmatrix} 
+			0 & 1 \\
+			1 & 0
+		\end{pmatrix} & \begin{pmatrix}
+											0 & 1 \\
+											1 & 0
+										\end{pmatrix} \\
+     \begin{pmatrix} 
+			0 & 1 \\
+			1 & 0
+		\end{pmatrix} & \begin{pmatrix}
+											0 & 1 \\
+											1 & 0
+										\end{pmatrix} 
+  \end{pmatrix} 
+\end{aligned}
+\end{equation}
+
+
+
+
+
 $$
 \begin{equation}
 	{X}_{0} \otimes {X}_{1} =  
