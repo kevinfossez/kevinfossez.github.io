@@ -43,7 +43,6 @@ $$
 \end{equation}
 $$  
 
-{% math %}
 $$
 \begin{equation}
   \begin{pmatrix}
@@ -52,7 +51,6 @@ $$
   \end{pmatrix} 
 \end{equation}
 $$
-{% endmath %}
 
 ttttt
 
