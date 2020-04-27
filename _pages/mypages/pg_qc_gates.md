@@ -12,20 +12,13 @@ See wikipedia page on [quantum gates](https://en.wikipedia.org/wiki/Quantum_logi
 
 ### Spin $${ 1/2 }$$ representation and conventions
 
-Test
-
-{% raw %}
-$$
-\ket{ s = 1/2, {m}_{s} = \pm 1/2 } = \ket{\pm}
-$$
-{% endraw %}
-
 $$
 \ket{ s = 1/2, {m}_{s} = \pm 1/2 } = \ket{\pm}
 $$
 
 Sometimes the kets $${ \ket{\pm} }$$ are used for the Hadamard transformed basis [link](https://en.wikipedia.org/wiki/Controlled_NOT_gate), otherwise, the convention is to take $${ \ket{+} = \ket{0} }$$ and $${ \ket{-} = \ket{1} }$$, so in the matrix representation one has:  
 
+{% raw %}
 $$
 \begin{align}
   & \ket{+} = \ket{0} = 
@@ -40,6 +33,7 @@ $$
   \end{pmatrix}
 \end{align}
 $$  
+{% endraw %}
 
 
 ### One-qubit gates
