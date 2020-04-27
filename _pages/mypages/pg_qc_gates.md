@@ -31,6 +31,31 @@ $$
 \end{align}
 $$  
 
+
+ttt
+$$
+\begin{equation}
+  \begin{pmatrix}
+    1 \\
+    0 
+  \end{pmatrix} 
+\end{equation}
+$$  
+
+$$
+\begin{equation}
+  \begin{pmatrix}
+    1 & 0 \\
+    0 & 1
+  \end{pmatrix} 
+\end{equation}
+$$  
+ttt
+
+
+
+
+
 Test6
 $$
 \begin{align}
@@ -62,23 +87,6 @@ $$
   \end{pmatrix}
 \end{align}
 $$  
-
-
-Titi
-<script type="math/tex; mode=display">% <![CDATA[
-\begin{align}
-  &\ket{+} = \ket{0} = 
-  \begin{pmatrix}
-    1 \\
-    0
-  \end{pmatrix} \\
-  &\ket{-} = \ket{1} = 
-  \begin{pmatrix}
-    0 \\
-    1
-  \end{pmatrix}
-\end{align}
-%]]></script>
 
 
 
