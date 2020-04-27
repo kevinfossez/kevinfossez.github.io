@@ -34,7 +34,7 @@ Sometimes the kets $${ \ket{\pm} }$$ are used for the Hadamard transformed basis
   \end{pmatrix} \\\\\\\\
   & \ket{-} = \ket{1} = 
   \begin{pmatrix}
-    0 \\\\\\\\\\
+    0 \\\\\\\\
     1
   \end{pmatrix}
 \end{aligned}
@@ -45,16 +45,16 @@ Sometimes the kets $${ \ket{\pm} }$$ are used for the Hadamard transformed basis
 
 The identity matrix is trivially:
 
-$$
 \begin{equation}
+\begin{aligned}
   I =  
   \begin{pmatrix}
-    1 & 0 \\
+    1 & 0 \\\\\\\\
     0 & 1
   \end{pmatrix} 
   = \ket{0}\bra{0} + \ket{1}\bra{1}
+\end{aligned}
 \end{equation}
-$$  
 
 
 
