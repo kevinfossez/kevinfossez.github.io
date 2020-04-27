@@ -64,15 +64,14 @@ $$
 $$  
 
 
-Toto
 $$
 \begin{align}
-  &amp; \ket{+} = \ket{0} = 
+  &\ket{+} = \ket{0} = 
   \begin{pmatrix}
     1 \\
     0
   \end{pmatrix} \\
-  &amp; \ket{-} = \ket{1} = 
+  &\ket{-} = \ket{1} = 
   \begin{pmatrix}
     0 \\
     1
