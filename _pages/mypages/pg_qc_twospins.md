@@ -29,6 +29,41 @@ In matrix representation one has:
 
 \begin{equation}
 \begin{aligned}
+  H = 
+  \begin{pmatrix}
+    1 & 0 & 0 & 0 \\\\\\\\
+    0 & 1 & 0 & 0 \\\\\\\\
+    0 & 0 & 1 & 0 \\\\\\\\
+    0 & 0 & 0 & 1
+  \end{pmatrix} 
+  + 
+  \begin{pmatrix}
+    0 & 0 & 0 & 1 \\\\\\\\
+    0 & 0 & 1 & 0 \\\\\\\\
+    0 & 1 & 0 & 0 \\\\\\\\
+    1 & 0 & 0 & 0
+  \end{pmatrix} + 
+  \begin{pmatrix}
+    0 & 0 & 0 & -1 \\\\\\\\
+    0 & 0 & 1 & 0 \\\\\\\\
+    0 & 1 & 0 & 0 \\\\\\\\
+    -1 & 0 & 0 & 0
+  \end{pmatrix} + 
+  \begin{pmatrix}
+    1 & 0 & 0 & 0 \\\\\\\\
+    0 & -1 & 0 & 0 \\\\\\\\
+    0 & 0 & -1 & 0 \\\\\\\\
+    0 & 0 & 0 & 1
+  \end{pmatrix} 
+  \right]
+\end{aligned}
+\end{equation}
+
+
+
+
+\begin{equation}
+\begin{aligned}
   H = \frac{ 3 {\hbar}^2 }{4}
   \begin{pmatrix}
     1 & 0 & 0 & 0 \\\\\\\\
