@@ -272,7 +272,7 @@ The gates $${ {X}_{0} {X}_{1} }$$, $${ {Y}_{0} {Y}_{1} }$$, and $${ {Z}_{0} {Z}_
 
 \begin{equation}
 \begin{aligned}
-	{Y}_{0} \otimes {Y}_{1} =  
+	Y_0 \otimes Y_1 =  
 	\begin{pmatrix}
 		0\begin{pmatrix} 
 				0 & -i \\\\\\\\
@@ -300,7 +300,7 @@ The gates $${ {X}_{0} {X}_{1} }$$, $${ {Y}_{0} {Y}_{1} }$$, and $${ {Z}_{0} {Z}_
 
 \begin{equation}
 \begin{aligned}
-	{Z}_{0} \otimes {Z}_{1} =  
+	Z_0 \otimes Z_1 =  
 	\begin{pmatrix}
 		1\begin{pmatrix} 
 				1 & 0 \\\\\\\\
