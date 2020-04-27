@@ -60,28 +60,28 @@ The identity matrix is trivially:
 
 Pauli matrices are the building blocks for all operations acting on spins $${ 1/2 }$$ and so on individual qubits. In matrix representation they are defined as:  
 
-$$
-\begin{align}
+\begin{equation}
+\begin{aligned}
   & {\sigma}_{1} =  
   \begin{pmatrix}
-    0 & 1 \\
+    0 & 1 \\\\\\\\
     1 & 0
   \end{pmatrix} 
-  = X = \ket{1}\bra{0} + \ket{0}\bra{1} \\
+  = X = \ket{1}\bra{0} + \ket{0}\bra{1} \\\\\\\\
   & {\sigma}_{2} =  
   \begin{pmatrix}
-    0 & -i \\
+    0 & -i \\\\\\\\
     i & 0
   \end{pmatrix} 
-  = Y = i \ket{1}\bra{0} -i \ket{0}\bra{1} \\
+  = Y = i \ket{1}\bra{0} -i \ket{0}\bra{1} \\\\\\\\
   & {\sigma}_{3} =  
   \begin{pmatrix}
-    1 & 0 \\
+    1 & 0 \\\\\\\\
     0 & -1
   \end{pmatrix} 
   = Z = \ket{0}\bra{0} - \ket{1}\bra{1}
-\end{align}
-$$  
+\end{aligned}
+\end{equation}
 
 The $${ X }$$ matrix is also called the NOT gate.
 
