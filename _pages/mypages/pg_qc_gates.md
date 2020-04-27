@@ -31,21 +31,7 @@ $$
 \end{align}
 $$  
 
-Test5
-$$
-\begin{align}
-  a &= b \\
-  &= c
-\end{align}
-$$  
-
-$$
-\begin{align}
-  a &= b \\\\
-  &= c
-\end{align}
-$$  
-
+Test6
 $$
 \begin{align}
   a \&= b \\
@@ -53,6 +39,7 @@ $$
 \end{align}
 $$  
 
+Test7
 $$
 \begin{align}
   a = b \\
