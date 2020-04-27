@@ -18,13 +18,24 @@ $$
 
 Sometimes the kets $${ \ket{\pm} }$$ are used for the Hadamard transformed basis [link](https://en.wikipedia.org/wiki/Controlled_NOT_gate), otherwise, the convention is to take $${ \ket{+} = \ket{0} }$$ and $${ \ket{-} = \ket{1} }$$, so in the matrix representation one has:  
 
+
+$$
+\begin{align}
+  a &= b \\
+	&= c
+\end{align}
+$$  
+
+
+
+
 $$
 \begin{align}
   & \ket{+} = \ket{0} = 
   \begin{pmatrix}
     1 \\
     0
-  \end{pmatrix} \\\\
+  \end{pmatrix} \\
   & \ket{-} = \ket{1} = 
   \begin{pmatrix}
     0 \\
