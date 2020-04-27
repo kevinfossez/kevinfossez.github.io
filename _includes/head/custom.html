@@ -33,7 +33,15 @@
       inlineMath: [ ['$$','$$'], ["\\(","\\)"] ],
       processEscapes: true
     }
-  });
+		TeX: {
+    	Macros: {
+      	bra: ["{\\left<#1\\right|}",1]
+				ket: ["{\\left|#1\\right>}",1]
+				braket: ["{\\left<#1\\right>}",1]
+    	}
+  	}
+	});
+
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
