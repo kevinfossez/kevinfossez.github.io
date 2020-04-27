@@ -24,7 +24,11 @@
 <meta name="theme-color" content="#ffffff">
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 
-
+<!--
+      	bra: ["{\\left<#1\\right|}",1],
+				ket: ["{\\left|#1\\right>}",1],
+				braket: ["{\\left<#1\\right>}",1]
+-->
 
 <script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
 <script type="text/x-mathjax-config">
@@ -35,9 +39,9 @@
     }
 		TeX: {
     	Macros: {
-      	bra: ["{\\left<#1\\right|}",1]
-				ket: ["{\\left|#1\\right>}",1]
-				braket: ["{\\left<#1\\right>}",1]
+				bra: ["\\langle{#1}|", 1],
+				ket: ["|{#1}\\rangle", 1],
+        braket: ["\\langle{#1}\\rangle}", 1]
     	}
   	}
 	});
