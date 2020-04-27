@@ -20,6 +20,14 @@ Sometimes the kets $${ \ket{\pm} }$$ are used for the Hadamard transformed basis
 
 
 $$
+\begin{equation}
+  a = b
+\end{equation}
+$$  
+
+
+
+$$
 \begin{aligned}
   a &= b \\
   &= c
