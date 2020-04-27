@@ -243,20 +243,20 @@ The gates $${ {X}_{0} {X}_{1} }$$, $${ {Y}_{0} {Y}_{1} }$$, and $${ {Z}_{0} {Z}_
 \begin{aligned}
 	X_0 \otimes X_1 =  
 	\begin{pmatrix}
-		\begin{pmatrix} 
-			0 & 1 \\\\\\\\
-			1 & 0
-		\end{pmatrix} & \begin{pmatrix}
-											0 & 1 \\\\\\\\
-											1 & 0
-										\end{pmatrix} \\\\\\\\
-    \begin{pmatrix} 
-			0 & 1 \\\\\\\\
-			1 & 0
-		\end{pmatrix} & \begin{pmatrix}
-											0 & 1 \\\\\\\\
-											1 & 0
-										\end{pmatrix} 
+		0 \begin{pmatrix} 
+			 0 & 1 \\\\\\\\
+			 1 & 0
+		 \end{pmatrix} & 1 \begin{pmatrix}
+											  0 & 1 \\\\\\\\
+											  1 & 0
+										  \end{pmatrix} \\\\\\\\
+    1 \begin{pmatrix} 
+			 0 & 1 \\\\\\\\
+			 1 & 0
+		 \end{pmatrix} & 0 \begin{pmatrix}
+											  0 & 1 \\\\\\\\
+											  1 & 0
+										  \end{pmatrix} 
   \end{pmatrix} = 
   \begin{pmatrix}
 		0 & 0 & 0 & 1 \\\\\\\\
@@ -300,61 +300,61 @@ The gates $${ {X}_{0} {X}_{1} }$$, $${ {Y}_{0} {Y}_{1} }$$, and $${ {Z}_{0} {Z}_
 
 
 
-$$
 \begin{equation}
+\begin{aligned}
 	{Y}_{0} \otimes {Y}_{1} =  
 	\begin{pmatrix}
 		0 \begin{pmatrix} 
-				0 & -i \\
+				0 & -i \\\\\\\\
 				i & 0
 			\end{pmatrix} & -i \begin{pmatrix}
-													0 & -i \\
+													0 & -i \\\\\\\\
 													i & 0
-												\end{pmatrix} \\
+												\end{pmatrix} \\\\\\\\
     i \begin{pmatrix} 
-				0 & -i \\
+				0 & -i \\\\\\\\
 				i & 0
 			\end{pmatrix} & 0 \begin{pmatrix}
-													0 & -i \\
+													0 & -i \\\\\\\\
 													i & 0
 												\end{pmatrix} 
   \end{pmatrix} = 
   \begin{pmatrix}
-		0 & 0 & 0 & -1 \\
-		0 & 0 & 1 & 0 \\
-    0 & 1 & 0 & 0 \\
+		0 & 0 & 0 & -1 \\\\\\\\
+		0 & 0 & 1 & 0 \\\\\\\\
+    0 & 1 & 0 & 0 \\\\\\\\
     -1 & 0 & 0 & 0 
   \end{pmatrix}
+\end{aligned}
 \end{equation}
-$$  
 
-$$
 \begin{equation}
+\begin{aligned}
 	{Z}_{0} \otimes {Z}_{1} =  
 	\begin{pmatrix}
 		1 \begin{pmatrix} 
-				1 & 0 \\
+				1 & 0 \\\\\\\\
 				0 & -1
 			\end{pmatrix} & 0 \begin{pmatrix}
-													1 & 0 \\
+													1 & 0 \\\\\\\\
 													0 & -1
-												\end{pmatrix} \\
+												\end{pmatrix} \\\\\\\\
     0 \begin{pmatrix} 
-				1 & 0 \\
+				1 & 0 \\\\\\\\
 				0 & -1
 			\end{pmatrix} & -1 \begin{pmatrix}
-													1 & 0 \\
+													1 & 0 \\\\\\\\
 													0 & -1
 												\end{pmatrix} 
   \end{pmatrix} = 
   \begin{pmatrix}
-		1 & 0 & 0 & 0 \\
-		0 & -1 & 0 & 0 \\
-    0 & 0 & -1 & 0 \\
+		1 & 0 & 0 & 0 \\\\\\\\
+		0 & -1 & 0 & 0 \\\\\\\\
+    0 & 0 & -1 & 0 \\\\\\\\
     0 & 0 & 0 & 1 
   \end{pmatrix}
+\end{aligned}
 \end{equation}
-$$  
 
 
 
