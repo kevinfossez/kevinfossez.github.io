@@ -64,30 +64,30 @@ Moreover, the creation and annihilation operators can transformed into the $${ X
 
 \begin{equation}
 \begin{aligned}
-  & \hat{a}_{n}^{\dagger} \to \frac{1}{2} \left[ \prod_{j=0}^{n-1} (-{Z}_{j}) \right] ( {X}_{n} - i {Y}_{n} ) \\\\\\\\
-  & \hat{a}_{n} \to \frac{1}{2} \left[ \prod_{j=0}^{n-1} (-{Z}_{j}) \right] ( {X}_{n} + i {Y}_{n} ) \\
+  & \hat{a}_{n}^{\dagger} \to \frac{1}{2} \left[ \prod_{j=0}^{n-1} (-Z_j) \right] ( X_n - i Y_n ) \\\\\\\\
+  & \hat{a}_{n} \to \frac{1}{2} \left[ \prod_{j=0}^{n-1} (-Z_j) \right] ( X_n + i Y_n ) \\
 \end{aligned}
 \end{equation}
 
 It follows that:  
 
-\begin{aligned}
 \begin{equation}
-  & \hat{a}_{0}^{\dagger} \to \frac{1}{2} ( {X}_{0} - i {Y}_{0} ) \\\\\\\\
-  & \hat{a}_{0} \to \frac{1}{2} ( {X}_{0} + i {Y}_{0} ) \\\\\\\\
-  & \hat{a}_{1}^{\dagger} \to \frac{1}{2} (-{Z}_{0}) ( {X}_{1} - i {Y}_{1} ) \\\\\\\\
-  & \hat{a}_{1} \to \frac{1}{2} (-{Z}_{0}) ( {X}_{1} + i {Y}_{1} )
-\end{equation}
+\begin{aligned}
+  & \hat{a}_{0}^{\dagger} \to \frac{1}{2} ( X_0 - i Y_0 ) \\\\\\\\
+  & \hat{a}_{0} \to \frac{1}{2} ( X_0 + i Y_0 ) \\\\\\\\
+  & \hat{a}_{1}^{\dagger} \to \frac{1}{2} (-Z_0) ( X_1 - i Y_1 ) \\\\\\\\
+  & \hat{a}_{1} \to \frac{1}{2} (-Z_0) ( X_1 + i Y_1 )
 \end{aligned}
+\end{equation}
 
 and hence:  
 
 \begin{equation}
 \begin{aligned}
-  {a}_{0}^{\dagger} {a}_{1} - {a}_{1}^{\dagger} {a}_{0} &\to \frac{1}{2} ( {X}_{0} - i {Y}_{0} ) \frac{1}{2} (-{Z}_{0}) ( {X}_{1} + i {Y}_{1} ) - \frac{1}{2} (-{Z}_{0}) ( {X}_{1} - i {Y}_{1} ) \frac{1}{2} ( {X}_{0} + i {Y}_{0} ) \\\\\\\\
-  &= \frac{1}{4} \left[ ( {X}_{0} {X}_{1} + i {X}_{0} {Y}_{1} - i {Y}_{0} {X}_{1} + {Y}_{0} {Y}_{1} ) (-{Z}_{0}) + {Z}_{0} ( {X}_{1} {X}_{0} + i {X}_{1} {Y}_{0} - i {Y}_{1} {X}_{0} + {Y}_{1} {Y}_{0} ) \right] \\\\\\\\
-  &= \frac{1}{4} \left[ {X}_{1} ( {Z}_{0} {X}_{0} - {X}_{0} {Z}_{0} ) + {Y}_{1} ( {Z}_{0} {Y}_{0} - {Y}_{0} {Z}_{0} ) + i {Y}_{1} ( {Z}_{0} {Y}_{0} + {Y}_{0} {Z}_{0} ) - i {Y}_{1} ( {Z}_{0} {Y}_{0} + {Y}_{0} {Z}_{0} ) \right] \\\\\\\\
-  &= \frac{i}{2} ( {X}_{1} {Y}_{0} - {Y}_{1} {X}_{0} )
+  {a}_{0}^{\dagger} {a}_{1} - {a}_{1}^{\dagger} {a}_{0} &\to \frac{1}{2} ( X_0 - i Y_0 ) \frac{1}{2} (-Z_0) ( X_1 + i Y_1 ) - \frac{1}{2} (-Z_0) ( X_1 - i Y_1 ) \frac{1}{2} ( X_0 + i Y_0 ) \\\\\\\\
+  &= \frac{1}{4} \left[ ( X_0 X_1 + i X_0 Y_1 - i Y_0 X_1 + Y_0 Y_1 ) (-Z_0) + Z_0 ( X_1 X_0 + i X_1 Y_0 - i Y_1 X_0 + Y_1 Y_0 ) \right] \\\\\\\\
+  &= \frac{1}{4} \left[ X_1 ( Z_0 X_0 - X_0 Z_0 ) + Y_1 ( Z_0 Y_0 - Y_0 Z_0 ) + i Y_1 ( Z_0 Y_0 + Y_0 Z_0 ) - i Y_1 ( Z_0 Y_0 + Y_0 Z_0 ) \right] \\\\\\\\
+  &= \frac{i}{2} ( X_1 Y_0 - Y_1 X_0 )
 \end{aligned}
 \end{equation}
 
@@ -95,7 +95,7 @@ It appears that the operator in the exponential writes:
 
 \begin{equation}
 \begin{aligned}
-  {X}_{1} {Y}_{0} - {Y}_{1} {X}_{0} = -2
+  X_1 Y_0 - Y_1 X_0 = -2
   \begin{pmatrix}
 		0 & 0 & 0 & 0 \\\\\\\\
 		0 & 0 & -i & 0 \\\\\\\\
