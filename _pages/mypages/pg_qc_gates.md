@@ -5,8 +5,6 @@ title: Quantum computing gates
 description: One- and two-qubit gates
 ---
 
-<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML' async></script>
-
 See wikipedia page on [quantum gates](https://en.wikipedia.org/wiki/Quantum_logic_gate) for more details.
 
 ## One qubit
@@ -51,6 +49,20 @@ $$
   \end{pmatrix} 
 \end{equation}
 $$
+
+
+\begin{equation}
+\begin{aligned}
+    \Phi(0,x) = \max_{u \in \mathcal{D}} \bigg[
+        \mathbb{E} & \Phi\left(1,
+        x + \int_0^1 \sigma^2(s) \, \zeta(s) \, u_s \, ds
+        + \int_0^1 \sigma(s) \, dW_s
+    \right) \\\\\\\\
+        &- \frac{1}{2} \int_0^1 \sigma^2(s) \, \zeta(s) \,
+        \mathbb{E} u_s^2  \, ds
+    \bigg].
+\end{aligned}
+\end{equation}
 
 ttttt
 
