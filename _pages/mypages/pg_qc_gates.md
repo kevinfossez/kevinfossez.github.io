@@ -12,6 +12,8 @@ See wikipedia page on [quantum gates](https://en.wikipedia.org/wiki/Quantum_logi
 
 ### Spin $${ 1/2 }$$ representation and conventions
 
+Test
+
 $$
 \ket{ s = 1/2, {m}_{s} = \pm 1/2 } = \ket{\pm}
 $$
