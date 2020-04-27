@@ -25,11 +25,18 @@ $$
 \end{equation}
 $$  
 
+$$
+\begin{aligned}
+  a &= b \\\\\\
+  &= c
+\end{aligned}
+$$  
+
 
 
 $$
 \begin{aligned}
-  a &= b \\
+  a &= b \\\\
   &= c
 \end{aligned}
 $$  
