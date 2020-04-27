@@ -219,7 +219,13 @@ The CNOT gate from 1 to 2 is denoted $${ \text{CNOT}_{10} }$$ while the CNOT gat
 		0 & 1 & 0 & 0 \\\\\\\\
     0 & 0 & 0 & 1 \\\\\\\\
     0 & 0 & 1 & 0 
-  \end{pmatrix}, \quad 
+  \end{pmatrix}
+\end{aligned}
+\end{equation}
+
+
+\begin{equation}
+\begin{aligned}
   \text{CNOT}_{01} =  
   \begin{pmatrix}
 		1 & 0 & 0 & 0 \\\\\\\\
