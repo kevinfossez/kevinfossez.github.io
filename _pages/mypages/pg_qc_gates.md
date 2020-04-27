@@ -20,10 +20,10 @@ Sometimes the kets $${ \ket{\pm} }$$ are used for the Hadamard transformed basis
 
 
 $$
-\begin{align}
+\begin{aligned}
   a &= b \\
   &= c
-\end{align}
+\end{aligned}
 $$  
 
 
