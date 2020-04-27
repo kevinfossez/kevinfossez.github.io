@@ -32,12 +32,21 @@ $$
 \end{align}
 $$  
 
+<script type="math/tex">%<![CDATA[
 $$
 \begin{align}
-  a &= b \\
+<  a &= b \\
   &= c
 \end{align}
 $$  
+%]]></script>
+
+
+<script type="math/tex">%<![CDATA[
+\begin{align*}
+< &=5 \\
+&=6 \\
+\end{align*} %]]></script>
 
 $$
 \begin{align}
