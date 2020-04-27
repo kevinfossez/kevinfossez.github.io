@@ -18,37 +18,6 @@ $$
 Sometimes the kets $${ \ket{\pm} }$$ are used for the Hadamard transformed basis [link](https://en.wikipedia.org/wiki/Controlled_NOT_gate), otherwise, the convention is to take $${ \ket{+} = \ket{0} }$$ and $${ \ket{-} = \ket{1} }$$, so in the matrix representation one has:  
 
 
-$$
-\begin{equation}
-  a = b
-\end{equation}
-$$  
-
-$$
-\begin{align}
-  a = b
-\end{align}
-$$  
-
-
-ttt
-$$
-\begin{equation}
-  \begin{pmatrix}
-    1 \\
-    0 
-  \end{pmatrix} 
-\end{equation}
-$$  
-
-$$
-\begin{equation}
-  \begin{pmatrix}
-    1 & 0 \\
-    0 & 1
-  \end{pmatrix} 
-\end{equation}
-$$
 
 \begin{equation}
 \begin{aligned}
@@ -57,32 +26,17 @@ $$
 \end{aligned}
 \end{equation}
 
-
-
-
-\begin{equation}
+\begin{align}
 \begin{aligned}
-    \Phi(0,x) = \max_{u \in \mathcal{D}} \bigg[
-        \mathbb{E} & \Phi\left(1,
-        x + \int_0^1 \sigma^2(s) \, \zeta(s) \, u_s \, ds
-        + \int_0^1 \sigma(s) \, dW_s
-    \right) \\\\\\\\
-        &- \frac{1}{2} \int_0^1 \sigma^2(s) \, \zeta(s) \,
-        \mathbb{E} u_s^2  \, ds
-    \bigg].
+    a &= b \\\\\\\\
+			&= c
 \end{aligned}
-\end{equation}
+\end{align}
+
+
 
 ttttt
 
-
-
-$$
-\begin{aligned}
-  a &= b \\
-  &= c
-\end{aligned}
-$$  
 
 
 
