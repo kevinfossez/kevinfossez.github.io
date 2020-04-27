@@ -28,6 +28,7 @@
       	bra: ["{\\left<#1\\right|}",1],
 				ket: ["{\\left|#1\\right>}",1],
 				braket: ["{\\left<#1\\right>}",1]
+      processEscapes: true
 -->
 
 <script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
@@ -36,7 +37,6 @@
     tex2jax: {
       inlineMath: [ ['$$','$$'], ["\\(","\\)"] ],
       displayMath: [ ['$$','$$'], ["\\(","\\)"] ],
-      processEscapes: true
     },
 		TeX: {
     	Macros: {
