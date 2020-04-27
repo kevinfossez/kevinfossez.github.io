@@ -27,8 +27,8 @@ $$
 
 $$
 \begin{aligned}
-  a &= b \\\\\\
-  &= c
+  a \&= b \\\\\\
+  \&= c
 \end{aligned}
 $$  
 
@@ -36,10 +36,18 @@ $$
 
 $$
 \begin{aligned}
-  a &= b \\\\
-  &= c
+  a \&= b \\\\
+  \&= c
 \end{aligned}
 $$  
+
+$$
+\begin{aligned}
+  a \&= b \\
+  \&= c
+\end{aligned}
+$$  
+
 
 
 
