@@ -3,7 +3,7 @@ layout: archive
 permalink: /qc/qc_gates/
 title: Quantum computing gates
 description: One- and two-qubit gates
-use_math: true
+mathjax: true
 ---
 
 
