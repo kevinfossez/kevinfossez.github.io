@@ -17,6 +17,14 @@ $$
 
 Sometimes the kets $${ \ket{\pm} }$$ are used for the Hadamard transformed basis [link](https://en.wikipedia.org/wiki/Controlled_NOT_gate), otherwise, the convention is to take $${ \ket{+} = \ket{0} }$$ and $${ \ket{-} = \ket{1} }$$, so in the matrix representation one has:  
 
+$$
+\begin{equation}
+\begin{aligned}
+    a &= b \\\\\\\\
+			&= c
+\end{aligned}
+\end{equation}
+$$
 
 
 \begin{equation}
@@ -25,28 +33,6 @@ Sometimes the kets $${ \ket{\pm} }$$ are used for the Hadamard transformed basis
 			&= c
 \end{aligned}
 \end{equation}
-
-\begin{align}
-\begin{aligned}
-    a &= b \\\\\\\\
-			&= c
-\end{aligned}
-\end{align}
-
-
-
-ttttt
-
-
-
-
-Test7
-$$
-\begin{align}
-  a = b \\
-  = c
-\end{align}
-$$  
 
 
 $$
