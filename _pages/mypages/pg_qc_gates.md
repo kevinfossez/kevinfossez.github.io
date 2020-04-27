@@ -25,11 +25,11 @@ $$
 \end{equation}
 $$  
 
-Test
+Test2
 $$
-\begin{aligned}
+\begin{align}
   a = b
-\end{aligned}
+\end{align}
 $$  
 
 
