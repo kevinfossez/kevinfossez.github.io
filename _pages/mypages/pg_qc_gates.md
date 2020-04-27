@@ -52,14 +52,8 @@ $$
 
 \begin{equation}
 \begin{aligned}
-    a = b
-        c & d
-        e
-        f
-    g \\\\\\\\
-        &h
-        i
-    j
+    a &= b \\\\\\\\
+			&= c
 \end{aligned}
 \end{equation}
 
