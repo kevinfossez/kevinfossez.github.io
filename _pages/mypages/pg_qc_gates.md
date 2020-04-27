@@ -14,8 +14,10 @@ See wikipedia page on [quantum gates](https://en.wikipedia.org/wiki/Quantum_logi
 
 Test
 
+{% raw %}
 $$
 \ket{ s = 1/2, {m}_{s} = \pm 1/2 } = \ket{\pm}
 $$
+{% endraw %}
 
 
