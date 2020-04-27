@@ -56,7 +56,7 @@ As such, this ansatz cannot be used together with the VQE method (see [link](./q
 
 $$
 \begin{equation}
-  U(\theta) = {e}^{ \theta ( {a}_{0}^{\dagger} {a}_{1} - {a}_{1}^{\dagger} {a}_{0} ) }
+  U(\theta) = {e}^{ \theta ( a_0^{\dagger} a_1 - a_1^{\dagger} a_0 ) }
 \end{equation}
 $$  
 
@@ -64,8 +64,8 @@ Moreover, the creation and annihilation operators can transformed into the $${ X
 
 \begin{equation}
 \begin{aligned}
-  & \hat{a}_n^{\dagger} \to \frac{1}{2} \left[ \prod_{j=0}^{n-1} (-Z_j) \right] ( X_n - i Y_n ) \\\\\\\\
-  & \hat{a}_n \to \frac{1}{2} \left[ \prod_{j=0}^{n-1} (-Z_j) \right] ( X_n + i Y_n )
+  & \hat{a}\_n^{\dagger} \to \frac{1}{2} \left[ \prod\_{j=0}^{n-1} (-Z_j) \right] ( X_n - i Y_n ) \\\\\\\\
+  & \hat{a}\_n \to \frac{1}{2} \left[ \prod\_{j=0}^{n-1} (-Z_j) \right] ( X_n + i Y_n )
 \end{aligned}
 \end{equation}
 
