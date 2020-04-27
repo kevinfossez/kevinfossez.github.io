@@ -52,9 +52,9 @@ $$
   \end{pmatrix} 
 \end{equation}
 $$
-{%endmath%}
+{% endmath %}
 
-tttt
+ttttt
 
 
 
