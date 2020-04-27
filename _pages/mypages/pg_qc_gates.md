@@ -16,6 +16,14 @@ See wikipedia page on [quantum gates](https://en.wikipedia.org/wiki/Quantum_logi
 $$
 \newcommand{\bra}[1]{\left<#1\right|}
 \newcommand{\ket}[1]{\left|#1\right>}
+\ket{ s = 1/2, {m}_{s} = \pm 1/2 } = \ket{\pm}
+$$
+
+
+
+$$
+\newcommand{\bra}[1]{\left<#1\right|}
+\newcommand{\ket}[1]{\left|#1\right>}
 \begin{equation}
   \ket{ s = 1/2, {m}_{s} = \pm 1/2 } = \ket{\pm}
 \end{equation}
