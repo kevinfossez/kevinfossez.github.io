@@ -24,28 +24,9 @@ $$
 \ket{ s = 1/2, {m}_{s} = \pm 1/2 } = \ket{\pm}
 $$
 
-
-$$
-\newcommand{\bra}[1]{\left<#1\right|}
-\newcommand{\ket}[1]{\left|#1\right>}
-\ket{ s = 1/2, {m}_{s} = \pm 1/2 } = \ket{\pm}
-$$
-
-
-
-$$
-\newcommand{\bra}[1]{\left<#1\right|}
-\newcommand{\ket}[1]{\left|#1\right>}
-\begin{equation}
-  \ket{ s = 1/2, {m}_{s} = \pm 1/2 } = \ket{\pm}
-\end{equation}
-$$
-
 Sometimes the kets $${ \ket{\pm} }$$ are used for the Hadamard transformed basis [link](https://en.wikipedia.org/wiki/Controlled_NOT_gate), otherwise, the convention is to take $${ \ket{+} = \ket{0} }$$ and $${ \ket{-} = \ket{1} }$$, so in the matrix representation one has:  
 
 $$
-\newcommand{\bra}[1]{\left<#1\right|}
-\newcommand{\ket}[1]{\left|#1\right>}
 \begin{align}
   & \ket{+} = \ket{0} = 
   \begin{pmatrix}
@@ -66,8 +47,6 @@ $$
 The identity matrix is trivially:
 
 $$
-\newcommand{\bra}[1]{\left<#1\right|}
-\newcommand{\ket}[1]{\left|#1\right>}
 \begin{equation}
   I =  
   \begin{pmatrix}
@@ -83,8 +62,6 @@ $$
 Pauli matrices are the building blocks for all operations acting on spins $${ 1/2 }$$ and so on individual qubits. In matrix representation they are defined as:  
 
 $$
-\newcommand{\bra}[1]{\left<#1\right|}
-\newcommand{\ket}[1]{\left|#1\right>}
 \begin{align}
   & {\sigma}_{1} =  
   \begin{pmatrix}
@@ -157,8 +134,6 @@ $$
 This gate puts a qubit in a pure state into a mixed state (superposition):
 
 $$
-\newcommand{\bra}[1]{\left<#1\right|}
-\newcommand{\ket}[1]{\left|#1\right>}
 \begin{align}
   & H \ket{0} = \frac{1}{ \sqrt{2} } 
   \begin{pmatrix}
@@ -191,8 +166,6 @@ $$
 The two-qubit states can also be represented as matrices:
 
 $$
-\newcommand{\bra}[1]{\left<#1\right|}
-\newcommand{\ket}[1]{\left|#1\right>}
 \begin{equation}
   \ket{00} = 
   \begin{pmatrix}
