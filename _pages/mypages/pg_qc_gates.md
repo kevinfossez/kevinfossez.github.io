@@ -64,20 +64,26 @@ Pauli matrices are the building blocks for all operations acting on spins $${ 1/
 \begin{aligned}
   & {\sigma}_{1} =  
   \begin{pmatrix}
+\begin{aligned}
     0 & 1 \\\\\\\\
     1 & 0
+\end{aligned}
   \end{pmatrix} 
   = X = \ket{1}\bra{0} + \ket{0}\bra{1} \\\\\\\\
   & {\sigma}_{2} =  
   \begin{pmatrix}
+\begin{aligned}
     0 & -i \\\\\\\\
     i & 0
+\end{aligned}
   \end{pmatrix} 
   = Y = i \ket{1}\bra{0} -i \ket{0}\bra{1} \\\\\\\\
   & {\sigma}_{3} =  
   \begin{pmatrix}
+\begin{aligned}
     1 & 0 \\\\\\\\
     0 & -1
+\end{aligned}
   \end{pmatrix} 
   = Z = \ket{0}\bra{0} - \ket{1}\bra{1}
 \end{aligned}
