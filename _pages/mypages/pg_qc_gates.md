@@ -29,12 +29,12 @@ Sometimes the kets $${ \ket{\pm} }$$ are used for the Hadamard transformed basis
 \begin{aligned}
   & \ket{+} = \ket{0} = 
   \begin{pmatrix}
-    1 \\
+    1 \\\\\\\\
     0
-  \end{pmatrix} \\
+  \end{pmatrix} \\\\\\\\
   & \ket{-} = \ket{1} = 
   \begin{pmatrix}
-    0 \\
+    0 \\\\\\\\\\
     1
   \end{pmatrix}
 \end{aligned}
