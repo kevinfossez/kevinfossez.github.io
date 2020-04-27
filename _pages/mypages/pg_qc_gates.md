@@ -25,33 +25,28 @@ $$
 \end{equation}
 $$  
 
-{% raw %}
+Test
 $$
 \begin{aligned}
-  a &= b \\\\\\
-  &= c
+  a = b
 \end{aligned}
 $$  
-{% endraw %}
 
 
-{% raw %}
+
 $$
 \begin{aligned}
   a &= b \\\\
   &= c
 \end{aligned}
 $$  
-{% endraw %}
 
-{% raw %}
 $$
 \begin{aligned}
   a &= b \\
   &= c
 \end{aligned}
 $$  
-{% endraw %}
 
 
 
