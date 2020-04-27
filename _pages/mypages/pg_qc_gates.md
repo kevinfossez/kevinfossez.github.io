@@ -245,17 +245,17 @@ The gates $${ {X}_{0} {X}_{1} }$$, $${ {Y}_{0} {Y}_{1} }$$, and $${ {Z}_{0} {Z}_
 	a =  
 	\begin{pmatrix}
 		\begin{pmatrix} 
-			0 & 1 \\
+			0 & 1 \\\\\\\\
 			1 & 0
 		\end{pmatrix} & \begin{pmatrix}
-											0 & 1 \\
+											0 & 1 \\\\\\\\
 											1 & 0
-										\end{pmatrix} \\
+										\end{pmatrix} \\\\\\\\
      \begin{pmatrix} 
-			0 & 1 \\
+			0 & 1 \\\\\\\\
 			1 & 0
 		\end{pmatrix} & \begin{pmatrix}
-											0 & 1 \\
+											0 & 1 \\\\\\\\
 											1 & 0
 										\end{pmatrix} 
   \end{pmatrix} 
