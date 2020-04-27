@@ -64,8 +64,8 @@ Moreover, the creation and annihilation operators can transformed into the $${ X
 
 \begin{equation}
 \begin{aligned}
-  & \hat{a}_{n}^{\dagger} \to \frac{1}{2} \left[ \prod_{j=0}^{n-1} (-Z_j) \right] ( X_n - i Y_n ) \\\\\\\\
-  & \hat{a}_{n} \to \frac{1}{2} \left[ \prod_{j=0}^{n-1} (-Z_j) \right] ( X_n + i Y_n ) \\
+  & \hat{a}_n^{\dagger} \to \frac{1}{2} \left[ \prod_{j=0}^{n-1} (-Z_j) \right] ( X_n - i Y_n ) \\\\\\\\
+  & \hat{a}_n \to \frac{1}{2} \left[ \prod_{j=0}^{n-1} (-Z_j) \right] ( X_n + i Y_n )
 \end{aligned}
 \end{equation}
 
@@ -73,10 +73,10 @@ It follows that:
 
 \begin{equation}
 \begin{aligned}
-  & \hat{a}_{0}^{\dagger} \to \frac{1}{2} ( X_0 - i Y_0 ) \\\\\\\\
-  & \hat{a}_{0} \to \frac{1}{2} ( X_0 + i Y_0 ) \\\\\\\\
-  & \hat{a}_{1}^{\dagger} \to \frac{1}{2} (-Z_0) ( X_1 - i Y_1 ) \\\\\\\\
-  & \hat{a}_{1} \to \frac{1}{2} (-Z_0) ( X_1 + i Y_1 )
+  & \hat{a}_0^{\dagger} \to \frac{1}{2} ( X_0 - i Y_0 ) \\\\\\\\
+  & \hat{a}_0 \to \frac{1}{2} ( X_0 + i Y_0 ) \\\\\\\\
+  & \hat{a}_1^{\dagger} \to \frac{1}{2} (-Z_0) ( X_1 - i Y_1 ) \\\\\\\\
+  & \hat{a}_1 \to \frac{1}{2} (-Z_0) ( X_1 + i Y_1 )
 \end{aligned}
 \end{equation}
 
@@ -84,7 +84,7 @@ and hence:
 
 \begin{equation}
 \begin{aligned}
-  {a}_{0}^{\dagger} {a}_{1} - {a}_{1}^{\dagger} {a}_{0} &\to \frac{1}{2} ( X_0 - i Y_0 ) \frac{1}{2} (-Z_0) ( X_1 + i Y_1 ) - \frac{1}{2} (-Z_0) ( X_1 - i Y_1 ) \frac{1}{2} ( X_0 + i Y_0 ) \\\\\\\\
+  {a}_0^{\dagger} a_1 - a_1^{\dagger} a_0 &\to \frac{1}{2} ( X_0 - i Y_0 ) \frac{1}{2} (-Z_0) ( X_1 + i Y_1 ) - \frac{1}{2} (-Z_0) ( X_1 - i Y_1 ) \frac{1}{2} ( X_0 + i Y_0 ) \\\\\\\\
   &= \frac{1}{4} \left[ ( X_0 X_1 + i X_0 Y_1 - i Y_0 X_1 + Y_0 Y_1 ) (-Z_0) + Z_0 ( X_1 X_0 + i X_1 Y_0 - i Y_1 X_0 + Y_1 Y_0 ) \right] \\\\\\\\
   &= \frac{1}{4} \left[ X_1 ( Z_0 X_0 - X_0 Z_0 ) + Y_1 ( Z_0 Y_0 - Y_0 Z_0 ) + i Y_1 ( Z_0 Y_0 + Y_0 Z_0 ) - i Y_1 ( Z_0 Y_0 + Y_0 Z_0 ) \right] \\\\\\\\
   &= \frac{i}{2} ( X_1 Y_0 - Y_1 X_0 )
@@ -113,7 +113,7 @@ This results in the following wave function after the first operations:
 
 \begin{equation}
 \begin{aligned}
-	\ket{\Psi({t}_{1})} &= X \ket{0} \otimes {R}_{y}(\theta) \ket{0} \\\\\\\\
+	\ket{\Psi(t_1)} &= X \ket{0} \otimes {R}_{y}(\theta) \ket{0} \\\\\\\\
 	&= 
 	\begin{pmatrix}
 		0 & 1 \\\\\\\\
@@ -141,7 +141,7 @@ and then after the two-quibit gate one has:
 
 \begin{equation}
 \begin{aligned}
-	\ket{\Psi({t}_{2})} &= \text{CNOT}_{01} \ket{\Psi({t}_{1})} \\\\\\\\
+	\ket{\Psi(t_2)} &= \text{CNOT}_{01} \ket{\Psi(t_1)} \\\\\\\\
 	&= 
   \begin{pmatrix}
 		1 & 0 & 0 & 0 \\\\\\\\
