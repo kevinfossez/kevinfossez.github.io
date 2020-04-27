@@ -3,9 +3,9 @@ layout: archive
 permalink: /qc/qc_gates/
 title: Quantum computing gates
 description: One- and two-qubit gates
-mathjax: true
 ---
 
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
 See wikipedia page on [quantum gates](https://en.wikipedia.org/wiki/Quantum_logic_gate) for more details.
 
