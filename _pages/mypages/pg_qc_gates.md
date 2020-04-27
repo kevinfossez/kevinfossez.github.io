@@ -48,15 +48,15 @@ $$
 
 $$
 \begin{align}
-  a \&= b \\
-  \&= c
+  a \\&= b \\
+  \\&= c
 \end{align}
 $$  
 
 $$
 \begin{align}
-  a \&= b \\\\
-  \&= c
+  a \\&= b \\\\
+  \\&= c
 \end{align}
 $$  
 
