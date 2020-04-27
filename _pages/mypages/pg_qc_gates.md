@@ -242,7 +242,7 @@ The gates $${ {X}_{0} {X}_{1} }$$, $${ {Y}_{0} {Y}_{1} }$$, and $${ {Z}_{0} {Z}_
 
 \begin{equation}
 \begin{aligned}
-	{X}_{0} + {X}_{1} =  
+	a =  
 	\begin{pmatrix}
 		\begin{pmatrix} 
 			0 & 1 \\\\\\\\
