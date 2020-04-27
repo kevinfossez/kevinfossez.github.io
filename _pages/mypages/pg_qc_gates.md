@@ -32,20 +32,32 @@ $$
 \end{align}
 $$  
 
-
-
 $$
-\begin{aligned}
-  a &= b \\\\
+\begin{align}
+  a &= b \\
   &= c
-\end{aligned}
+\end{align}
 $$  
 
 $$
-\begin{aligned}
-  a &= b \\
+\begin{align}
+  a &= b \\\\
   &= c
-\end{aligned}
+\end{align}
+$$  
+
+$$
+\begin{align}
+  a \&= b \\
+  \&= c
+\end{align}
+$$  
+
+$$
+\begin{align}
+  a \&= b \\\\
+  \&= c
+\end{align}
 $$  
 
 
