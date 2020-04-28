@@ -9,8 +9,6 @@ redirect_from:
 ---
 
 
-About page test
-
 ## General
 
 - List of [articles](./art_Berggren_used/) where the Berggren basis was used.

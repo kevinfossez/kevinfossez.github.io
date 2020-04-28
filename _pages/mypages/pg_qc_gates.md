@@ -19,14 +19,6 @@ Sometimes the kets $${ \ket{\pm} }$$ are used for the Hadamard transformed basis
 
 \begin{equation}
 \begin{aligned}
-    a &= b \\\\\\\\
-			&= c
-\end{aligned}
-\end{equation}
-
-
-\begin{equation}
-\begin{aligned}
   & \ket{+} = \ket{0} = 
   \begin{pmatrix}
     1 \\\\\\\\

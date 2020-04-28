@@ -32,7 +32,7 @@ redirect_from:
 
 ### Nuclear structure and reactions
 
-- Spectroscopy of atomic nuclei, rotational bands
+- Spectroscopy of atomic nuclei, rotational bands, clustering
 - Proton and neutron radiative capture reactions of astrophysical interest
 
 ### Quantum computing
