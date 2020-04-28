@@ -55,7 +55,6 @@ In matrix representation one has:
     0 & 0 & -1 & 0 \\\\\\\\
     0 & 0 & 0 & 1
   \end{pmatrix} 
-  \right]
 \end{aligned}
 \end{equation}
 
