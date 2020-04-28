@@ -150,92 +150,16 @@ Applying the UCC wave function on the Hamiltonian gives:
 \end{equation}
 
 
-
-\begin{equation}
-\begin{aligned}
-  H \ket{ {\Psi}_{\text{UCC}} }
-	&= \frac{ 3 {\hbar}^2 }{4} \ket{ {\Psi}_{\text{UCC}} } \\\\\\\\
-  &+ \frac{ {\hbar}^2 }{2}
-  \begin{pmatrix}
-    0 & 0 & 0 & 1 \\\\\\\\
-    0 & 0 & 1 & 0 \\\\\\\\
-    0 & 1 & 0 & 0 \\\\\\\\
-    1 & 0 & 0 & 0
-  \end{pmatrix}
-	\left[\cos\left(\frac{\theta}{2}\right)
-  \begin{pmatrix}
-    0 \\\\\\\\
-    0 \\\\\\\\
-    1 \\\\\\\\
-    0 
-  \end{pmatrix}
-	+\sin\left(\frac{\theta}{2}\right)
-  \begin{pmatrix}
-    0 \\\\\\\\
-    1 \\\\\\\\
-    0 \\\\\\\\
-    0 
-  \end{pmatrix}
-  \right] \\\\\\\\
-  &+\frac{ {\hbar}^2 }{2}
-  \begin{pmatrix}
-    0 & 0 & 0 & -1 \\\\\\\\
-    0 & 0 & 1 & 0 \\\\\\\\
-    0 & 1 & 0 & 0 \\\\\\\\
-    -1 & 0 & 0 & 0
-  \end{pmatrix}
-	\left[\cos\left(\frac{\theta}{2}\right) 
-  \begin{pmatrix}
-    0 \\\\\\\\
-    0 \\\\\\\\
-    1 \\\\\\\\
-    0 
-  \end{pmatrix}
-	+\sin\left(\frac{\theta}{2}\right)
-  \begin{pmatrix}
-    0 \\\\\\\\
-    1 \\\\\\\\
-    0 \\\\\\\\
-    0 
-  \end{pmatrix}
-  \right] \\\\\\\\
-  &+\frac{ {\hbar}^2 }{2}
-  \begin{pmatrix}
-    1 & 0 & 0 & 0 \\\\\\\\
-    0 & -1 & 0 & 0 \\\\\\\\
-    0 & 0 & -1 & 0 \\\\\\\\
-    0 & 0 & 0 & 1
-  \end{pmatrix}
-	\left[\cos\left(\frac{\theta}{2}\right) 
-  \begin{pmatrix}
-    0 \\\\\\\\
-    0 \\\\\\\\
-    1 \\\\\\\\
-    0 
-  \end{pmatrix}
-	+\sin\left(\frac{\theta}{2}\right)
-  \begin{pmatrix}
-    0 \\\\\\\\
-    1 \\\\\\\\
-    0 \\\\\\\\
-    0 
-  \end{pmatrix}
-  \right] \\\\\\\\
-  &= \frac{ 3 {\hbar}^2 }{4} \left[ \cos\left(\frac{\theta}{2}\right) \ket{10} + \sin\left(\frac{\theta}{2}\right) \ket{01} \right] \\\\\\\\
-  &+ \frac{ {\hbar}^2 }{2} \left[ 2 \cos\left(\frac{\theta}{2}\right) \ket{01} + 2\sin\left(\frac{\theta}{2}\right) \ket{10} - \cos\left(\frac{\theta}{2}\right) \ket{10} - \sin\left(\frac{\theta}{2}\right) \ket{01} \right] \\\\\\\\
-  &= \frac{ {\hbar}^2 }{4} \left[ \left( \cos\left(\frac{\theta}{2}\right) + 4 \sin\left(\frac{\theta}{2}\right) \right) \ket{10} + \left( \sin\left(\frac{\theta}{2}\right) + 4 \cos\left(\frac{\theta}{2}\right) \right) \ket{01} \right]
-\end{aligned}
-\end{equation}
-
 # Energy of the system
 
 The ground state energy of the two-spins system can be found by minimizing its energy given by:  
 
 \begin{equation}
 \begin{aligned}
-  \bk{ {\Psi}_{\text{UCC}} }{ H }{ {\Psi}_{\text{UCC}} } &= \frac{ {\hbar}^2 }{4} \left[ \cos\left(\frac{\theta}{2}\right) \bra{10} + \sin\left(\frac{\theta}{2}\right) \bra{01} \right] \left[ \left( \cos\left(\frac{\theta}{2}\right) + 4 \sin\left(\frac{\theta}{2}\right) \right) \ket{10} + \left( \sin\left(\frac{\theta}{2}\right) + 4 \cos\left(\frac{\theta}{2}\right) \right) \ket{01} \right] \\\\\\\\
+  \bk{ {\Psi}\_{\text{UCC}} }{ H }{ {\Psi}\_{\text{UCC}} }
+	&= \frac{ {\hbar}^2 }{4} \left[ \cos\left(\frac{\theta}{2}\right) \bra{10} + \sin\left(\frac{\theta}{2}\right) \bra{01} \right] \left[ \left( \cos\left(\frac{\theta}{2}\right) + 4 \sin\left(\frac{\theta}{2}\right) \right) \ket{10} + \left( \sin\left(\frac{\theta}{2}\right) + 4 \cos\left(\frac{\theta}{2}\right) \right) \ket{01} \right] \\\\\\\\
   &= \frac{ {\hbar}^2 }{4} \left( {\cos}^2\left(\frac{\theta}{2}\right) + 4 \cos\left(\frac{\theta}{2}\right) \sin\left(\frac{\theta}{2}\right) + {\sin}^{2}\left(\frac{\theta}{2}\right) + 4 \sin\left(\frac{\theta}{2}\right) \cos\left(\frac{\theta}{2}\right) \right) \\\\\\\\
-  &= \frac{ {\hbar}^2 }{4} + {\hbar}^2 \cos\left(\frac{\theta}{2}\right) \sin\left(\frac{\theta}{2}\right) 
+  &= \frac{ {\hbar}^2 }{4} + {\hbar}^2 \cos\left(\frac{\theta}{2}\right) \sin\left(\frac{\theta}{2}\right)
 \end{aligned}
 \end{equation}
 
