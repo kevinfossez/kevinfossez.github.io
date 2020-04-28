@@ -156,6 +156,17 @@ The ground state energy of the two-spins system can be found by minimizing its e
 
 \begin{equation}
 \begin{aligned}
+  \braket{ {\Psi}\_{\text{UCC}} | H | {\Psi}\_{\text{UCC}} }
+	&= \frac{ {\hbar}^2 }{4} \left[ \cos\left(\frac{\theta}{2}\right) \bra{10} + \sin\left(\frac{\theta}{2}\right) \bra{01} \right] \left[ \left( \cos\left(\frac{\theta}{2}\right) + 4 \sin\left(\frac{\theta}{2}\right) \right) \ket{10} + \left( \sin\left(\frac{\theta}{2}\right) + 4 \cos\left(\frac{\theta}{2}\right) \right) \ket{01} \right] \\\\\\\\
+  &= \frac{ {\hbar}^2 }{4} \left( {\cos}^2\left(\frac{\theta}{2}\right) + 4 \cos\left(\frac{\theta}{2}\right) \sin\left(\frac{\theta}{2}\right) + {\sin}^{2}\left(\frac{\theta}{2}\right) + 4 \sin\left(\frac{\theta}{2}\right) \cos\left(\frac{\theta}{2}\right) \right) \\\\\\\\
+  &= \frac{ {\hbar}^2 }{4} + {\hbar}^2 \cos\left(\frac{\theta}{2}\right) \sin\left(\frac{\theta}{2}\right)
+\end{aligned}
+\end{equation}
+
+
+
+\begin{equation}
+\begin{aligned}
   \bk{ {\Psi}\_{\text{UCC}} }{ H }{ {\Psi}\_{\text{UCC}} }
 	&= \frac{ {\hbar}^2 }{4} \left[ \cos\left(\frac{\theta}{2}\right) \bra{10} + \sin\left(\frac{\theta}{2}\right) \bra{01} \right] \left[ \left( \cos\left(\frac{\theta}{2}\right) + 4 \sin\left(\frac{\theta}{2}\right) \right) \ket{10} + \left( \sin\left(\frac{\theta}{2}\right) + 4 \cos\left(\frac{\theta}{2}\right) \right) \ket{01} \right] \\\\\\\\
   &= \frac{ {\hbar}^2 }{4} \left( {\cos}^2\left(\frac{\theta}{2}\right) + 4 \cos\left(\frac{\theta}{2}\right) \sin\left(\frac{\theta}{2}\right) + {\sin}^{2}\left(\frac{\theta}{2}\right) + 4 \sin\left(\frac{\theta}{2}\right) \cos\left(\frac{\theta}{2}\right) \right) \\\\\\\\
