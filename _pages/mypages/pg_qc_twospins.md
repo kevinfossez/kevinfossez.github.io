@@ -84,6 +84,66 @@ Applying the UCC wave function on the Hamiltonian gives:
     0 & 1 & 0 & 0 \\\\\\\\
     1 & 0 & 0 & 0
   \end{pmatrix}
+	\left[\cos\left(\frac{\theta}{2}\right)
+  \begin{pmatrix}
+    0 \\\\\\\\
+    0 \\\\\\\\
+    1 \\\\\\\\
+    0 
+  \end{pmatrix}
+	+\sin\left(\frac{\theta}{2}\right)
+  \begin{pmatrix}
+    0 \\\\\\\\
+    1 \\\\\\\\
+    0 \\\\\\\\
+    0 
+  \end{pmatrix}
+  \right] \\\\\\\\
+  &+\frac{ {\hbar}^2 }{2}
+  \begin{pmatrix}
+    0 & 0 & 0 & -1 \\\\\\\\
+    0 & 0 & 1 & 0 \\\\\\\\
+    0 & 1 & 0 & 0 \\\\\\\\
+    -1 & 0 & 0 & 0
+  \end{pmatrix}
+	\left[\cos\left(\frac{\theta}{2}\right) 
+  \begin{pmatrix}
+    0 \\\\\\\\
+    0 \\\\\\\\
+    1 \\\\\\\\
+    0 
+  \end{pmatrix}
+	+\sin\left(\frac{\theta}{2}\right)
+  \begin{pmatrix}
+    0 \\\\\\\\
+    1 \\\\\\\\
+    0 \\\\\\\\
+    0 
+  \end{pmatrix}
+  \right] \\\\\\\\
+  &+\frac{ {\hbar}^2 }{2}
+  \begin{pmatrix}
+    1 & 0 & 0 & 0 \\\\\\\\
+    0 & -1 & 0 & 0 \\\\\\\\
+    0 & 0 & -1 & 0 \\\\\\\\
+    0 & 0 & 0 & 1
+  \end{pmatrix}
+	\left[\cos\left(\frac{\theta}{2}\right) 
+  \begin{pmatrix}
+    0 \\\\\\\\
+    0 \\\\\\\\
+    1 \\\\\\\\
+    0 
+  \end{pmatrix}
+	+\sin\left(\frac{\theta}{2}\right)
+  \begin{pmatrix}
+    0 \\\\\\\\
+    1 \\\\\\\\
+    0 \\\\\\\\
+    0 
+  \end{pmatrix}
+  \right] \\\\\\\\
+
 \end{aligned}
 \end{equation}
 
