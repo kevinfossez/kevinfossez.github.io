@@ -29,7 +29,7 @@ In matrix representation one has:
 
 \begin{equation}
 \begin{aligned}
-  H = 
+  H = \frac{ 3 {\hbar}^2 }{4}
   \begin{pmatrix}
     1 & 0 & 0 & 0 \\\\\\\\
     0 & 1 & 0 & 0 \\\\\\\\
