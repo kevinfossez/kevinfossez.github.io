@@ -143,6 +143,9 @@ Applying the UCC wave function on the Hamiltonian gives:
     0 
   \end{pmatrix}
   \right] \\\\\\\\
+  &= \frac{ 3 {\hbar}^2 }{4} \left[ \cos\left(\frac{\theta}{2}\right) \ket{10} + \sin\left(\frac{\theta}{2}\right) \ket{01} \right] \\\\\\\\
+  &+ \frac{ {\hbar}^2 }{2} \left[ 2 \cos\left(\frac{\theta}{2}\right) \ket{01} + 2\sin\left(\frac{\theta}{2}\right) \ket{10} - \cos\left(\frac{\theta}{2}\right) \ket{10} - \sin\left(\frac{\theta}{2}\right) \ket{01} \right] \\\\\\\\
+  &= \frac{ {\hbar}^2 }{4} \left[ \left( \cos\left(\frac{\theta}{2}\right) + 4 \sin\left(\frac{\theta}{2}\right) \right) \ket{10} + \left( \sin\left(\frac{\theta}{2}\right) + 4 \cos\left(\frac{\theta}{2}\right) \right) \ket{01} \right]
 \end{aligned}
 \end{equation}
 
