@@ -36,7 +36,8 @@ In matrix representation one has:
     0 & 0 & 1 & 0 \\\\\\\\
     0 & 0 & 0 & 1
   \end{pmatrix}
-  +\begin{pmatrix}
+  +\frac{ {\hbar}^2 }{2}
+  \begin{pmatrix}
     0 & 0 & 0 & 1 \\\\\\\\
     0 & 0 & 1 & 0 \\\\\\\\
     0 & 1 & 0 & 0 \\\\\\\\
