@@ -188,6 +188,27 @@ where $${ a }$$, $${ b }$$, $${ c }$$, and $${ d }$$ are constants given by the 
     0 \\\\\\\\
     0
   \end{pmatrix}
+  +d\sin(\frac{\theta}{2})
+  \begin{pmatrix}
+    0 \\\\\\\\
+    0 \\\\\\\\
+    1 \\\\\\\\
+    0
+  \end{pmatrix}
+  +d\cos(\frac{\theta}{2})
+  \begin{pmatrix}
+    0 \\\\\\\\
+    1 \\\\\\\\
+    0 \\\\\\\\
+    0
+  \end{pmatrix}
+  +d\sin(\frac{\theta}{2})
+  \begin{pmatrix}
+    0 \\\\\\\\
+    0 \\\\\\\\
+    1 \\\\\\\\
+    0
+  \end{pmatrix}
 \end{aligned}
 \end{equation}
 
