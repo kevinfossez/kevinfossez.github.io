@@ -81,7 +81,7 @@ where $${ a }$$, $${ b }$$, $${ c }$$, and $${ d }$$ are constants given by the 
 
 \begin{equation}
 \begin{aligned}
-  c {Z}_{1} \ket{ {\Psi}_{\text{UCC}} }
+  c Z_1 \ket{ {\Psi}\_{\text{UCC}} }
   &= c \left(
   \cos(\frac{\theta}{2})
   \begin{pmatrix}
@@ -175,9 +175,10 @@ where $${ a }$$, $${ b }$$, $${ c }$$, and $${ d }$$ are constants given by the 
 \end{aligned}
 \end{equation}
 
+
 \begin{equation}
 \begin{aligned}
-  d (X_0 X_1 + Y_0 Y_1) \ket{ {\Psi}\_{\text{UCC}} }
+  d (X\_0 X\_1 + Y\_0 Y\_1) \ket{ {\Psi}\_{\text{UCC}} }
   &= d \cos(\frac{\theta}{2})
   \begin{pmatrix}
     0 \\\\\\\\
@@ -209,6 +210,7 @@ where $${ a }$$, $${ b }$$, $${ c }$$, and $${ d }$$ are constants given by the 
 \end{aligned}
 \end{equation}
 
+
 Adding the contribution from the identity one obtains:
 
 $$
@@ -221,7 +223,7 @@ One can then compute the average energy of the system as:
 
 \begin{equation}
 \begin{aligned}
-  \bk{ {\Psi}\_{\text{UCC}} }{ H_2 }{ {\Psi}\_{\text{UCC}} }
+  & \bk{ {\Psi}\_{\text{UCC}} }{ H_2 }{ {\Psi}\_{\text{UCC}} } \\\\\\\\
   &= \left( \cos(\frac{\theta}{2}) \bra{10} + \sin(\frac{\theta}{2}) \bra{01} \right)
   \left( \left[ (a+b-c) \sin(\frac{\theta}{2}) + 2d \cos(\frac{\theta}{2}) \right] \ket{01} + \left[ (a-b+c) \cos(\frac{\theta}{2}) + 2d \sin(\frac{\theta}{2}) \right] \ket{10} \right) \\\\\\\\
   &= \cos(\frac{\theta}{2}) \left( (a-b+c) \cos(\frac{\theta}{2}) + 2d \sin(\frac{\theta}{2}) \right) + \sin(\frac{\theta}{2}) \left( (a+b-c) \sin(\frac{\theta}{2}) + 2d \cos(\frac{\theta}{2}) \right) \\\\\\\\
