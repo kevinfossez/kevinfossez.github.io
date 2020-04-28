@@ -36,7 +36,7 @@ In matrix representation one has:
     0 & 0 & 1 & 0 \\\\\\\\
     0 & 0 & 0 & 1
   \end{pmatrix}
-  +\frac{ {\hbar}^2 }{2}
+  +\frac{ {\hbar}^2 }{2} \left[
   \begin{pmatrix}
     0 & 0 & 0 & 1 \\\\\\\\
     0 & 0 & 1 & 0 \\\\\\\\
@@ -54,7 +54,7 @@ In matrix representation one has:
     0 & -1 & 0 & 0 \\\\\\\\
     0 & 0 & -1 & 0 \\\\\\\\
     0 & 0 & 0 & 1
-  \end{pmatrix} 
+  \end{pmatrix} \right]
 \end{aligned}
 \end{equation}
 
