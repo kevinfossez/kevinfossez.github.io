@@ -77,6 +77,13 @@ Applying the UCC wave function on the Hamiltonian gives:
 \begin{aligned}
   H \ket{ {\Psi}_{\text{UCC}} }
 	&= \frac{ 3 {\hbar}^2 }{4} \ket{ {\Psi}\_{\text{UCC}} } \\\\\\\\
+  &+ \frac{ {\hbar}^2 }{2}
+  \begin{pmatrix}
+    0 & 0 & 0 & 1 \\\\\\\\
+    0 & 0 & 1 & 0 \\\\\\\\
+    0 & 1 & 0 & 0 \\\\\\\\
+    1 & 0 & 0 & 0
+  \end{pmatrix}
 \end{aligned}
 \end{equation}
 
