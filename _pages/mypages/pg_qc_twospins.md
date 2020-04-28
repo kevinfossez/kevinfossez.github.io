@@ -76,7 +76,7 @@ Applying the UCC wave function on the Hamiltonian gives:
 \begin{equation}
 \begin{aligned}
   H \ket{ {\Psi}_{\text{UCC}} }
-	&= \frac{ 3 {\hbar}^2 }{4} \ket{ {\Psi}_{\text{UCC}} } \\\\\\\\
+	&= \frac{ 3 {\hbar}^2 }{4} \ket{ {\Psi}\_{\text{UCC}} } \\\\\\\\
 \end{aligned}
 \end{equation}
 
