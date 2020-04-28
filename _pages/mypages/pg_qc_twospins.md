@@ -59,40 +59,6 @@ In matrix representation one has:
 \end{equation}
 
 
-
-
-\begin{equation}
-\begin{aligned}
-  H = \frac{ 3 {\hbar}^2 }{4}
-  \begin{pmatrix}
-    1 & 0 & 0 & 0 \\\\\\\\
-    0 & 1 & 0 & 0 \\\\\\\\
-    0 & 0 & 1 & 0 \\\\\\\\
-    0 & 0 & 0 & 1
-  \end{pmatrix} 
-  + \frac{ {\hbar}^2 }{2} \left[ 
-  \begin{pmatrix}
-    0 & 0 & 0 & 1 \\\\\\\\
-    0 & 0 & 1 & 0 \\\\\\\\
-    0 & 1 & 0 & 0 \\\\\\\\
-    1 & 0 & 0 & 0
-  \end{pmatrix} + 
-  \begin{pmatrix}
-    0 & 0 & 0 & -1 \\\\\\\\
-    0 & 0 & 1 & 0 \\\\\\\\
-    0 & 1 & 0 & 0 \\\\\\\\
-    -1 & 0 & 0 & 0
-  \end{pmatrix} + 
-  \begin{pmatrix}
-    1 & 0 & 0 & 0 \\\\\\\\
-    0 & -1 & 0 & 0 \\\\\\\\
-    0 & 0 & -1 & 0 \\\\\\\\
-    0 & 0 & 0 & 1
-  \end{pmatrix} 
-  \right]
-\end{aligned}
-\end{equation}
-
 ## Unitary Coupled Clusters (UCC) ansatz
 
 See [link](./page_qc_pn) for details. The UCC wave function writes:  
@@ -107,22 +73,22 @@ Applying the UCC wave function on the Hamiltonian gives:
 
 \begin{equation}
 \begin{aligned}
-  H \ket{ {\Psi}_{\text{UCC}} } &= 
+  H \ket{ {\Psi}_{\text{UCC}} } &=
   \frac{ 3 {\hbar}^2 }{4} \ket{ {\Psi}_{\text{UCC}} } \\\\\\\\
-  &+ \frac{ {\hbar}^2 }{2} 
+  &+ \frac{ {\hbar}^2 }{2}
   \begin{pmatrix}
     0 & 0 & 0 & 1 \\\\\\\\
     0 & 0 & 1 & 0 \\\\\\\\
     0 & 1 & 0 & 0 \\\\\\\\
     1 & 0 & 0 & 0
-  \end{pmatrix} \left[ 
+  \end{pmatrix} \left[
 		\cos\left(\frac{\theta}{2}\right) 
   \begin{pmatrix}
     0 \\\\\\\\
     0 \\\\\\\\
     1 \\\\\\\\
     0 
-  \end{pmatrix} + \sin\left(\frac{\theta}{2}\right) 
+  \end{pmatrix} + \sin\left(\frac{\theta}{2}\right)
   \begin{pmatrix}
     0 \\\\\\\\
     1 \\\\\\\\
@@ -130,41 +96,41 @@ Applying the UCC wave function on the Hamiltonian gives:
     0 
   \end{pmatrix}
   \right] \\\\\\\\
-  &+ \frac{ {\hbar}^2 }{2} 
+  &+ \frac{ {\hbar}^2 }{2}
   \begin{pmatrix}
     0 & 0 & 0 & -1 \\\\\\\\
     0 & 0 & 1 & 0 \\\\\\\\
     0 & 1 & 0 & 0 \\\\\\\\
     -1 & 0 & 0 & 0
-  \end{pmatrix} \left[ 
+  \end{pmatrix} \left[
 		\cos\left(\frac{\theta}{2}\right) 
   \begin{pmatrix}
     0 \\\\\\\\
     0 \\\\\\\\
     1 \\\\\\\\
     0 
-  \end{pmatrix} + \sin\left(\frac{\theta}{2}\right) 
+  \end{pmatrix} + \sin\left(\frac{\theta}{2}\right)
   \begin{pmatrix}
     0 \\\\\\\\
     1 \\\\\\\\
     0 \\\\\\\\
     0 
   \end{pmatrix}
-  \right] \\\\\\\\ 
-  &+ \frac{ {\hbar}^{2} }{2} 
+  \right] \\\\\\\\
+  &+ \frac{ {\hbar}^{2} }{2}
   \begin{pmatrix}
     1 & 0 & 0 & 0 \\\\\\\\
     0 & -1 & 0 & 0 \\\\\\\\
     0 & 0 & -1 & 0 \\\\\\\\
     0 & 0 & 0 & 1
-  \end{pmatrix} \left[ 
+  \end{pmatrix} \left[
 		\cos\left(\frac{\theta}{2}\right) 
   \begin{pmatrix}
     0 \\\\\\\\
     0 \\\\\\\\
     1 \\\\\\\\
     0 
-  \end{pmatrix} + \sin\left(\frac{\theta}{2}\right) 
+  \end{pmatrix} + \sin\left(\frac{\theta}{2}\right)
   \begin{pmatrix}
     0 \\\\\\\\
     1 \\\\\\\\
@@ -174,7 +140,7 @@ Applying the UCC wave function on the Hamiltonian gives:
   \right] \\\\\\\\
   &= \frac{ 3 {\hbar}^2 }{4} \left[ \cos\left(\frac{\theta}{2}\right) \ket{10} + \sin\left(\frac{\theta}{2}\right) \ket{01} \right] \\\\\\\\
   &+ \frac{ {\hbar}^2 }{2} \left[ 2 \cos\left(\frac{\theta}{2}\right) \ket{01} + 2\sin\left(\frac{\theta}{2}\right) \ket{10} - \cos\left(\frac{\theta}{2}\right) \ket{10} - \sin\left(\frac{\theta}{2}\right) \ket{01} \right] \\\\\\\\
-  &= \frac{ {\hbar}^2 }{4} \left[ \left( \cos\left(\frac{\theta}{2}\right) + 4 \sin\left(\frac{\theta}{2}\right) \right) \ket{10} + \left( \sin\left(\frac{\theta}{2}\right) + 4 \cos\left(\frac{\theta}{2}\right) \right) \ket{01} \right] 
+  &= \frac{ {\hbar}^2 }{4} \left[ \left( \cos\left(\frac{\theta}{2}\right) + 4 \sin\left(\frac{\theta}{2}\right) \right) \ket{10} + \left( \sin\left(\frac{\theta}{2}\right) + 4 \cos\left(\frac{\theta}{2}\right) \right) \ket{01} \right]
 \end{aligned}
 \end{equation}
 
