@@ -182,6 +182,12 @@ where $${ a }$$, $${ b }$$, $${ c }$$, and $${ d }$$ are constants given by the 
 \begin{aligned}
   d (X\_0 X\_1 + Y\_0 Y\_1) \ket{ {\Psi}\_{\text{UCC}} }
   &= d \cos(\frac{\theta}{2})
+  \begin{pmatrix}
+    0 \\\\\\\\
+    1 \\\\\\\\
+    0 \\\\\\\\
+    0
+  \end{pmatrix}
 \end{aligned}
 \end{equation}
 
