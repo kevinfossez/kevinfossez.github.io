@@ -19,6 +19,11 @@ author_profile: true
 
 ## Nuclear Physics
 
+
+11- **K. Fossez**  
+  _Quantifying alpha clustering in light nuclei from binding energies_  
+  Submitted [arXiv](https://arxiv.org/abs/2004.14896) 
+
 10- **K. Fossez**, J. Rotureau, W. Nazarewicz, N. Michel, and M. P&#322;oszajczak  
   _Effective description of $${ {}^{5-10}\mathrm{He} }$$ and the search for a narrow ${ {}^{4}\text{n} }$ resonance_  
   Recent Progress in Few-Body Physics, **361** (2020). _Proceedings of the 22nd International Conference on Few-Body Problems in Physics_ [article](https://doi.org/10.1007/978-3-030-32357-8_61) 
