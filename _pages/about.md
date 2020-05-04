@@ -6,9 +6,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-header:
-  overlay_image: ../images/image_bridge_MSU.jpeg
-  overlay_filter: 0.0 # same as adding an opacity of 0.5 to a black background
 ---
 
 
