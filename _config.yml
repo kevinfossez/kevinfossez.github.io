@@ -9,9 +9,9 @@
 locale                   : "en-US"
 title                    : "Personal page"
 title_separator          : "-"
-name                     : &name "Kevin Fossez"
-description              : &description "personal description"
-url                      : https://kevinfossez.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Kevin Fossez"
+description              : "Nuclei as open quantum systems"
+url                      : "https://kevinfossez.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kevinfossez/kevinfossez.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -157,22 +157,22 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Conversion
 markdown: kramdown
-#highlighter: rouge
-#lsi: false
+highlighter: rouge
+lsi: false
 #excerpt_separator: "\n\n"
-#incremental: false
+incremental: false
 
 
-## Markdown Processing
-#kramdown:
-#  input: GFM
-#  hard_wrap: false
-#  auto_ids: true
-#  footnote_nr: 1
-#  entity_output: as_char
-#  toc_levels: 1..6
-#  smart_quotes: lsquo,rsquo,ldquo,rdquo
-#  enable_coderay: false
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
 
 
 # Collections
