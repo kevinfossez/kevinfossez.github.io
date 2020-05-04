@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 header:
   overlay_image: ../images/image_magnolia_MSU_0.jpeg
-  overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
+  overlay_filter: 0.1 # same as adding an opacity of 0.5 to a black background
 ---
 
 {% include base_path %}
