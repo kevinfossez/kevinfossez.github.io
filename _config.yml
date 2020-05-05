@@ -16,7 +16,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kevinfossez/kevinfossez.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
-logo                     : "images/logo_eclipse_MSU.png"
+logo                     : #"images/logo_eclipse_MSU.png"
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Kevin Fossez"
-  avatar           : "profile.png"
+  avatar           : "images/logo_eclipse_MSU.png" #"profile.png"
   bio              : "FRIB Theory Fellow at Michigan State University and Argonne National Laboratory"
   location         : "Chicago, USA"
   employer         :
