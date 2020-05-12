@@ -12,11 +12,13 @@ header:
 ---
 
 
-## Useful notes
+## Interests
 
-- Commands to manipulate [pdf files](./commands_pdf/).
-- Miscellaneous [commands](./commands/)
-- [LaTeX notes](./latex/)
+
+## Bio
+
+
+## New developments
 
 
 
