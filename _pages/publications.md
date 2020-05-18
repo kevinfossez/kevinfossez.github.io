@@ -29,7 +29,7 @@ header:
 
 11- C. W. Johnson, K. D. Launey, N. Auerbach, S. Bacca, B. R. Barrett, C. Brune, M. A. Caprio, P. Descouvemont, W. H. Dickhoff, C. Elster, P. J. Fasano, **K. Fossez**, H. Hergert, M. Hjorth-Jensen, L. Hlophe, B. Hu, R. M. Id Betan, A. Idini, S. K\"onig, K. Kravvaris, D. Lee, J. Lei, P. Maris, A. Mercenne, K. Minomo, R. Navarro Perez, W. Nazarewicz, F. M. Nunes, M. P&#322;oszajczak, S. Quaglioni, J. Rotureau, G. Rupak, A. M. Shirokov, I. Thompson, J. P. Vary, A. Volya, F. Xu, V. Zelevinsky, and X. Zhang  
   _From bound states to the continuum_  
-  In preparation (2020) [arXiv](https://arxiv.org/abs/1912.00451) 
+  Submitted (2020) [arXiv](https://arxiv.org/abs/1912.00451) 
 
 10- **K. Fossez**, J. Rotureau, W. Nazarewicz, N. Michel, and M. P&#322;oszajczak  
   _Effective description of $${ {}^{5-10}\mathrm{He} }$$ and the search for a narrow $${ {}^{4}\text{n} }$$ resonance_  

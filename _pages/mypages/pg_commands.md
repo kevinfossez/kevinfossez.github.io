@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /commands/
+permalink: /misc/commands/
 title: How-to bash
 description: Last update on July 25, 2019
 ---

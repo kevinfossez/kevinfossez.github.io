@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /IMSRG/
+permalink: /misc/IMSRG/
 title: IM-SRG in nuclear physics
 description: Links and docs on quantum computing
 ---

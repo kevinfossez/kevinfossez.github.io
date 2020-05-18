@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /qc/qc_circuit/
+permalink: /misc/qc/qc_circuit/
 title: Quantum circuits
 description: Basic circuits
 ---

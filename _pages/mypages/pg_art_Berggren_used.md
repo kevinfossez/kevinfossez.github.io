@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /art_Berggren_used/
+permalink: /misc/art_Berggren_used/
 title: Theoretical articles using the Berggren basis
 description: Last update on July 25, 2019
 ---

@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /qc/qc_gates/
+permalink: /misc/qc/qc_gates/
 title: Quantum computing gates
 description: One- and two-qubit gates
 ---

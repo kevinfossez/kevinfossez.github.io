@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /qc/qc_twospins/
+permalink: /misc/qc/qc_twospins/
 title: Quantum computing
 description: Two spins
 markdown: kramdown

@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /DMRG/
+permalink: /misc/DMRG/
 title: DMRG in nuclear physics
 description: Links and docs on quantum computing
 ---

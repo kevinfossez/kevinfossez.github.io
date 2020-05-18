@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /qc/qc_pn/
+permalink: /misc/qc/qc_pn/
 title: Quantum computing -- deuteron
 description: Details on E. F. Dumitrescu et al., Phys. Rev. Lett. 120, 210501 (2018)
 ---

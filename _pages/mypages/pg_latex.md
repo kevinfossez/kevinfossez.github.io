@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /latex/
+permalink: /misc/latex/
 title: How-to tex files
 description: Last update on July 25, 2019
 ---

@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /qc/
+permalink: /misc/qc/
 title: Quantum computing
 description: Links and docs on quantum computing
 ---

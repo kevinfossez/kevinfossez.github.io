@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /art_Berggren_Lind/
+permalink: /misc/art_Berggren_Lind/
 title: Articles by T. Berggren and P. Lind
 description: Last update on July 25, 2019
 ---
