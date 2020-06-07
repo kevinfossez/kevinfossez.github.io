@@ -18,7 +18,7 @@ header:
 
 
 
-<img style="float: right;margin-top: 50px" src="../images/fig_nucl_chart_light.png" width="500">
+<img style="float: right;margin-bottom: 20px" src="../images/fig_nucl_chart_light.png" width="500">
 **K. Fossez**, J. Rotureau, and W. Nazarewicz  
 _Energy spectrum of neutron-rich helium isotopes: complex made simple_  
 Phys. Rev. C **98**, 061302(R) (2018) [article](https://doi.org/10.1103/PhysRevC.98.061302) [arXiv](https://arxiv.org/abs/1806.02936)
