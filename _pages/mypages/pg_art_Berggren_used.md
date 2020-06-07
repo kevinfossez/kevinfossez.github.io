@@ -5,7 +5,7 @@ title: Theoretical articles using the Berggren basis
 description: Last update on June 7, 2020
 ---
 
-\[DISCLAMER: the list might not be complete, but at least the main articles are there\]
+\[DISCLAMER: the list might not be complete\]
 
 ## Nuclear Physics
 
