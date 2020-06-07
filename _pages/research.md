@@ -26,7 +26,7 @@ Phys. Rev. C **98**, 061302(R) (2018) [article](https://doi.org/10.1103/PhysRevC
 <img style="float: right;margin-left: 10px" src="../images/fig_9He.png" width="500">
 We demonstrate that the intricate energy spectrum of neutron-rich helium isotopes can be straightforwardly described by taking advantage of the low-energy properties of neutron-neutron interaction and the scale separation that is present in diluted dripline systems. By using arguments based on the halo effective field theory, we carry out a parameter reduction of the complex-energy configuration interaction framework in the $$spd$$ space, including resonant and scattering states. By constraining the core potential to $$\alpha$$-n scattering phase-shifts and adjusting the strength of the spin-singlet central neutron-neutron interaction, we reproduce experimental energies and widths of $$^{5-8}$$He within tens of keV precision. We predict a parity inversion of narrow resonances in $$^{9}$$He and show that the ground state of $$^{10}$$He is an $$s$$-wave-dominated configuration that could decay through two-neutron emission. This threshold state can be viewed as a "double-halo" structure in an analogy to the atomic $${ {}^{3}\text{He}{}^{4}\text{He}_{2} }$$ trimer.  
 
-<hr width="100%">
+<hr width="100%";margin: 10px>
 
 ### Can tetraneutron be a narrow resonance?  
 <img style="float: right;margin-left: 10px" src="../images/fig_4n.png" width="500">
