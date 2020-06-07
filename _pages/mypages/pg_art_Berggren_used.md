@@ -2,7 +2,7 @@
 layout: archive
 permalink: /misc/art_Berggren_used/
 title: Theoretical articles using the Berggren basis
-description: Last update on July 25, 2019
+description: Last update on June 7, 2020
 ---
 
 \[DISCLAMER: the list might not be complete, but at least the main articles are there\]
@@ -10,13 +10,46 @@ description: Last update on July 25, 2019
 ## Nuclear Physics
 
 
+
+### 2020
+
+- X. Mao, J. Rotureau, W. Nazarewicz, N. Michel, R. M. Id Betan, and Y. Jaganathen  
+  _Gamow shell model description of Li isotopes and their mirror partners_  
+  [arXiv](https://arxiv.org/abs/2004.02981)
+
+- N. Michel, J. G. Li, F. R. Xu, and W. Zuo  
+  _Two-neutron halo structure of $${ {}^{31}\text{F} }$$_  
+  Phys. Rev. C **101**, 031301(R), (2020) [article](https://doi.org/10.1103/PhysRevC.101.031301) [arXiv](https://arxiv.org/abs/2003.07542)  
+
+- B. S. Hu, Q. Wu, J. G. Li, Y. Z. Ma, Z. H. Sun, N. Michel, and F. R. Xu  
+  _An ab-initio Gamow shell model approach with a core_  
+  Physics Letters B **802**, 135206 (2020) [article](https://doi.org/10.1016/j.physletb.2020.135206) [arXiv](https://arxiv.org/abs/2001.02832)  
+
+
 ### 2019 (in-medium similarity renormalization group in the Berggren basis)
+
+- N. Michel, J. G. Li, F. R. Xu, and W. Zuo  
+  _Description of proton-rich nuclei in the $${ A \approx 20 }$$ region with the Gamow shell model_  
+  Phys. Rev. C, **100**, 064303 (2019) [article](https://doi.org/10.1103/PhysRevC.100.064303) [arXiv](https://arxiv.org/abs/1912.02364)  
+
+- J. G. Li, N. Michel, B. S. Hu, W. Zuo, F. R. Xu  
+  _Ab-initio no-core Gamow shell model calculations of multi-neutron systems_  
+  Phys. Rev. C **100**, 054313 (2019) [article](https://doi.org/10.1103/PhysRevC.100.054313) [arXiv](https://arxiv.org/abs/1911.06485)  
+
+- A. Mercenne, N. Michel, M. P&#322;oszajczak  
+  _Gamow shell model description of $${ {}^{4}\text{He}(d,d) }$$ elastic scattering reactions_  
+  Phys. Rev. C **99**, 044606 (2019) [article](https://doi.org/10.1103/PhysRevC.99.044606) [arXiv](https://arxiv.org/abs/1905.09485)  
 
 - B. S. Hu, Q. Wu, Z. H. Sun and F. R. Xu  
   _Ab initio Gamow in-medium similarity renormalization group with resonance and continuum_  
-  Phys. Rev. C 99, 061302(R) (2019) [article](https://doi.org/10.1103/PhysRevC.99.061302) [arXiv](https://arxiv.org/abs/1906.10539)
+  Phys. Rev. C **99**, 061302(R) (2019) [article](https://doi.org/10.1103/PhysRevC.99.061302) [arXiv](https://arxiv.org/abs/1906.10539)
+
 
 ### 2018
+
+- K. Fossez, J. Rotureau, and W. Nazarewicz  
+  _Energy spectrum of neutron-rich helium isotopes: complex made simple_  
+  Phys. Rev. C **98**, 061302(R) (2018) [article](https://doi.org/10.1103/PhysRevC.98.061302) [arXiv](https://arxiv.org/abs/1806.02936)
 
 - S. M. Wang and W. Nazarewicz  
   _Puzzling two-proton decay of $${ {}^{67}\text{Kr} }$$_  
@@ -25,6 +58,7 @@ description: Last update on July 25, 2019
 - K. Fossez, J. Rotureau, and W. Nazarewicz  
   _Energy spectrum of neutron-rich helium isotopes: complex made simple_  
   Phys. Rev. C **98**, 061302(R) (2018) [article](https://doi.org/10.1103/PhysRevC.98.061302) [arXiv](https://arxiv.org/abs/1806.02936)
+
 
 ### 2017
 
@@ -389,6 +423,10 @@ description: Last update on July 25, 2019
 - T. B. Webb, S. M. Wang, K. W. Brown, R. J. Charity, J. M. Elson, J. Barney, G. Cerizza, Z. Chajecki, J. Estee, D. E. M. Hoff, S. A. Kuvin, W. G. Lynch, J. Manfredi, D. McNeel, P. Morfouace, W. Nazarewicz, C. D. Pruitt, C. Santamaria, J. Smith, L. G. Sobotka, S. Sweany, C. Y. Tsang, M. B. Tsang, A. H. Wuosmaa, Y. Zhang and K. Zhu  
   _First observation of unbound $${ {}^{11}\text{O} }$$, the mirror of the halo nucleus $${ {}^{11}\text{Li} }$$_  
   Phys. Rev. Lett. **122**, 122501 (2019) [article](https://doi.org/10.1103/PhysRevLett.122.122501) [arXiv](https://arxiv.org/abs/1812.08880)
+
+- S. Leblond, F. M. Marqués, J. Gibelin, N. A. Orr, Y. Kondo, T. Nakamura, J. Bonnard, N. Michel, N. L. Achouri, T. Aumann, H. Baba, F. Delaunay, Q. Deshayes, P. Doornenbal, N. Fukuda, J. W. Hwang, N. Inabe, T. Isobe, D. Kameda, D. Kanno, S. Kim, N. Kobayashi, T. Kobayashi, T. Kubo, J. Lee, R. Minakata, T. Motobayashi, D. Murai, T. Murakami, K. Muto, T. Nakashima, N. Nakatsuka, A. Navin, S. Nishi, S. Ogoshi, H. Otsu, H. Sato, Y. Satou, Y. Shimizu, H. Suzuki, K. Takahashi, H. Takeda, S. Takeuchi, R. Tanaka, Y. Togano, A.G. Tuff, M. Vandebrouck, and K. Yoneda  
+  _First observation of $${ {}^{20}\text{B} }$$ and $${ {}^{21}\text{B} }$$_  
+  Phys. Rev. Lett. **121** (2018) 262502 [article](https://doi.org/10.1103/PhysRevLett.121.262502) [arXiv](https://arxiv.org/abs/1901.00455)  
 
 - M. D. Jones, K. Fossez, T. Baumann, P. A. DeYoung, J. E. Finck, N. Frank, A. N. Kuchera, N. Michel, W. Nazarewicz, J. Rotureau, J. K. Smith, S. L. Stephenson, K. Stiefel, M. Thoennessen, and R. G. T. Zegers  
   _Search for excited states in $${ {}^{25}\mathrm{O} }$$_  
