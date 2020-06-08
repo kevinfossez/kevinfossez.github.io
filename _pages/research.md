@@ -13,10 +13,7 @@ header:
 {% include base_path %}
 
 
-(in progress)
-
-
-
+## Selected works
 
 ### Energy spectrum of neutron-rich helium isotopes: complex made simple  
 <img style="float: right;margin-bottom: 20px;margin-left: 10px" src="../images/fig_nucl_chart_light.png" width="480">
