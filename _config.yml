@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Kevin Fossez"
-  avatar           : "logo_eclipse_MSU.png" #"profile.png" #must be put in images/
+  avatar           : "pict_linkedin.jpeg" #"logo_eclipse_MSU.png" #"profile.png" #must be put in images/
   bio              : "FRIB Theory Fellow at Michigan State University and Argonne National Laboratory"
   location         : "Chicago, USA"
   employer         :
