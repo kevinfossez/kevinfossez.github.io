@@ -2,7 +2,7 @@
 layout: archive
 permalink: /misc/latex/
 title: How-to tex files
-description: Last update on July 25, 2019
+description: Last update on June 12, 2020
 ---
 
 
@@ -68,10 +68,16 @@ aspell -c file.tex -d en
 
 ## BibTex entry
 
+Assuming one uses the bibliography style:
+
+```latex
+\bibliographystyle{apsrev4-1}
+```
+
 ### For standard bibliography display
 
 ```latex
-@article{author07_1,
+@article{name48_1,
 author = {A. Name and B. Name and C. {Al Name}},
 title = {Title of the paper},
 journal = {Journal of blabla},
@@ -83,16 +89,34 @@ url = {[insert doi link here]}
 }
 ```
 
+
+### For arXiv entries
+
+```latex
+@misc{arxivName20,
+author = {A. Name and B. Name},
+title = {Title of the paper},
+year = {2020},
+HowPublished = {\url{[insert arXiv url here]}}
+}
+```
+
+
 ### For cases where the volume number is not in bold (hack)
 
 ```latex
-@article{author07_1,
+@article{name07_1,
 author = {A. Name and B. Name and C. {Al Name}},
 title = {Title of the paper},
 journal = {Journal of blabla, \textbf{8}, 9 (2048)},
 keywords = {theory,blabla},
 url = {[insert doi link here]}
 }
+```
+
+This works fine for notes using the bibliography style:
+```latex
+\bibliographystyle{unsrt}
 ```
 
 

@@ -1,8 +1,8 @@
 ---
 layout: archive
-permalink: /commands_pdf/
+permalink: /misc/commands_pdf/
 title: How-to pdf
-description: Last update on July 25, 2019
+description: Last update on June 12, 2020
 ---
 
 
@@ -60,13 +60,13 @@ In Mac OS:
 ```bash
 brew cask install calibre
 export PATH=/Applications/calibre.app/Contents/MacOS/:$PATH
-ebook-convert ~/Downloads/\[Nicholas_A._Christakis\]_Blueprint__The_Evolutiona\(z-lib.org\).epub book_Christakis_Blueprint_The_Evolutinary_Origins_of_a_Good_Society_2019.pdf --margin-bottom "75" --margin-top "75" --margin-left "50" --margin-right "50" --pdf-serif-family "Calibri" --pdf-sans-family "Calibri" --base-font-size "12" --pdf-mono-font-size "12" --paper-size "a4" --change-justification "justify"
+ebook-convert book.epub book.pdf --margin-bottom "75" --margin-top "75" --margin-left "50" --margin-right "50" --pdf-serif-family "Calibri" --pdf-sans-family "Calibri" --base-font-size "12" --pdf-mono-font-size "12" --paper-size "a4" --change-justification "justify"
 ```
 
 
 ## Convert a svg file into a pdf file
 
-### Method that works well
+### Method that works well (not necessary in MacOS)
 
 ```bash
 rsvg-convert -f pdf -o t.pdf t.svg
