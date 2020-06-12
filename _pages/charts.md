@@ -13,11 +13,11 @@ header:
 {% include base_path %}
 
 
-## Light nuclei
+## Light to medium-mass nuclei
 
-![Light nuclei](../images/fig_nucl_chart_light.png)
+![Light to medium-mass nuclei](../images/fig_nucl_chart_light_med.png)
 
-## Light and medium-mass nuclei
+## Medium-mass nuclei
 
-![Medium-mass nuclei](../images/fig_nucl_chart_medium.png)
+![Medium-mass nuclei](../images/fig_nucl_chart_med.png)
 
