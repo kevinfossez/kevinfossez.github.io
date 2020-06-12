@@ -61,7 +61,7 @@ description: Links and docs on quantum computing
   _Application of the density matrix renormalization group to the two level pairing model_  
   Phys. Rev. C **59**, R3005(R) (1999) [article](https://doi.org/10.1103/PhysRevC.59.R3005)
 
-### Convergence issues in $$m$$-scheme solved in $j$-scheme shell model 
+### Convergence issues in $$m$$-scheme solved in $$j$$-scheme shell model 
 
 - S. Pittel, and B. Thakur  
   _The density matrix renormalization group and the nuclear shell model_  
@@ -93,18 +93,18 @@ description: Links and docs on quantum computing
 
 ### $$j$$-scheme shell model formulation in the Berggren basis (Gamow-DMRG)
 
-- J. Rotureau, N. Michel, W. Nazarewicz, M. P{\l}oszajczak, and J. Dukelsky  
+- J. Rotureau, N. Michel, W. Nazarewicz, M. P&#322;oszajczak, and J. Dukelsky  
   _Density matrix renormalization group approach to two-fluid open many-fermion systems_  
   Phys. Rev. C **79**, 014304 (2009) [article](https://dx.doi.org/10.1103/PhysRevC.79.014304)
 
-- J. Rotureau, N. Michel, W. Nazarewicz, M. P{\l}oszajczak, and J. Dukelsky  
+- J. Rotureau, N. Michel, W. Nazarewicz, M. P&#322;oszajczak, and J. Dukelsky  
   _Density matrix renormalisation group approach for many-body open quantum systems_  
   Phys. Rev. Lett. **97**, 110603 (2006) [article](https://dx.doi.org/10.1103/PhysRevLett.97.110603)
 
 
 ### Idea of the Gamow-DMRG emitted in the middle of a paper
 
-- N. Michel, W. Nazarewicz, M. P{\l}oszajczak, and J. Rotureau  
+- N. Michel, W. Nazarewicz, M. P&#322;oszajczak, and J. Rotureau  
   _Gamow shell-model description of weakly bound and unbound nuclear states_  
   Revista Mexicana De Fisica **5 Suplemento 2**, 74 (2004)
 
@@ -114,7 +114,7 @@ description: Links and docs on quantum computing
 ## Density matrix renormalization group applied on nuclear open quantum systems (J. Rotureau)
 
 
-### _Ab initio_ Hamiltonians for systems with ${ A=3-6 }$
+### _Ab initio_ Hamiltonians for systems with $${ A=3-6 }$$
 
 - K. Fossez, J. Rotureau, N. Michel, and M. P&#322;oszajczak  
   _Can tetraneutron be a narrow resonance?_  
@@ -147,7 +147,7 @@ description: Links and docs on quantum computing
   _Single-particle and collective motion in unbound deformed $${ {}^{39}\text{Mg} }$$_  
   Phys. Rev. C **94**, 054302 (2016) [article](https://doi.org/10.1103/PhysRevC.94.054302)
 
-- G. Papadimitriou, A. T. Kruppa, N. Michel, W. Nazarewicz, M. P{\l}oszajczak, and J. Rotureau  
+- G. Papadimitriou, A. T. Kruppa, N. Michel, W. Nazarewicz, M. P&#322;oszajczak, and J. Rotureau  
   _Charge radii and neutron correlation in helium halo nuclei_  
   Phys. Rev. C **84**, 051304(R) (2011) [article](https://dx.doi.org/10.1103/PhysRevC.84.051304)
 
