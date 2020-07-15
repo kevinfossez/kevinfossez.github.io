@@ -84,7 +84,7 @@ header:
   Phys. Rev. A **94**, 032511 (2016) [article](http://dx.doi.org/10.1103/PhysRevA.94.032511) [arXiv](https://arxiv.org/abs/1606.04764)
 
 3- **K. Fossez**, N. Michel, W. Nazarewicz, M. P&#322;oszajczak, and Y. Jaganathen  
-  _Bound and resonance states of the dipolar anion of hydrogen cyanide: competition between threshold effects and rotation in an open quantum system_
+  _Bound and resonance states of the dipolar anion of hydrogen cyanide: competition between threshold effects and rotation in an open quantum system_  
   Phys. Rev. A **91**, 012503 (2015) [article](https://dx.doi.org/10.1103/PhysRevA.91.012503) [arXiv](https://arxiv.org/abs/1410.6660)
 
 2- **K. Fossez**, N. Michel, W. Nazarewicz, and M. P&#322;oszajczak  
