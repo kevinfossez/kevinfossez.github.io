@@ -23,6 +23,4 @@ I am an FRIB Theory Fellow at Argonne National Laboratory (ANL) and the Facility
 ![Research interests](../images/research_interests.png)
 
 
-## New developments
 
-New article submitted on alpha clustering in light nuclei: [_Quantifying alpha clustering in light nuclei from binding energies_](https://arxiv.org/abs/2004.14896).

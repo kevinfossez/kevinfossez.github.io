@@ -150,4 +150,9 @@ pdfcrop --margins 0 old.pdf new.pdf
 ```
 
 
+# Reduce the size of a pdf
+
+```bash
+convert -density 300x300 -quality 2 -compress jpeg input.pdf out.pdf
+```
 
