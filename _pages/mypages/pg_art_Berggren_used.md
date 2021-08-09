@@ -15,7 +15,7 @@ description: Last update on June 7, 2020
 
 - X. Mao, J. Rotureau, W. Nazarewicz, N. Michel, R. M. Id Betan, and Y. Jaganathen  
   _Gamow shell model description of Li isotopes and their mirror partners_  
-  [arXiv](https://arxiv.org/abs/2004.02981)
+  Phys. Rev. C **102**, 024309 (2020) [article](https://doi.org/10.1103/PhysRevC.102.024309) [arXiv](https://arxiv.org/abs/2004.02981)  
 
 - N. Michel, J. G. Li, F. R. Xu, and W. Zuo  
   _Two-neutron halo structure of ${ {}^{31}\text{F} }$_  
