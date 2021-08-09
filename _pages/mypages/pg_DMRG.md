@@ -86,7 +86,7 @@ description: Links and docs on quantum computing
 
 ### Reordering of states in the medium to reduce the $m$-scheme convergence issue
 
-- \"O. Legeza, L. Veis, A. Poves, and J. Dukelsky  
+- Ö. Legeza, L. Veis, A. Poves, and J. Dukelsky  
   _Advanced density matrix renormalization group method for nuclear structure calculations_  
   Phys. Rev. C **92**, 051303(R) (2015) [article](http://dx.doi.org/10.1103/PhysRevC.92.051303)
 
