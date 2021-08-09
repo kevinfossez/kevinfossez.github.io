@@ -128,5 +128,11 @@ wget -r -l5 -k -E "http://www.l_adresse_du_site.a_recuperer.com"
 
 Add the option `-c` to restart an incomplete download, or the option `-np` to avoid going up the directory tree to download a single page.
 
+## Open a Jupyter notebook on MacOS
+
+Install Jupyter using Homebrew, then:
+```bash
+jupyter notebook [location] &
+```
 
 
