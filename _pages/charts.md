@@ -15,9 +15,9 @@ header:
 
 ## Light to medium-mass nuclei
 
-![Light to medium-mass nuclei](../images/fig_nucl_chart_light_med.png)
+![Light to medium-mass nuclei](../images/fig_nucl_chart_medium.png)
 
-## Medium-mass nuclei
+[//]: # (## Medium-mass nuclei)
 
-![Medium-mass nuclei](../images/fig_nucl_chart_med.png)
+[//]: # (![Medium-mass nuclei](../images/fig_nucl_chart_medium.png))
 
