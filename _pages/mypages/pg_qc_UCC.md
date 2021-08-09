@@ -44,7 +44,7 @@ $$
 \end{equation}
 $$  
 
-where $${ \hat{T} = \hat{T}_{1} + \hat{T}_{2} + ... }$$ with $${ \hat{T}_{i} }$$ is an operator exciting $${ i }$$ particles out of the Hartree-Fock (HF) reference state. In the "single" case ($${ i = 1 }$$) and for only two shells labeled by $${ n = 0,1 }$$, one has:  
+where ${ \hat{T} = \hat{T}_{1} + \hat{T}_{2} + ... }$ with ${ \hat{T}_{i} }$ is an operator exciting ${ i }$ particles out of the Hartree-Fock (HF) reference state. In the "single" case (${ i = 1 }$) and for only two shells labeled by ${ n = 0,1 }$, one has:  
 
 $$
 \begin{equation}
@@ -52,7 +52,7 @@ $$
 \end{equation}
 $$  
 
-As such, this ansatz cannot be used together with the VQE method (see [link](./qc/)) and must be parametrized. To this end, one simply adds a parameter $${ \theta }$$ in the exponential. 
+As such, this ansatz cannot be used together with the VQE method (see [link](./qc/)) and must be parametrized. To this end, one simply adds a parameter ${ \theta }$ in the exponential. 
 
 $$
 \begin{equation}
@@ -60,7 +60,7 @@ $$
 \end{equation}
 $$  
 
-Moreover, the creation and annihilation operators can transformed into the $${ X }$$, $${ Y }$$, and $${ Z }$$ gates acting on qubits using the Jordan-Wigner transformation:
+Moreover, the creation and annihilation operators can transformed into the ${ X }$, ${ Y }$, and ${ Z }$ gates acting on qubits using the Jordan-Wigner transformation:
 
 \begin{equation}
 \begin{aligned}
@@ -105,7 +105,7 @@ It appears that the operator in the exponential writes:
 \end{aligned}
 \end{equation}
 
-This is equivalent to a $${ Y }$$ gate in the subspace defined by $${ \ket{01} }$$ and $${ \ket{10} }$$, and so the exponential operator is equivalent to a rotation operator around the $${ y }$$ axis in this subspace. One can then emulate the effect of this operator by starting from the HF reference  state $${ \ket{00} }$$, flip one qubit to $${ \ket{1} }$$ using a $${ X }$$ gate, apply a rotation $${ {R}_{Y}(\theta) = {e}^{-i \frac{\theta}{2} Y } }$$ on the second qubit (also noted $${ Y(\theta) }$$), and finally flip the first qubit to $${ \ket{0} }$$ only if the second qubit is $${ \ket{1} }$$ using a CNOT gate from 2 to 1 (also noted $${ \text{CNOT}_{01} }$$ instead of $${ \text{CNOT}_{10} }$$ for usual one). This is how the UCC ansatz was simplified in Phys. Rev. Lett. **120**, 210501 (2018) (for details see [link](./page_pn.html)).  
+This is equivalent to a ${ Y }$ gate in the subspace defined by ${ \ket{01} }$ and ${ \ket{10} }$, and so the exponential operator is equivalent to a rotation operator around the ${ y }$ axis in this subspace. One can then emulate the effect of this operator by starting from the HF reference  state ${ \ket{00} }$, flip one qubit to ${ \ket{1} }$ using a ${ X }$ gate, apply a rotation ${ {R}_{Y}(\theta) = {e}^{-i \frac{\theta}{2} Y } }$ on the second qubit (also noted ${ Y(\theta) }$), and finally flip the first qubit to ${ \ket{0} }$ only if the second qubit is ${ \ket{1} }$ using a CNOT gate from 2 to 1 (also noted ${ \text{CNOT}_{01} }$ instead of ${ \text{CNOT}_{10} }$ for usual one). This is how the UCC ansatz was simplified in Phys. Rev. Lett. **120**, 210501 (2018) (for details see [link](./page_pn.html)).  
 
 ![](assets/fig_qc_circuit_UCC.png)
 

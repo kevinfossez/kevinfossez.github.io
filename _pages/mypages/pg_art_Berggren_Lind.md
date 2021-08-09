@@ -76,7 +76,7 @@ description: Last update on July 25, 2019
   Nucl. Phys. A **109**, 265 (1968) [article](https://dx.doi.org/10.1016/0375-9474(68)90593-9)
 
 - D. F. Jackson and T. Berggren  
-  _Partial wave analysis of the $${ ( p , 2p ) }$$ reaction_  
+  _Partial wave analysis of the ${ ( p , 2p ) }$ reaction_  
   Nucl. Phys. **62**, 353 (1965) [article](https://dx.doi.org/10.1016/0029-5582(65)90484-0)
 
 - T. Berggren  
@@ -84,7 +84,7 @@ description: Last update on July 25, 2019
   Nucl. Phys. **72**, 337 (1965) [article](https://dx.doi.org/10.1016/0029-5582(65)90440-2)
 
 - T. Berggren and G. Jacob  
-  _Quasi-free proton-proton scattering in $${ 1p }$$-shell nuclei_  
+  _Quasi-free proton-proton scattering in ${ 1p }$-shell nuclei_  
   Nucl. Phys. **47**, 481 (1963) [article](https://dx.doi.org/10.1016/0029-5582(63)90890-3)
 
 - T. Berggren, G. E. Brown and G. Jacob  

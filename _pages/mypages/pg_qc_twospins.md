@@ -17,7 +17,7 @@ $$
 \end{equation}
 $$
 
-Each Pauli vector writes $${ \vec{\sigma} = {\sigma}_{x} \vec{u}_{x} + {\sigma}_{y} \vec{u}_{y} + {\sigma}_{z} \vec{u}_{z} }$$ where the vectors $${ \vec{u}_{i} }$$ are normalized to one and the operators $${ {\sigma}_{i} }$$ are represented by the Pauli matrices. It follows that the representation of the Hamiltonian using quantum gates is given by:  
+Each Pauli vector writes ${ \vec{\sigma} = {\sigma}_{x} \vec{u}_{x} + {\sigma}_{y} \vec{u}_{y} + {\sigma}_{z} \vec{u}_{z} }$ where the vectors ${ \vec{u}_{i} }$ are normalized to one and the operators ${ {\sigma}_{i} }$ are represented by the Pauli matrices. It follows that the representation of the Hamiltonian using quantum gates is given by:  
 
 $$
 \begin{equation}
@@ -163,7 +163,7 @@ The ground state energy of the two-spins system can be found by minimizing its e
 \end{aligned}
 \end{equation}
 
-The minimum is obtained for $${ \theta = -\pi/2 }$$ and gives $${ E = - {\hbar}^{2}/4 }$$ as expected. One notes that the excited state energy can be obtained for $${ \theta = +\pi/2 }$$ and one has $${ E = + 3 {\hbar}^{2}/4 }$$.
+The minimum is obtained for ${ \theta = -\pi/2 }$ and gives ${ E = - {\hbar}^{2}/4 }$ as expected. One notes that the excited state energy can be obtained for ${ \theta = +\pi/2 }$ and one has ${ E = + 3 {\hbar}^{2}/4 }$.
 
 
 

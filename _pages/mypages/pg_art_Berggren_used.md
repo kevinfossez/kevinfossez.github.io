@@ -18,7 +18,7 @@ description: Last update on June 7, 2020
   [arXiv](https://arxiv.org/abs/2004.02981)
 
 - N. Michel, J. G. Li, F. R. Xu, and W. Zuo  
-  _Two-neutron halo structure of $${ {}^{31}\text{F} }$$_  
+  _Two-neutron halo structure of ${ {}^{31}\text{F} }$_  
   Phys. Rev. C **101**, 031301(R), (2020) [article](https://doi.org/10.1103/PhysRevC.101.031301) [arXiv](https://arxiv.org/abs/2003.07542)  
 
 - B. S. Hu, Q. Wu, J. G. Li, Y. Z. Ma, Z. H. Sun, N. Michel, and F. R. Xu  
@@ -29,7 +29,7 @@ description: Last update on June 7, 2020
 ### 2019 (in-medium similarity renormalization group in the Berggren basis)
 
 - N. Michel, J. G. Li, F. R. Xu, and W. Zuo  
-  _Description of proton-rich nuclei in the $${ A \approx 20 }$$ region with the Gamow shell model_  
+  _Description of proton-rich nuclei in the ${ A \approx 20 }$ region with the Gamow shell model_  
   Phys. Rev. C, **100**, 064303 (2019) [article](https://doi.org/10.1103/PhysRevC.100.064303) [arXiv](https://arxiv.org/abs/1912.02364)  
 
 - J. G. Li, N. Michel, B. S. Hu, W. Zuo, F. R. Xu  
@@ -37,7 +37,7 @@ description: Last update on June 7, 2020
   Phys. Rev. C **100**, 054313 (2019) [article](https://doi.org/10.1103/PhysRevC.100.054313) [arXiv](https://arxiv.org/abs/1911.06485)  
 
 - A. Mercenne, N. Michel, M. P&#322;oszajczak  
-  _Gamow shell model description of $${ {}^{4}\text{He}(d,d) }$$ elastic scattering reactions_  
+  _Gamow shell model description of ${ {}^{4}\text{He}(d,d) }$ elastic scattering reactions_  
   Phys. Rev. C **99**, 044606 (2019) [article](https://doi.org/10.1103/PhysRevC.99.044606) [arXiv](https://arxiv.org/abs/1905.09485)  
 
 - B. S. Hu, Q. Wu, Z. H. Sun and F. R. Xu  
@@ -52,7 +52,7 @@ description: Last update on June 7, 2020
   Phys. Rev. C **98**, 061302(R) (2018) [article](https://doi.org/10.1103/PhysRevC.98.061302) [arXiv](https://arxiv.org/abs/1806.02936)
 
 - S. M. Wang and W. Nazarewicz  
-  _Puzzling two-proton decay of $${ {}^{67}\text{Kr} }$$_  
+  _Puzzling two-proton decay of ${ {}^{67}\text{Kr} }$_  
   Phys. Rev. Lett. **120**, 212502 (2018) [article](https://doi.org/10.1103/PhysRevLett.120.212502) [arXiv](https://arxiv.org/abs/1803.07656)
 
 - K. Fossez, J. Rotureau, and W. Nazarewicz  
@@ -79,7 +79,7 @@ description: Last update on June 7, 2020
   Phys. Rev. C **96**, 044307 (2017) [article](https://doi.org/10.1103/PhysRevC.96.044307) [arXiv](https://arxiv.org/abs/1707.08954)
 
 - Y. Jaganathen, R. M. Id Betan, N. Michel, W. Nazarewicz and M. P&#322;oszajczak  
-  _Quantified Gamow shell model interaction for $${ psd }$$-shell nuclei_  
+  _Quantified Gamow shell model interaction for ${ psd }$-shell nuclei_  
   Phys. Rev. C **96**, 054316 (2017) [article](https://doi.org/10.1103/PhysRevC.96.054316) [arXiv](https://arxiv.org/abs/1710.04727)
 
 - J. Rotureau, P. Danielewicz, G. Hagen, F. M. Nunes and T. Papenbrock  
@@ -91,17 +91,17 @@ description: Last update on June 7, 2020
   Phys. Rev. C **95**, 024324 (2017) [article](https://doi.org/10.1103/PhysRevC.95.024324) [arXiv](https://arxiv.org/abs/1612.00308)
 
 - G. X. Dong, N. Michel, K. Fossez, M. P&#322;oszajczak, Y. Jaganathen, and R. M. Id Betan  
-  _Gamow shell model description of radiative capture reactions $${ {}^{6}\mathrm{Li} ( p , \gamma ) {}^{7}\mathrm{Be} }$$ and $${ {}^{6}\mathrm{Li} ( n , \gamma ) {}^{7}\mathrm{Li} }$$_  
+  _Gamow shell model description of radiative capture reactions ${ {}^{6}\mathrm{Li} ( p , \gamma ) {}^{7}\mathrm{Be} }$ and ${ {}^{6}\mathrm{Li} ( n , \gamma ) {}^{7}\mathrm{Li} }$_  
   J. Phys. G **44**, 045201 (2017) [article](https://doi.org/10.1088/1361-6471/aa5f24) [arXiv](https://arxiv.org/abs/1601.06660)
 
 - Ik Jae Shin, Youngman Kim, P. Maris, J. P. Vary, C. Forssén, J. Rotureau and N. Michel  
-  _Ab initio no-core solutions for $${ {}^{6}\text{Li} }$$_  
+  _Ab initio no-core solutions for ${ {}^{6}\text{Li} }$_  
   J. Phys. G **44**, 075103 (2017) [article](https://doi.org/10.1088/1361-6471/aa6cb7) [arXiv](https://arxiv.org/abs/1605.02819)
 
 ### 2016
 
 - K. Fossez, J. Rotureau, N. Michel, Quan Liu, and W. Nazarewicz  
-  _Single-particle and collective motion in unbound deformed $${ {}^{39}\mathrm{Mg} }$$_  
+  _Single-particle and collective motion in unbound deformed ${ {}^{39}\mathrm{Mg} }$_  
   Phys. Rev. C **94**, 054302 (2016) [article](https://doi.org/10.1103/PhysRevC.94.054302) [arXiv](https://arxiv.org/abs/1607.08436)
 
 - K. Fossez, W. Nazarewicz, Y. Jaganathen, N. Michel, and M. P&#322;oszajczak  
@@ -113,7 +113,7 @@ description: Last update on June 7, 2020
   Acta Phys. Pol. B **47**, 967 (2016) [article](https://dx.doi.org/10.5506/APhysPolB.47.967) [arXiv](https://arxiv.org/abs/1509.06525)
 
 - G. X. Dong , K. Fossez, N. Michel, and M. P&#322;oszajczak  
-  _Astrophysical $${ S }$$-factor for $${ {}^{6}\mathrm{Li} ( p , \gamma ) {}^{7}\mathrm{Be} }$$ in the coupled-channel Gamow shell model_  
+  _Astrophysical ${ S }$-factor for ${ {}^{6}\mathrm{Li} ( p , \gamma ) {}^{7}\mathrm{Be} }$ in the coupled-channel Gamow shell model_  
   EPJ Web Conf. **109**, 05003 (2016) [article](https://doi.org/10.1051/epjconf/201610905003) [arXiv](https://arxiv.org/abs/1510.00786)
 
 ### 2015
@@ -141,7 +141,7 @@ description: Last update on June 7, 2020
   Phys. Rev. C **89**, 014330 (2014) [article](https://dx.doi.org/10.1103/PhysRevC.89.014330) [arXiv](https://arxiv.org/abs/1310.7519)
 
 - Y. Jaganathen, N. Michel and M. P&#322;oszajczak  
-  _Gamow shell model description of proton scattering on $${ {}^{18}\text{Ne} }$$_  
+  _Gamow shell model description of proton scattering on ${ {}^{18}\text{Ne} }$_  
   Phys. Rev. C **89**, 034624 (2014) [article](https://dx.doi.org/10.1103/PhysRevC.89.034624) [arXiv](https://arxiv.org/abs/1402.5795)
 
 - R. M. Id Betan  
@@ -159,7 +159,7 @@ description: Last update on June 7, 2020
   Phys. Rev. C **88**, 044318 (2013) [article](https://dx.doi.org/10.1103/PhysRevC.88.044318) [arXiv](https://arxiv.org/abs/1301.7140)
 
 - J. Rotureau and U. van Kolck  
-  _Effective field theory and the Gamow shell model - The $${ {}^{6}\text{He} }$$ halo nucleus_  
+  _Effective field theory and the Gamow shell model - The ${ {}^{6}\text{He} }$ halo nucleus_  
   Few-Body Syst. **54**, 725 (2013) [article](https://dx.doi.org/10.1007/s00601-012-0455-6) [arXiv](https://arxiv.org/abs/1201.3351)
 
 - N. Michel  
@@ -181,7 +181,7 @@ description: Last update on June 7, 2020
   Phys. Rev. C **86**, 021602(R) (2012) [article](https://dx.doi.org/10.1103/PhysRevC.86.021602) [arXiv](https://arxiv.org/abs/1206.2336)
 
 - R. M. Id Betan and W. Nazarewicz  
-  _$${ \alpha }$$ decay in the complex-energy shell model_  
+  _${ \alpha }$ decay in the complex-energy shell model_  
   Phys. Rev. C **86**, 034338 (2012) [article](https://dx.doi.org/10.1103/PhysRevC.86.034338) [arXiv](https://arxiv.org/abs/1208.1422)
 
 - J. Oko&#322;owicz, N. Michel, W. Nazarewicz and M. P&#322;oszajczak  
@@ -213,7 +213,7 @@ description: Last update on June 7, 2020
 ### 2010
 
 - G. Hagen, T. Papenbrock, M. Hjorth-Jensen  
-  _Ab initio computation of the $${ {}^{17}\text{F} }$$ proton halo state and resonances in $${ A = 17 }$$ nuclei_  
+  _Ab initio computation of the ${ {}^{17}\text{F} }$ proton halo state and resonances in ${ A = 17 }$ nuclei_  
   Phys. Rev. Lett. **104**, 182501 (2010) [article](https://dx.doi.org/10.1103/PhysRevLett.104.182501) [arXiv](https://arxiv.org/abs/1003.1995)
 
 - N. Michel, W. Nazarewicz and M. P&#322;oszajczak  
@@ -283,7 +283,7 @@ description: Last update on June 7, 2020
   Prog. Part. Nucl. Phys. **59**, 432 (2007) [article](https://dx.doi.org/10.1016/j.ppnp.2007.01.022) [arXiv](https://arxiv.org/abs/nucl-th/0701047)
 
 - N. Michel  
-  _Precise Coulomb wave functions for a wide range of complex $${ l }$$, $${ \eta }$$ and $${ z }$$_  
+  _Precise Coulomb wave functions for a wide range of complex ${ l }$, ${ \eta }$ and ${ z }$_  
   Comp. Phys. Comm. **176**, 232 (2007) [article](https://dx.doi.org/10.1016/j.cpc.2006.10.004) [arXiv](https://arxiv.org/abs/physics/0702051)
 
 ### 2006 (density matrix renormalization group in the Berggren basis)
@@ -421,19 +421,19 @@ description: Last update on June 7, 2020
 ## Theoretical contributions in experimental articles
 
 - T. B. Webb, S. M. Wang, K. W. Brown, R. J. Charity, J. M. Elson, J. Barney, G. Cerizza, Z. Chajecki, J. Estee, D. E. M. Hoff, S. A. Kuvin, W. G. Lynch, J. Manfredi, D. McNeel, P. Morfouace, W. Nazarewicz, C. D. Pruitt, C. Santamaria, J. Smith, L. G. Sobotka, S. Sweany, C. Y. Tsang, M. B. Tsang, A. H. Wuosmaa, Y. Zhang and K. Zhu  
-  _First observation of unbound $${ {}^{11}\text{O} }$$, the mirror of the halo nucleus $${ {}^{11}\text{Li} }$$_  
+  _First observation of unbound ${ {}^{11}\text{O} }$, the mirror of the halo nucleus ${ {}^{11}\text{Li} }$_  
   Phys. Rev. Lett. **122**, 122501 (2019) [article](https://doi.org/10.1103/PhysRevLett.122.122501) [arXiv](https://arxiv.org/abs/1812.08880)
 
 - S. Leblond, F. M. Marqués, J. Gibelin, N. A. Orr, Y. Kondo, T. Nakamura, J. Bonnard, N. Michel, N. L. Achouri, T. Aumann, H. Baba, F. Delaunay, Q. Deshayes, P. Doornenbal, N. Fukuda, J. W. Hwang, N. Inabe, T. Isobe, D. Kameda, D. Kanno, S. Kim, N. Kobayashi, T. Kobayashi, T. Kubo, J. Lee, R. Minakata, T. Motobayashi, D. Murai, T. Murakami, K. Muto, T. Nakashima, N. Nakatsuka, A. Navin, S. Nishi, S. Ogoshi, H. Otsu, H. Sato, Y. Satou, Y. Shimizu, H. Suzuki, K. Takahashi, H. Takeda, S. Takeuchi, R. Tanaka, Y. Togano, A.G. Tuff, M. Vandebrouck, and K. Yoneda  
-  _First observation of $${ {}^{20}\text{B} }$$ and $${ {}^{21}\text{B} }$$_  
+  _First observation of ${ {}^{20}\text{B} }$ and ${ {}^{21}\text{B} }$_  
   Phys. Rev. Lett. **121** (2018) 262502 [article](https://doi.org/10.1103/PhysRevLett.121.262502) [arXiv](https://arxiv.org/abs/1901.00455)  
 
 - M. D. Jones, K. Fossez, T. Baumann, P. A. DeYoung, J. E. Finck, N. Frank, A. N. Kuchera, N. Michel, W. Nazarewicz, J. Rotureau, J. K. Smith, S. L. Stephenson, K. Stiefel, M. Thoennessen, and R. G. T. Zegers  
-  _Search for excited states in $${ {}^{25}\mathrm{O} }$$_  
+  _Search for excited states in ${ {}^{25}\mathrm{O} }$_  
   Phys. Rev. C **96**, 054322 (2017) [article](https://doi.org/10.1103/PhysRevC.96.054322) [arXiv](https://arxiv.org/abs/1710.04706)
 
 - F. de Grancey, A. Mercenne, F. de Oliveira Santos, T. Davinson, O. Sorlin, J. C. Angélique, M. Assié, E. Berthoumieux, R. Borcea, A. Buta, I. Celikovic, V. Chudoba, J. M. Daugas, G. Dumitru, M. Fadil, S. Grévy, J. Kiener, A. Lefebvre-Schuhl, N. Michel, J. Mrazek, F. Negoita, J. Oko&#322;owicz, D. Pantelica, M. G. Pellegriti, L. Perrot, M. P&#322;oszajczak, G. Randisi, I. Ray, O. Roig, F. Rotaru, M. G. Saint Laurent, N. Smirnova, M. Stanoiu, I. Stefan, C. Stodel, K. Subotic, V. Tatischeff, J. C. Thomas, P. Uji&#263; and R. Wolski  
-  _An above-barrier narrow resonance in $${ {}^{15}\text{F} }$$_  
+  _An above-barrier narrow resonance in ${ {}^{15}\text{F} }$_  
   Phys. Lett. B **758**, 26 (2016) [article](http://dx.doi.org/10.1016/j.physletb.2016.04.051) [arXiv](https://arxiv.org/abs/1603.00436)
 
 

@@ -9,13 +9,13 @@ See wikipedia page on [quantum gates](https://en.wikipedia.org/wiki/Quantum_logi
 
 ## One qubit
 
-### Spin $${ 1/2 }$$ representation and conventions
+### Spin ${ 1/2 }$ representation and conventions
 
 $$
 \ket{ s = 1/2, {m}_{s} = \pm 1/2 } = \ket{\pm}
 $$
 
-Sometimes the kets $${ \ket{\pm} }$$ are used for the Hadamard transformed basis [link](https://en.wikipedia.org/wiki/Controlled_NOT_gate), otherwise, the convention is to take $${ \ket{+} = \ket{0} }$$ and $${ \ket{-} = \ket{1} }$$, so in the matrix representation one has:  
+Sometimes the kets ${ \ket{\pm} }$ are used for the Hadamard transformed basis [link](https://en.wikipedia.org/wiki/Controlled_NOT_gate), otherwise, the convention is to take ${ \ket{+} = \ket{0} }$ and ${ \ket{-} = \ket{1} }$, so in the matrix representation one has:  
 
 \begin{equation}
 \begin{aligned}
@@ -50,7 +50,7 @@ The identity matrix is trivially:
 
 
 
-Pauli matrices are the building blocks for all operations acting on spins $${ 1/2 }$$ and so on individual qubits. In matrix representation they are defined as:  
+Pauli matrices are the building blocks for all operations acting on spins ${ 1/2 }$ and so on individual qubits. In matrix representation they are defined as:  
 
 \begin{equation}
 \begin{aligned}
@@ -86,9 +86,9 @@ Pauli matrices are the building blocks for all operations acting on spins $${ 1/
 \end{equation}
 
 
-The $${ X }$$ matrix is also called the NOT gate.
+The ${ X }$ matrix is also called the NOT gate.
 
-The rotation gates along the $${ X }$$, $${ Y }$$, and $${ Z }$$ axes are defined as:
+The rotation gates along the ${ X }$, ${ Y }$, and ${ Z }$ axes are defined as:
 
 \begin{equation}
 \begin{aligned}
@@ -121,7 +121,7 @@ The rotation gates along the $${ X }$$, $${ Y }$$, and $${ Z }$$ axes are define
 \end{equation}
 
 
-The Hadamard gate $${ H }$$ satisfies $${ {H}^{2} = I }$$ and $${ {H}^{\dagger} = H }$$, and writes:  
+The Hadamard gate ${ H }$ satisfies ${ {H}^{2} = I }$ and ${ {H}^{\dagger} = H }$, and writes:  
 
 \begin{equation}
 \begin{aligned}
@@ -201,7 +201,7 @@ $$
 
 ### two-qubit gates
 
-The CNOT gate from 1 to 2 is denoted $${ \text{CNOT}_{10} }$$ while the CNOT gate from 2 to 1 is denoted $${ \text{CNOT}_{01} }$$:
+The CNOT gate from 1 to 2 is denoted ${ \text{CNOT}_{10} }$ while the CNOT gate from 2 to 1 is denoted ${ \text{CNOT}_{01} }$:
 
 \begin{equation}
 \begin{aligned}
@@ -228,7 +228,7 @@ The CNOT gate from 1 to 2 is denoted $${ \text{CNOT}_{10} }$$ while the CNOT gat
 \end{aligned}
 \end{equation}
 
-The gates $${ {X}_{0} {X}_{1} }$$, $${ {Y}_{0} {Y}_{1} }$$, and $${ {Z}_{0} {Z}_{1} }$$ can be obtained with the tensorial product $${ \otimes }$$ of the one-qubit matrices:
+The gates ${ {X}_{0} {X}_{1} }$, ${ {Y}_{0} {Y}_{1} }$, and ${ {Z}_{0} {Z}_{1} }$ can be obtained with the tensorial product ${ \otimes }$ of the one-qubit matrices:
 
 
 \begin{equation}

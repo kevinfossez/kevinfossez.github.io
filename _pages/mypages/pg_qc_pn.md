@@ -39,7 +39,7 @@ $$
 	{H}_{2} = a I + b {Z}_{0} + c {Z}_{1} + d ({X}_{0} {X}_{1} + {Y}_{0} {Y}_{1})
 \end{equation}
 $$  
-where $${ a }$$, $${ b }$$, $${ c }$$, and $${ d }$$ are constants given by the problem (see article). The identity $${ I }$$ and the $${ Z }$$ gates are trivial while the two-qubit gates $${ XX }$$ and $${ YY }$$ need to be computed before. The effect of each term of the Hamiltonian on the wave function is:  
+where ${ a }$, ${ b }$, ${ c }$, and ${ d }$ are constants given by the problem (see article). The identity ${ I }$ and the ${ Z }$ gates are trivial while the two-qubit gates ${ XX }$ and ${ YY }$ need to be computed before. The effect of each term of the Hamiltonian on the wave function is:  
 
 
 \begin{equation}
