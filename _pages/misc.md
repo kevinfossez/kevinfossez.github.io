@@ -12,8 +12,6 @@ header:
 
 {% include base_path %}
 
-- Tests [test html](./art_test/)
-
 ## Some references
 
 - List of [articles](./art_Berggren_used/) where the Berggren basis was used.
