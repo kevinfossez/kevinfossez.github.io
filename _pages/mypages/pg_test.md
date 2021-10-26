@@ -5,9 +5,31 @@ title: Page for tests
 description: Last update on October 26, 2021
 ---
 
+| Entity | Code |
+| --- | ----------- |
+| &lstrok; | &#321; |
+| &Lstrok; | &#322; |
+| &acedil; | |
+| &Scedil; | &#350; |
+| &nacute; | &#324; |
+| &sacute; | &#347; |
+| &cacute; | &#263; |
+| &Cacute; | &#262; |
+| &inodot; | |
+| &imath;  | &#305; |
+| &ccaron; | &#269; |
+| &Ccaron; | &#268; |
+| &rcaron; | &#345; |
+| &zcaron; | &#382; |
+| &Zcaron; | &#381; |
+| &omacr;  | &#333; |
+| &abreve; | &#259; |
+| &cbreve; | |
+| &Cbreve; | |
+| &zbreve; | |
+| &uring;  | &#367; |
+| &zdot;   | &#380; |
 
-&lstrok;  
-&Lstrok;  
 &auml;  
 &euml;  
 &iuml;  
@@ -20,8 +42,6 @@ description: Last update on October 26, 2021
 &Uuml;  
 &szlig;  
 &ccedil;  
-&acedil;  
-&Scedil;  
 &oslash;  
 &Oslash;  
 &aacute;  
@@ -29,16 +49,12 @@ description: Last update on October 26, 2021
 &iacute;  
 &oacute;  
 &uacute;  
-&nacute;  
-&sacute;  
-&cacute;  
 &yacute;  
 &Aacute;  
 &Eacute;  
 &Iacute;  
 &Oacute;  
 &Uacute;  
-&Cacute;  
 &acirc;  
 &ecirc;  
 &icirc;  
@@ -50,22 +66,9 @@ description: Last update on October 26, 2021
 &ograve;  
 &ntilde;  
 &atilde;  
-&inodot;  
-&ccaron;  
-&Ccaron;  
 &#487;  
-&rcaron;  
 &scaron;  
 &Scaron;  
-&zcaron;  
-&Zcaron;  
-&omacr;  
-&abreve;  
-&cbreve;  
-&Cbreve;  
-&zbreve;  
 &Aring;  
-&uring;  
-&zdot;  
 
 
