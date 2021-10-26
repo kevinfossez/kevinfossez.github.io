@@ -12,7 +12,7 @@ header:
 
 {% include base_path %}
 
-- Tests [test](./art_test/)
+- Tests [test html](./art_test/)
 
 ## Some references
 
