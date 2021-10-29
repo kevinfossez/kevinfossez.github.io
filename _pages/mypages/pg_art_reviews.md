@@ -144,7 +144,7 @@ description: Last update on October 29, 2021
 
 [//]: # (adelberger11_162)
 - E. G. Adelberger, A. Garcia, R. G. H. Robertson, K. A. Snover, A. B. Balantekin, K. Heeger, M. J. Ramsey-Musolf, D. Bemmerer, A. Junghans, C. A. Bertulani, J. -W. Chen, H. Costantini, P. Prati, M. Couder, E. Uberseder, M. Wiescher, R. Cyburt, B. Davids, S. J. Freedman, M. Gai, D. Gazit, L. Gialanella, G. Imbriani, U. Greife, M. Hass, W. C. Haxton, T. Itahashi, K. Kubodera, K. Langanke, D. Leitner, M. Leitner, P. Vetter, L. Winslow, L. E. Marcucci, T. Motobayashi, A. Mukhamedzhanov, R. E. Tribble, K. M. Nollet, F. M. Nunes, T. -S. Park, P. D. Parker, R. Schiavilla, E. C. Simpson, C. Spitaleri, F. Strieder, H. -P. Trautvetter, K. Suemmere, and S. Typel  
-  _Solar fusion cross sections. {II}. {T}he $pp$ chain and {CNO} cycles_  
+  _Solar fusion cross sections. II. The $pp$ chain and CNO cycles_  
   Rev. Mod. Phys. **83**, 195 (2011) [article](https://dx.doi.org/10.1103/RevModPhys.83.195)  
 
 [//]: # (bertulani10_1001)
@@ -500,7 +500,7 @@ description: Last update on October 29, 2021
 
 [//]: # (papenbrock07_1314)
 - T. Papenbrock, and H. A. Weidenm&uuml;ller  
-  _\textit{Colloquium}: Random matrices and chaos in nuclear spectra_  
+  _Colloquium: Random matrices and chaos in nuclear spectra_  
   Rev. Mod. Phys. **79**, 997 (2007) [article](http://dx.doi.org/10.1103/RevModPhys.79.997)  
 
 [//]: # (guhr98_1309)
