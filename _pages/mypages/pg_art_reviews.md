@@ -222,7 +222,7 @@ description: Last update on October 29, 2021
 
 ## Many-body methods
 
-### Shell model
+### Shell model (SM)
 
 [//]: # (caurier07_382)
 - E. Caurier  
@@ -239,7 +239,7 @@ description: Last update on October 29, 2021
   _The nuclear shell model towards the drip lines_  
   Prog. Part. Nucl. Phys. **47**, 517 (2001) [article](https://dx.doi.org/10.1016/S0146-6410(01)00159-4)  
 
-### Density matrix renormalization group
+### Density matrix renormalization group (DMRG)
 
 [//]: # (pittel09_2012)
 - S. Pittel, and B. Thakur  
@@ -266,7 +266,7 @@ description: Last update on October 29, 2021
   _The density matrix renormalization group: a new approach to large-scale nuclear structure calculations_  
   Rev. Mex. Fis. **47 Supl. 2**, 42 (2001) [article]()  
 
-### Shell model Monte Carlo
+### Shell model Monte Carlo (SMMC)
 
 [//]: # (otsuka01_2384)
 - T. Otsuka, M. Honma, T. Mizusaki, N. Shimizu, and Y. Utsuno  
@@ -278,7 +278,7 @@ description: Last update on October 29, 2021
   _Shell model Monte Carlo methods_  
   Phys. Rep. **278**, 1 (1997) [article](https://dx.doi.org/10.1016/S0370-1573(96)00017-8)  
 
-### Coupled cluster theory
+### Coupled cluster theory (CCT)
 
 [//]: # (hagen13_939)
 - G. Hagen, T. Papenbrock, M. Hjorth-Jensen, and D. J. Dean  
@@ -296,28 +296,28 @@ description: Last update on October 29, 2021
   Phys. Rep. **36**, 1 (1978) [article](https://dx.doi.org/10.1016/0370-1573(78)90081-9)  
 
 
-### In-medium similarity renormalization group
+### In-medium similarity renormalization group (IM-SRG)
 
 [//]: # (hergert16_1673)
 - H. Hergert, S. K. Bogner, T. D. Morris, A. Schwenk, and K. Tsukiyama  
   _The in-medium similarity renormalization group: A novel \textit{ab initio} method for nuclei_  
   Phys. Rep. **621**, 165 (2016) [article](http://dx.doi.org/10.1016/j.physrep.2015.12.007)  
 
-### Quantum Monte Carlo
+### Quantum Monte Carlo (QMC)
 
 [//]: # (carlson15_1610)
 - J. Carlson, S. Gandolfi, F. Pederiva, S. C. Pieper, R. Schiavilla, K. E. Schmidt, and R. B. Wiringa  
   _Quantum Monte Carlo methods for nuclear physics_  
   Rev. Mod. Phys. **87**, 1067 (2015) [article](http://dx.doi.org/10.1103/RevModPhys.87.1067)  
 
-### Fermionic molecular dynamics
+### Fermionic molecular dynamics (FMD)
 
 [//]: # (feldmeier00_2337)
 - H. Feldmeier, and J. Schnack  
   _Molecular dynamics for fermions_  
   Rev. Mod. Phys. **72**, 655 (2000) [article](https://doi.org/10.1103/RevModPhys.72.655)  
 
-### No-core shell model
+### No-core shell model (NCSM)
 
 [//]: # (stetcu13_238)
 - I. Stetcu, and J. Rotureau  
@@ -329,7 +329,7 @@ description: Last update on October 29, 2021
   _\textit{Ab initio} no core shell model_  
   Prog. Part. Nucl. Phys. **69**, 131 (2013) [article](https://dx.doi.org/10.1016/j.ppnp.2012.10.003)  
 
-### Self-consistent Green's function
+### Self-consistent Green's function (SCGF)
 
 [//]: # (dickhoff04_947)
 - W. H. Dickhoff, and C. Barbieri  
@@ -357,21 +357,21 @@ description: Last update on October 29, 2021
   _Symmetry-guided large-scale shell-model theory_  
   Prog. Part. Nucl. Phys. **89**, 101 (2016) [article](http://dx.doi.org/10.1016/j.ppnp.2016.02.001)  
 
-### Nuclear field theory
+### Nuclear field theory (NFT)
 
 [//]: # (bortignon77_2183)
 - P. F. Bortignon, R. A. Broglia, D. R. Bes, and R. Liotta  
   _Nuclear Field Theory_  
   Phys. Rep. **30**, 305 (1977) [article](https://doi.org/10.1016/0370-1573(77)90018-7)  
 
-### Relativistic mean field
+### Relativistic mean field (RMF)
 
 [//]: # (ring96_2437)
 - P. Ring  
   _Relativistic mean field theory in finite nuclei_  
   Prog. Part. Nucl. Phys. **37**, 193 (1996) [article](https://doi.org/10.1016/0146-6410(96)00054-3)  
 
-### Density functional theory
+### Density functional theory (DFT)
 
 [//]: # (drut10_1672)
 - J. E. Drut, R. J. Furnstahl, and L. Platter  
