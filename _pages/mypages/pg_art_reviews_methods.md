@@ -109,7 +109,7 @@ description: Last update on November 1, 2021
 
 [//]: # (hergert16_1673)
 - H. Hergert, S. K. Bogner, T. D. Morris, A. Schwenk, and K. Tsukiyama  
-  _The in-medium similarity renormalization group: A novel \textit{ab initio} method for nuclei_  
+  _The in-medium similarity renormalization group: A novel ab initio method for nuclei_  
   Phys. Rep. **621**, 165 (2016) [article](http://dx.doi.org/10.1016/j.physrep.2015.12.007)  
 
 ### Quantum Monte Carlo (QMC)
@@ -135,7 +135,7 @@ description: Last update on November 1, 2021
 
 [//]: # (barrett13_688)
 - B. R. Barrett, P. Navr&aacute;til, and J. P. Vary  
-  _\textit{Ab initio} no core shell model_  
+  _Ab initio no core shell model_  
   Prog. Part. Nucl. Phys. **69**, 131 (2013) [article](https://dx.doi.org/10.1016/j.ppnp.2012.10.003)  
 
 ### Self-consistent Green's function (SCGF)
@@ -156,7 +156,7 @@ description: Last update on November 1, 2021
 
 [//]: # (leidemann13_214)
 - W. Leidemann, and G. Orlandini  
-  _Modern \textit{ab initio} approaches and applications in few-nucleon physics with $A \geq 4$_  
+  _Modern ab initio approaches and applications in few-nucleon physics with $A \geq 4$_  
   Prog. Part. Nucl. Phys. **68**, 158 (2013) [article](https://dx.doi.org/10.1016/j.ppnp.2012.09.001)  
 
 ### Symmetry-guided no-core shell model methods
@@ -184,7 +184,7 @@ description: Last update on November 1, 2021
 
 [//]: # (drut10_1672)
 - J. E. Drut, R. J. Furnstahl, and L. Platter  
-  _Toward \textit{ab initio} density functional theory for nuclei_  
+  _Toward ab initio density functional theory for nuclei_  
   Prog. Part. Nucl. Phys. **64**, 120 (2010) [article](http://dx.doi.org/10.1016/j.ppnp.2009.09.001)  
 
 
