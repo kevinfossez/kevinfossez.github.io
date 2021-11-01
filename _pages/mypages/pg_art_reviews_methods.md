@@ -1,13 +1,10 @@
 ---
 layout: archive
-permalink: /misc/art_reviews/art_reviews_meth/
+permalink: /misc/art_reviews/art_reviews_methods/
 title: Some review articles on many-body methods in low-energy nuclear physics
 description: Last update on November 1, 2021
 ---
 
-
-
-## Many-body methods
 
 ### Shell model (SM)
 

@@ -7,8 +7,6 @@ description: Last update on November 1, 2021
 
 
 
-## Nuclear forces
-
 ### Effective field theories
 
 [//]: # (machleidt11_414)

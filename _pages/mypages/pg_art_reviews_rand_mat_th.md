@@ -7,7 +7,6 @@ description: Last update on November 1, 2021
 
 
 
-
 ## Random matrix theory
 
 [//]: # (mitchell10_1316)
