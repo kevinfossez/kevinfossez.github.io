@@ -102,7 +102,7 @@ description: Last update on October 29, 2021
   Prog. Part. Nucl. Phys. **86**, 86 (2016) [article](http://dx.doi.org/10.1016/j.ppnp.2015.09.001)  
 
 [//]: # (adelberger11_162)
-- E. G. Adelberger, A. Garcia, R. G. H. Robertson, K. A. Snover, A. B. Balantekin, K. Heeger, M. J. Ramsey-Musolf, D. Bemmerer, A. Junghans, C. A. Bertulani, J. -W. Chen, H. Costantini, P. Prati, M. Couder, E. Uberseder, M. Wiescher, R. Cyburt, B. Davids, S. J. Freedman, M. Gai, D. Gazit, L. Gialanella, G. Imbriani, U. Greife, M. Hass, W. C. Haxton, T. Itahashi, K. Kubodera, K. Langanke, D. Leitner, M. Leitner, P. Vetter, L. Winslow, L. E. Marcucci, T. Motobayashi, A. Mukhamedzhanov, R. E. Tribble, K. M. Nollet, F. M. Nunes, T. -S. Park, P. D. Parker, R. Schiavilla, E. C. Simpson, C. Spitaleri, F. Strieder, H. -P. Trautvetter, K. Suemmere, and S. Typel  
+- E. G. Adelberger, _et al._  
   _Solar fusion cross sections. II. The $pp$ chain and CNO cycles_  
   Rev. Mod. Phys. **83**, 195 (2011) [article](https://dx.doi.org/10.1103/RevModPhys.83.195)  
 
