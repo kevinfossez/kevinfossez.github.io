@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /misc/art_reviews_nucl_forces/
+permalink: /misc/art_reviews/art_reviews_nucl_forces/
 title: Some review articles on nuclear forces and their renormilization
 description: Last update on November 1, 2021
 ---

@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /misc/art_reviews_rand_mat_th/
+permalink: /misc/art_reviews/art_reviews_rand_mat_th/
 title: Some review articles on random matrix theory
 description: Last update on November 1, 2021
 ---

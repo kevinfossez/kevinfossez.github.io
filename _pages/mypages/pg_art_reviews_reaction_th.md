@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /misc/art_reviews_reaction_th/
+permalink: /misc/art_reviews/art_reviews_reaction_th/
 title: Some review articles on reactions theory
 description: Last update on November 1, 2021
 ---
