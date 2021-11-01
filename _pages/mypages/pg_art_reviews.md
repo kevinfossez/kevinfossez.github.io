@@ -6,10 +6,10 @@ description: Last update on October 29, 2021
 ---
 
 
-- List of [reviews](./pg_art_reviews_nucl_forces) on nuclear forces and their renormalization.
-- List of [reviews](./pg_art_reviews_reaction_th) on reactions theory.
-- List of [reviews](./pg_art_reviews_methods) on many-body methods.
-- List of [reviews](./pg_art_reviews_rand_mat_th) on random matrix theory.
+- List of [reviews](./art_reviews_nucl_forces) on nuclear forces and their renormalization.
+- List of [reviews](./art_reviews_reaction_th) on reactions theory.
+- List of [reviews](./art_reviews_methods) on many-body methods.
+- List of [reviews](./art_reviews_rand_mat_th) on random matrix theory.
 
 
 ## Exotic nuclei, drip lines
