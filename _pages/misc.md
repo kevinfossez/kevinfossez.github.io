@@ -15,7 +15,7 @@ header:
 ## Some references
 
 - List of selected [reviews](./art_reviews/) in low-energy nuclear physics.
-- List of selected [books](./art_books/) in low-energy nuclear physics.
+- List of selected [books](./books/) in low-energy nuclear physics.
 
 ### Continuum
 
