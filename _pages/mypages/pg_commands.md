@@ -58,6 +58,14 @@ vim
 :bufdo %s/pattern/replace/g | update
 ```
 
+```bash
+vim
+:args *.cpp *.h
+:bufdo execute "normal! gg" | :call Myfunction() | execute "normal! gg=G" | execute "normal! gg" | w
+```
+
+
+
 ## Generate public and private ssh keys
 
 ```bash
