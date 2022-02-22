@@ -22,6 +22,11 @@ description: Last update on November 1, 2021
 - B. A. Brown  
   _The nuclear shell model towards the drip lines_  
   Prog. Part. Nucl. Phys. **47**, 517 (2001) [article](https://dx.doi.org/10.1016/S0146-6410(01)00159-4)  
+[//]: # (brown88_2446)
+- B. A. Brown, and B. H. Wildenthal  
+  _Status of the nuclear shell model_  
+  Ann. Rev. Nucl. Part. Sci. **38**, 29 (1988) [article](https://doi.org/10.1146/annurev.ns.38.120188.000333)  
+
 
 ### Continuum shell model (CSM) and shell model embedded in the continuum (SMEC)
 
