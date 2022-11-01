@@ -31,6 +31,22 @@ description: Last update on November 1, 2021
 
 ### Renormalization methods
 
+[//]: # (stroberg17_1807)
+- S. R. Stroberg, A. Calci, H. Hergert, J. D. Holt, S. K. Bogner, R. Roth, and A. Schwenk  
+  _Nucleus-dependent valence-space approach to nuclear structure_  
+	Phys. Rev. Lett. **118**, 032502 (2017) [article](http://dx.doi.org/10.1103/PhysRevLett.118.032502)  
+
+
+[//]: # (jansen14_1150)
+- G. R. Jansen, J. Engel, G. Hagen, P. Navr\'atil and A. Signoracci  
+  _Ab initio coupled-cluster effective interactions for the shell model: {A}pplication to neutron-rich oxygen and cargon isotopes_  
+	Phys. Rev. Lett. **113**, 142502 (2014) [article](https://dx.doi.org/10.1103/PhysRevLett.113.142502)  
+
+[//]: # (bogner14_1156)
+- S. K Bogner, H. Hergert, J. D. Holt, A. Schwenk, S. Binder, A. Calci, J. Langhammer, and R. Roth  
+  _Nonperturbative shell-model interactions from the in-medium similarity renormalization group_  
+	Phys. Rev. Lett. **113**, 142501 (2014) [article](https://dx.doi.org/10.1103/PhysRevLett.113.142501)  
+
 [//]: # (furnstahl13_1284)
 - R. J. Furnstahl, and K. Hebeler  
   _New applications of renormalization group methods in nuclear physics_  
@@ -46,6 +62,15 @@ description: Last update on November 1, 2021
   _Nuclear structure in the framework of the unitary correlation operator method_  
   Prog. Part. Nucl. Phys. **65**, 50 (2010) [article](http://dx.doi.org/10.1016/j.ppnp.2010.02.003)  
 
+[//]: # (coraggio07_2261)
+- L. Coraggio, A. Covello, A. Gargano, N. Itaco, D. R. Entem, T. T. S. Kuo, and R. Machleidt  
+  _Low-momentum nucleon-nucleon interactions and shell-model calculations_  
+	Phys. Rev. C **75**, 024311 (2007) [article](http://dx.doi.org/10.1103/PhysRevC.75.024311)  
+[//]: # (holt04_1685)
+- J. D. Holt, T. T. Kuo, G. E. Brown, and S. K. Bogner  
+  _Counter terms for low momentum nucleon-nucleon interactions_  
+	Nucl. Phys. A **733**, 153 (2004) [article](https://dx.doi.org/10.1016/j.nuclphysa.2003.12.004)  
+
 [//]: # (dean04_412)
 - D. J. Dean, T. Engeland, M. Hjorth-Jensen, M. P. Kartamyshev, and E. Osnes  
   _Effective interactions and the nuclear shell-model_  
@@ -56,18 +81,25 @@ description: Last update on November 1, 2021
   _Model-independent low momentum nucleon interaction from phase shift equivalence_  
   Phys. Rep. **386**, 1 (2003) [article](https://dx.doi.org/10.1016/j.physrep.2003.07.001)  
 
+[//]: # (bogner02_1705)
+- S. Bogner, T. T. S. Kuo, L. Coraggio, A. Covello, and N. Itaco  
+  _Low momentum nucleon-nucleon potential and shell model effective interactions_  
+	Phys. Rev. C **65**, 051301(R) (2002) [article](https://dx.doi.org/10.1103/PhysRevC.65.051301)  
+
 [//]: # (hjorth95_1062)
 - M. Hjorth-Jensen, T. T. S. Kuo, and E. Osnes  
   _Realistic effective interactions for nuclear systems_  
   Phys. Rep. **261**, 125 (1995) [article](https://dx.doi.org/10.1016/0370-1573(95)00012-6)  
 
 
-stroberg17_1807
-jansen14_1150
-bogner14_1156
-coraggio07_2261
-holt04_1685
-bogner02_1705
+[//]: # (brueckner55_2503)
+- K. A. Brueckner and C. A. Levinson  
+  _Approximate reduction of the many-body problem for strongly interacting particles to a problem of self-consistent fields_  
+	Phys. Rev. **97**, 1344 (1955) [article](https://doi.org/10.1103/PhysRev.97.1344})  
 
-brueckner55_2503
-brueckner55_2505
+[//]: # (brueckner55_2505)
+- K. A. Brueckner  
+  _Two-body forces and nuclear saturation. III. Details of the structure of the nucleus_  
+	Phys. Rev. **97**, 1353 (1955) [article](https://doi.org/10.1103/PhysRev.97.1353)  
+
+
