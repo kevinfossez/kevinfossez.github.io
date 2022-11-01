@@ -6,14 +6,12 @@ description: Last update on November 1, 2021
 ---
 
 
-hergert20_2412
+### Ab initio methods
 
-
-### Shell model (historical)
-
-goeppert48_652
-goeppert49_421
-haxel49_420
+[//]: # (hergert20_2412)
+- H. Hergert  
+  _A guided tour of ab initio nuclear many-body theory_  
+	Front. Phys. **8**, 379 (2020) [article](https://doi.org/10.3389/fphy.2020.00379})  
 
 
 ### Shell model (SM)
@@ -56,6 +54,7 @@ haxel49_420
   _A continuum shell model for the open quantum mechanical nuclear system_  
   Rep. Prog. Phys. **54**, 635 (1991) [article](https://dx.doi.org/10.1088/0034-4885/54/4/003)  
 
+
 ### Gamow shell model (GSM)
 
 [//]: # (michel09_2)
@@ -91,6 +90,7 @@ haxel49_420
   _The density matrix renormalization group: a new approach to large-scale nuclear structure calculations_  
   Rev. Mex. Fis. **47 Supl. 2**, 42 (2001) [article]()  
 
+
 ### Shell model Monte Carlo (SMMC)
 
 [//]: # (otsuka01_2384)
@@ -102,6 +102,7 @@ haxel49_420
 - S. E. Koonin, D. J. Dean, and K. Langanke  
   _Shell model Monte Carlo methods_  
   Phys. Rep. **278**, 1 (1997) [article](https://dx.doi.org/10.1016/S0370-1573(96)00017-8)  
+
 
 ### Coupled cluster theory (CCT)
 
@@ -128,6 +129,7 @@ haxel49_420
   _The in-medium similarity renormalization group: A novel ab initio method for nuclei_  
   Phys. Rep. **621**, 165 (2016) [article](http://dx.doi.org/10.1016/j.physrep.2015.12.007)  
 
+
 ### Quantum Monte Carlo (QMC)
 
 [//]: # (carlson15_1610)
@@ -135,12 +137,14 @@ haxel49_420
   _Quantum Monte Carlo methods for nuclear physics_  
   Rev. Mod. Phys. **87**, 1067 (2015) [article](http://dx.doi.org/10.1103/RevModPhys.87.1067)  
 
+
 ### Fermionic molecular dynamics (FMD)
 
 [//]: # (feldmeier00_2337)
 - H. Feldmeier, and J. Schnack  
   _Molecular dynamics for fermions_  
   Rev. Mod. Phys. **72**, 655 (2000) [article](https://doi.org/10.1103/RevModPhys.72.655)  
+
 
 ### No-core shell model (NCSM)
 
@@ -154,12 +158,14 @@ haxel49_420
   _Ab initio no core shell model_  
   Prog. Part. Nucl. Phys. **69**, 131 (2013) [article](https://dx.doi.org/10.1016/j.ppnp.2012.10.003)  
 
+
 ### Self-consistent Green's function (SCGF)
 
 [//]: # (dickhoff04_947)
 - W. H. Dickhoff, and C. Barbieri  
   _Self-consistent Green's function method for nuclei and nuclear matter_  
   Prog. Part. Nucl. Phys. **52**, 377 (2004) [article](https://dx.doi.org/10.1016/j.ppnp.2004.02.038)  
+
 
 ### Lattice effective field theory
 
@@ -168,6 +174,7 @@ haxel49_420
   _Lattice simulations for few- and many-body systems_  
   Prog. Part. Nucl. Phys. **63**, 117 (2009) [article](https://dx.doi.org/10.1016/j.ppnp.2008.12.001)  
 
+
 ### Few-body _ab initio_ methods
 
 [//]: # (leidemann13_214)
@@ -175,12 +182,14 @@ haxel49_420
   _Modern ab initio approaches and applications in few-nucleon physics with $A \geq 4$_  
   Prog. Part. Nucl. Phys. **68**, 158 (2013) [article](https://dx.doi.org/10.1016/j.ppnp.2012.09.001)  
 
+
 ### Symmetry-guided no-core shell model methods
 
 [//]: # (launey16_2403)
 - K. D. Launey, T. Dytrych, and J. P. Draayer  
   _Symmetry-guided large-scale shell-model theory_  
   Prog. Part. Nucl. Phys. **89**, 101 (2016) [article](http://dx.doi.org/10.1016/j.ppnp.2016.02.001)  
+
 
 ### Nuclear field theory (NFT)
 
