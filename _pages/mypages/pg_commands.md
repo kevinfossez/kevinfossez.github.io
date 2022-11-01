@@ -36,6 +36,12 @@ rename 's/\.cxx$/.cpp/' *.cxx
 grep -rl '\.cxx' ./ | xargs sed -i 's/\.cxx/\.cpp/g'
 ```
 
+## Find top directories with a size above a given threshold (e.g. 1Gb)
+
+```bash
+du -h -d1 --threshold=1G * | sort -h
+```
+
 ## Copy with a progression bar (and more)
 
 ```bash

@@ -12,22 +12,21 @@ description: Last update on October 29, 2021
 - List of [reviews](./art_reviews_rand_mat_th) on random matrix theory.
 
 
-## Exotic nuclei, drip lines
+## Exploration of the drip lines
+
+
+
 
 [//]: # (otsuka20_2383)
 - T. Otsuka, A. Gade, O. Sorlin, T. Suzuki, and Y. Utsuno  
   _Evolution of shell structure in exotic nuclei_  
   Rev. Mod. Phys. **92**, 015002 (2020) [article](https://doi.org/10.1103/RevModPhys.92.015002)  
+volya14_1478
+thoennessen14_1552
+thoennessen13_1843
+heyde13_399
+forssen13_394
 
-[//]: # (tanihata13_549)
-- I. Tanihata, H. Savajols, and R. Kanungo  
-  _Recent experimental progress in nuclear halo structure studies_  
-  Prog. Part. Nucl. Phys. **68**, 215 (2013) [article](https://dx.doi.org/10.1016/j.ppnp.2012.07.001)  
-
-[//]: # (pfutzner12_1169)
-- M. Pf&uuml;tzner, M. Karny, L. V. Grigorenko, and K. Riisager  
-  _Radioactive decays at limits of nuclear stability_  
-  Rev. Mod. Phys. **84**, 567 (2012) [article](https://dx.doi.org/10.1103/RevModPhys.84.567)  
 
 [//]: # (baumann12_1556)
 - T. Baumann, A. Spyrou, and M. Thoennessen  
@@ -49,33 +48,53 @@ description: Last update on October 29, 2021
   _Light dripline nuclei_  
   Phys. Rep. **389**, 1 (2004) [article](https://dx.doi.org/10.1016/j.physrep.2003.07.004)  
 
-[//]: # (jensen04_233)
-- A. S. Jensen, K. Riisager, D. V. Fedorov, and E. Garrido  
-  _Structure and reactions of quantum halos_  
-  Rev. Mod. Phys. **76**, 215 (2004) [article](https://dx.doi.org/10.1103/RevModPhys.76.215)  
+
+
+hansen93_19
+
+
+## Exotic decay modes
+
+pfutzner13_406
+
+[//]: # (pfutzner12_1169)
+- M. Pf&uuml;tzner, M. Karny, L. V. Grigorenko, and K. Riisager  
+  _Radioactive decays at limits of nuclear stability_  
+  Rev. Mod. Phys. **84**, 567 (2012) [article](https://dx.doi.org/10.1103/RevModPhys.84.567)  
+
+guillemaud90_1761,blank08_449,pfutzner12_1169,spyrou12_1216,thoennessen13_1776
+
+
+
+## Monopole and multipole decomposition of the shell model Hamiltonian
+
+dufour96_2490
+zuker95_2491
+
 
 
 ## Collective phenomena
 
-[//]: # (freer18_2138)
-- M. Freer, H. Horiuchi, Y. Kanada-En'yo, D. Lee, and Ulf-G. Mei&szlig;ner  
-  _Microscopic clustering in light nuclei_  
-  Rev. Mod. Phys. **90**, 035004 (2018) [article](https://doi.org/10.1103/RevModPhys.90.035004)  
+### shape coexitence
 
 [//]: # (heyde11_1483)
 - K. Heyde, and J. L. Wood  
   _Shape coexistence in atomic nuclei_  
   Rev. Mod. Phys. **83**, 1467 (2011) [article](http://dx.doi.org/10.1103/RevModPhys.83.1467)  
 
-[//]: # (freer07_1018)
-- M. Freer  
-  _The clustered nucleus--cluster structures in stable and unstable nuclei_  
-  Rep. Prog. Phys. **70**, 2149 (2007) [article](https://dx.doi.org/10.1088/0034-4885/70/12/R03)  
+launey16_2403
+launey21_2578
+caprio15_1199
 
-[//]: # (oertzen06_1017)
-- W. von Oertzen, M. Freer, and Y. Kanada-En'yo  
-  _Nuclear clusters and nuclear molecules_  
-  Phys. Rep. **432**, 43 (2006) [article](https://dx.doi.org/10.1016/j.physrep.2006.07.001)  
+% elliott58_2469
+% elliott58_2470
+
+% rowe10_b210
+% bohr98_b27
+Wood16
+
+tsunoda20_2351
+
 
 [//]: # (frauendorf01_1300)
 - S. Frauendorf  
@@ -91,6 +110,31 @@ description: Last update on October 29, 2021
 - M. C. M. O'Brien, and C. C. Chancey  
   _The Jahn-Teller effect: An introduction and current review_  
   Am. J. Phys. **61**, 688 (1993) [article](https://doi.org/10.1119/1.17197)  
+
+
+
+## clustering
+
+elhatisari15_2324,elhatisari16_2311,Kravvaris2020
+
+[//]: # (oertzen06_1017)
+- W. von Oertzen, M. Freer, and Y. Kanada-En'yo  
+  _Nuclear clusters and nuclear molecules_  
+  Phys. Rep. **432**, 43 (2006) [article](https://dx.doi.org/10.1016/j.physrep.2006.07.001)  
+
+[//]: # (freer07_1018)
+- M. Freer  
+  _The clustered nucleus--cluster structures in stable and unstable nuclei_  
+  Rep. Prog. Phys. **70**, 2149 (2007) [article](https://dx.doi.org/10.1088/0034-4885/70/12/R03)  
+
+
+[//]: # (freer18_2138)
+- M. Freer, H. Horiuchi, Y. Kanada-En'yo, D. Lee, and Ulf-G. Mei&szlig;ner  
+  _Microscopic clustering in light nuclei_  
+  Rev. Mod. Phys. **90**, 035004 (2018) [article](https://doi.org/10.1103/RevModPhys.90.035004)  
+
+
+
 
 
 
@@ -194,6 +238,29 @@ description: Last update on October 29, 2021
   _Bound state properties of Borromean halo nuclei: $^{6}\text{He}$ and $^{11}\text{Li}$_  
   Phys. Rep. **231**, 151 (1993) [article](https://dx.doi.org/10.1016/0370-1573(93)90141-Y)  
 
+
+
+canham08_2450
+
+[//]: # (tanihata13_549)
+- I. Tanihata, H. Savajols, and R. Kanungo  
+  _Recent experimental progress in nuclear halo structure studies_  
+  Prog. Part. Nucl. Phys. **68**, 215 (2013) [article](https://dx.doi.org/10.1016/j.ppnp.2012.07.001)  
+
+[//]: # (jensen04_233)
+- A. S. Jensen, K. Riisager, D. V. Fedorov, and E. Garrido  
+  _Structure and reactions of quantum halos_  
+  Rev. Mod. Phys. **76**, 215 (2004) [article](https://dx.doi.org/10.1103/RevModPhys.76.215)  
+
+
+
+
+
+
+## historical halo
+
+tanihata85_665
+hansen87_231
 
 
 

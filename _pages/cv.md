@@ -15,61 +15,10 @@ header:
 
 ## Professional background
 
-- 2014 Ph.D., University of Caen, France, with Prof. Marek P&#322;oszajczak
-- 2015-17 Research Associate, Michigan State University, USA, with Prof. Witek Nazarewicz
-- 2017-19 Research Associate, Michigan State University, USA, with Prof. Heiko Hergert
-- 2019- FRIB Theory Fellow (Assistant Professor), Michigan State University and Argonne National Laboratory, USA
+- 2014: Ph.D., University of Caen, France, with Prof. Marek P&#322;oszajczak
+- 2015-2017: Research Associate, Michigan State University, USA, with Prof. Witek Nazarewicz
+- 2017-2019: Research Associate, Michigan State University, USA, with Prof. Heiko Hergert
+- 2019-2021: FRIB Theory Fellow (assistant professor), Michigan State University and Argonne National Laboratory, USA
+- 2021-present: FRIB Bridge and tenure-track assistant professor, Florida State University, USA
 
-
-## Research interests
-
-### Open quantum systems
-
-- Nuclear physics: weakly bound and unbound nuclei
-- Atomic physics: dipolar and quadrupolar anions
-
-### Quantum many-body physics
-
-- Emergent phenomena, interplay with continuum couplings (halos, exotic decay modes, many-body resonances, rotational motion in the continuum, etc.)
-- Effective scales, new degrees of freedom
-
-### Nuclear structure and reactions
-
-- Spectroscopy of atomic nuclei, rotational bands, clustering
-- Proton and neutron radiative capture reactions of astrophysical interest
-
-### Quantum computing
-(in development)
-
-
-## Framework
-
-### Formalism
-
-- Non-Hermitian quantum mechanics
-- Berggren basis
-- Resonating group method, coupled channel formalism
-- Effective field theory for the nuclear shell model (in development)
-
-### Many-body methods
-
-- Particle-plus-rotor in the Berggren basis
-- Gamow shell model (GSM)
-- Density matrix renormalization group (DMRG) for open quantum systems
-- In-medium similarity renormalization group (IM-SRG) for open quantum systems (in development)
-
-### Computing skills
-
-- Scientific computing: C++, OpenMP, MPI, hybrid parallel computing
-- Python, matplotlib
-- LaTeX, Tikz
-
-
-## Refereeing
-
-- European Physical Journal A: Hadrons and Nuclei
-- Physica Scripta (Outstanding reviewer 2019)
-- Physical Review C
-- Frontiers in Physics
-- Nature Physics
 

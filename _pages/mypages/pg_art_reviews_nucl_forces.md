@@ -62,3 +62,12 @@ description: Last update on November 1, 2021
   Phys. Rep. **261**, 125 (1995) [article](https://dx.doi.org/10.1016/0370-1573(95)00012-6)  
 
 
+stroberg17_1807
+jansen14_1150
+bogner14_1156
+coraggio07_2261
+holt04_1685
+bogner02_1705
+
+brueckner55_2503
+brueckner55_2505

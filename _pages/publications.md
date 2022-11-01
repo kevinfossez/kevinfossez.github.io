@@ -24,7 +24,7 @@ header:
 
 14- **K. Fossez** and J. Rotureau  
   _Density matrix renormalization group description of the island of inversion isotopes $^{28-33}\text{F}$_  
-  Submitted [arxiv](https://arxiv.org/abs/2105.05287)  
+  Phys. Rev. C **106**, 034312 (2022) [article](https://doi.org/10.1103/PhysRevC.106.034312) [arXiv](https://arxiv.org/abs/2105.05287)  
 
 13- Y.-X. Luo, **K. Fossez**, Q. Liu, and J.-Y. Guo  
   _Role of quadrupole deformation and continuum effects in the "island of inversion" nuclei $^{28,29,31}\text{F}$_  
