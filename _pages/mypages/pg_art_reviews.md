@@ -21,11 +21,31 @@ description: Last update on October 29, 2021
 - T. Otsuka, A. Gade, O. Sorlin, T. Suzuki, and Y. Utsuno  
   _Evolution of shell structure in exotic nuclei_  
   Rev. Mod. Phys. **92**, 015002 (2020) [article](https://doi.org/10.1103/RevModPhys.92.015002)  
-volya14_1478
-thoennessen14_1552
-thoennessen13_1843
-heyde13_399
-forssen13_394
+
+[//]: # (volya14_1478)
+- A. Volya, and V. Zelevinsky  
+  _Continuum shell model and nuclear physics at the edge of stability_  
+  Phys. Atom. Nucl. **77**, 969 (2014) [article](https://dx.doi.org/10.1134/S1063778814070163)
+
+[//]: # (thoennessen14_1552)
+- M. Thoennessen  
+  _Exploring new neutron-rich nuclei with the facility for rare isotope beams_  
+  Nucl. Data Sheets **118**, 85 (2014) [article](http://dx.doi.org/10.1016/j.nds.2014.04.008)
+
+[//]: # (thoennessen13_1843)
+- M. Thoennessen 
+  _Current status and future potential of nuclide discoveries_  
+	Rep. Prog. Phys. **76**, 056301 (2013) [article](https://dx.doi.org/10.1088/0034-4885/76/5/056301)
+
+[//]: # (heyde13_399)
+- K. Heyde  
+  _Unveiling the many facets of the atomic nucleus: from Rutherford to exotic nuclei_  
+  Phys. Scr. T **152**, 014006 (2013) [article](https://dx.doi.org/10.1088/0031-8949/2013/T152/014006)
+
+[//]: # (forssen13_394)
+- C. Forss&eacute;en, G. Hagen, M. Hjorth-Jensen, W. Nazarewicz, and J. Rotureau  
+  _Living on the edge of stability, the limits of the nuclear landscape_  
+  Phys. Scr. T \textbf{2013}, 014022 (2013) [article](https://dx.doi.org/10.1088/0031-8949/2013/T152/014022)
 
 
 [//]: # (baumann12_1556)
@@ -49,28 +69,44 @@ forssen13_394
   Phys. Rep. **389**, 1 (2004) [article](https://dx.doi.org/10.1016/j.physrep.2003.07.004)  
 
 
-
-hansen93_19
+[//]: # (hansen93_19)
+- P. G. Hansen  
+  _Nuclear structure at the drip-lines_  
+  Nucl. Phys. A **553**, 89 (1993) [article](https://dx.doi.org/10.1016/0375-9474(93)90617-7)
 
 
 ## Exotic decay modes
 
-pfutzner13_406
+[//]: # (pfutzner13_406)
+- M. Pf\"utzner  
+  _Particle radioactivity of exotic nuclei_  
+  Phys. Scr. T **152**, 014014 (2013) [article](https://dx.doi.org/10.1088/0031-8949/2013/T152/014014)
+
 
 [//]: # (pfutzner12_1169)
 - M. Pf&uuml;tzner, M. Karny, L. V. Grigorenko, and K. Riisager  
   _Radioactive decays at limits of nuclear stability_  
   Rev. Mod. Phys. **84**, 567 (2012) [article](https://dx.doi.org/10.1103/RevModPhys.84.567)  
 
-guillemaud90_1761,blank08_449,pfutzner12_1169,spyrou12_1216,thoennessen13_1776
+[//]: # (blank08_449)
+- B. Blank, and M. P&#322;oszajczak  
+  _Two-proton radioactivity_  
+  Rep. Prog. Phys. **71**, 046301 (2008) [article](https://dx.doi.org/10.1088/0034-4885/71/4/046301)
 
+[//]: # (guillemaud90_1761,spyrou12_1216,thoennessen13_1776)
 
 
 ## Monopole and multipole decomposition of the shell model Hamiltonian
 
-dufour96_2490
-zuker95_2491
+[//]: # (dufour96_2490)
+- M. Dufour, and A. P. Zuker  
+  _Realistic collective nuclear Hamiltonian_  
+  Phys. Rev. C **54**, 1641 (1996) [article](https://doi.org/10.1103/PhysRevC.54.1641)
 
+[//]: # (zuker95_2491)
+- A. P. Zuker, and M. Dufour  
+  _Separation of the monopole contribution to the nuclear Hamiltonian_  
+  arXiv (1995) [arXiv](https://doi.org/10.48550/arXiv.nucl-th/9505012)
 
 
 ## Collective phenomena
@@ -81,19 +117,10 @@ zuker95_2491
 - K. Heyde, and J. L. Wood  
   _Shape coexistence in atomic nuclei_  
   Rev. Mod. Phys. **83**, 1467 (2011) [article](http://dx.doi.org/10.1103/RevModPhys.83.1467)  
-
-launey16_2403
-launey21_2578
-caprio15_1199
-
-% elliott58_2469
-% elliott58_2470
-
-% rowe10_b210
-% bohr98_b27
-Wood16
-
-tsunoda20_2351
+[//]: # (launey16_2403,launey21_2578,caprio15_1199)
+[//]: # (elliott58_2469,elliott58_2470)
+[//]: # (rowe10_b210,bohr98_b27,Wood16)
+[//]: # (tsunoda20_2351)
 
 
 [//]: # (frauendorf01_1300)
@@ -115,7 +142,7 @@ tsunoda20_2351
 
 ## clustering
 
-elhatisari15_2324,elhatisari16_2311,Kravvaris2020
+[//]: # (elhatisari15_2324,elhatisari16_2311,Kravvaris2020)
 
 [//]: # (oertzen06_1017)
 - W. von Oertzen, M. Freer, and Y. Kanada-En'yo  
@@ -259,8 +286,7 @@ canham08_2450
 
 ## historical halo
 
-tanihata85_665
-hansen87_231
+[//]: # (tanihata85_665,hansen87_231)
 
 
 
