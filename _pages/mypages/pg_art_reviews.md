@@ -304,8 +304,11 @@ description: Last update on October 29, 2021
   Phys. Rep. **231**, 151 (1993) [article](https://dx.doi.org/10.1016/0370-1573(93)90141-Y)  
 
 
+[//]: # (canham08_2450)
+- D. L. Canham, and H. -W. Hammer  
+  _Universal properties and structure of halo nuclei_  
+  Eur. Phys. J. A **37**, 367 (2008) [article](https://doi.org/10.1140/epja/i2008-10632-4) 
 
-canham08_2450
 
 [//]: # (tanihata13_549)
 - I. Tanihata, H. Savajols, and R. Kanungo  
