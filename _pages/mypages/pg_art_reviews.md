@@ -33,7 +33,7 @@ description: Last update on October 29, 2021
   Nucl. Data Sheets **118**, 85 (2014) [article](http://dx.doi.org/10.1016/j.nds.2014.04.008)
 
 [//]: # (thoennessen13_1843)
-- M. Thoennessen 
+- M. Thoennessen  
   _Current status and future potential of nuclide discoveries_  
 	Rep. Prog. Phys. **76**, 056301 (2013) [article](https://dx.doi.org/10.1088/0034-4885/76/5/056301)
 
@@ -45,7 +45,7 @@ description: Last update on October 29, 2021
 [//]: # (forssen13_394)
 - C. Forss&eacute;en, G. Hagen, M. Hjorth-Jensen, W. Nazarewicz, and J. Rotureau  
   _Living on the edge of stability, the limits of the nuclear landscape_  
-  Phys. Scr. T \textbf{2013}, 014022 (2013) [article](https://dx.doi.org/10.1088/0031-8949/2013/T152/014022)
+  Phys. Scr. T **2013**, 014022 (2013) [article](https://dx.doi.org/10.1088/0031-8949/2013/T152/014022)
 
 
 [//]: # (baumann12_1556)
@@ -78,7 +78,7 @@ description: Last update on October 29, 2021
 ## Exotic decay modes
 
 [//]: # (pfutzner13_406)
-- M. Pf\"utzner  
+- M. Pf&uuml;tzner  
   _Particle radioactivity of exotic nuclei_  
   Phys. Scr. T **152**, 014014 (2013) [article](https://dx.doi.org/10.1088/0031-8949/2013/T152/014014)
 
@@ -117,10 +117,39 @@ description: Last update on October 29, 2021
 - K. Heyde, and J. L. Wood  
   _Shape coexistence in atomic nuclei_  
   Rev. Mod. Phys. **83**, 1467 (2011) [article](http://dx.doi.org/10.1103/RevModPhys.83.1467)  
-[//]: # (launey16_2403,launey21_2578,caprio15_1199)
-[//]: # (elliott58_2469,elliott58_2470)
-[//]: # (rowe10_b210,bohr98_b27,Wood16)
+
+[//]: # (launey16_2403)
+- K. D. Launey, T. Dytrych, and J. P. Draayer  
+  _Symmetry-guided large-scale shell-model theory_  
+  Prog. Part. Nucl. Phys. **89**, 101 (2016) [article](http://dx.doi.org/10.1016/j.ppnp.2016.02.001)
+
+[//]: # (launey21_2578)
+- K. D. Launey, A. Mercenne, and T. Dytrych  
+  _Nuclear dynamics and reactions in the ab initio symmetry-adapted framework_  
+  Annu. Rev. Nucl. Part. Sci. **71**, 253 (2021) [article](https://doi.org/10.1146/annurev-nucl-102419-033316) 
+
+[//]: # (caprio15_1199)
+- M. A. Caprio, P. Maris, J. P. Vary, and R. Smith  
+  _Collective rotation from ab initio theory_  
+  Int. J. Mod. Phys. E **24**, 1541002 (2015) [article](https://dx.doi.org/10.1142/S0218301315410025)
+
+[//]: # (elliott58_2469)
+- J. P. Elliot  
+  _Collective motion in the nuclear shell model. I. Classification schemes for states of mixed configurations_  
+  Proc. R. Soc. Lond. A **245**, 128 (1958) [article](https://doi.org/10.1098/rspa.1958.0072) 
+
+[//]: # (elliott58_2470)
+- J. P. Elliot  
+  _Collective motion in the nuclear shell model. II. The introduction of intrinsic wave-functions_  
+  Proc. R. Soc. Lond. A **245**, 562 (1958) [article](https://doi.org/10.1098/rspa.1958.0101) 
+
+
 [//]: # (tsunoda20_2351)
+- N. Tsunoda, T. Otsuka, K. Takayanagi, N. Shimizu, T. Suzuki, Y. Utsuno, S. Yoshida, and H. Ueno  
+  _The impact of nucleat shape on the emergence of the neutron dripline_  
+  Nature **587**, 66 (2020) [article](https://doi.org/10.1038/s41586-020-2848-x)
+
+[//]: # (rowe10_b210,bohr98_b27,Wood16)
 
 
 [//]: # (frauendorf01_1300)
@@ -142,7 +171,16 @@ description: Last update on October 29, 2021
 
 ## clustering
 
-[//]: # (elhatisari15_2324,elhatisari16_2311,Kravvaris2020)
+
+[//]: # (kravvaris19_2326)
+- K. Kravvaris, and A. Volya  
+  _Clustering in structure and reactions using configuration interaction techniques_  
+  Phys. Rev. C **100**, 034321 (2019) [article](https://doi.org/10.1103/PhysRevC.100.034321) 
+
+
+[//]: # (elhatisari15_2324)
+[//]: # (elhatisari16_2311)
+
 
 [//]: # (oertzen06_1017)
 - W. von Oertzen, M. Freer, and Y. Kanada-En'yo  
@@ -286,7 +324,14 @@ canham08_2450
 
 ## historical halo
 
-[//]: # (tanihata85_665,hansen87_231)
+[//]: # (hansen87_231)
+- P. G. Hansen, and B. Jonson  
+  _The neutron halo of extremely neutron-rich nuclei_  
+  Europhys. Lett. **4**, 409 (1987) [article](https://dx.doi.org/10.1209/0295-5075/4/4/005)
 
+[//]: # (tanihata85_665)
+- I. Tanihata, H. Hamagaki, O. Hashimoto, Y. Shida, N. Yoshikawa, K. Sugimoto, O. Yamakawa, T. Kobayashi, and N. Takahashi  
+  _Measurements of Interaction cross sections and nuclear radii in the light ${ p }$-shell region_  
+  Phys. Rev. Lett. **55**, 2676 (1985) [article](https://dx.doi.org/10.1103/PhysRevLett.55.2676)
 
 
