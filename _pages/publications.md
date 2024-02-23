@@ -22,6 +22,18 @@ header:
 
 ## Nuclear Physics
 
+17- H. L. Crawford, **K. Fossez**, S. K&ouml;nig, and A. Spyrou  
+  _A vision for the science of rare isotopes_  
+  Submitted to Annual Reviews (2023) [arXiv](https://arxiv.org/abs/2312.09129)  
+
+16- N. Yapa, **K. Fossez**, and S. K&ouml;nig  
+  _Eigenvector continuation for emulating and extrapolating two-body resonances_  
+  Phys. Rev. C **107**, 064316 (2023) [article](https://doi.org/10.1103/PhysRevC.107.064316) [arXiv](https://arxiv.org/abs/2303.06139)  
+
+15- D. Bazin, K. Becker, F. Bonaiti, C. Elster, **K. Fossez**, T. Frederico, A. Gnech, C. Hebborn, M. Higgins, L. Hlophe, B. Kay, S. K&ouml;nig, K. Kravvaris, J. Lubian, A. Macchiavelli, F. Nunes, L. Platter, G. Potel, and X. Zhang  
+  _Perspectives on few-body cluster structures in exotic nuclei_  
+  Few-Body Syst. **64**, 25 (2023) [article](https://doi.org/10.1007/s00601-023-01794-0) [arXiv](https://arxiv.org/abs/2211.06281)  
+
 14- **K. Fossez** and J. Rotureau  
   _Density matrix renormalization group description of the island of inversion isotopes $^{28-33}\text{F}$_  
   Phys. Rev. C **106**, 034312 (2022) [article](https://doi.org/10.1103/PhysRevC.106.034312) [arXiv](https://arxiv.org/abs/2105.05287)  
@@ -32,7 +44,7 @@ header:
 
 12- **K. Fossez**  
   _Quantifying alpha clustering in light nuclei from binding energies_  
-  Submitted (2020) [arXiv](https://arxiv.org/abs/2004.14896) 
+  (2020) [arXiv](https://arxiv.org/abs/2004.14896) 
 
 11- C. W. Johnson, K. D. Launey, N. Auerbach, S. Bacca, B. R. Barrett, C. Brune, M. A. Caprio, P. Descouvemont, W. H. Dickhoff, C. Elster, P. J. Fasano, **K. Fossez**, H. Hergert, M. Hjorth-Jensen, L. Hlophe, B. Hu, R. M. Id Betan, A. Idini, S. K&ouml;nig, K. Kravvaris, D. Lee, J. Lei, P. Maris, A. Mercenne, K. Minomo, R. Navarro Perez, W. Nazarewicz, F. M. Nunes, M. P&#322;oszajczak, S. Quaglioni, J. Rotureau, G. Rupak, A. M. Shirokov, I. Thompson, J. P. Vary, A. Volya, F. Xu, V. Zelevinsky, and X. Zhang  
   _White paper: From bound states to the continuum_  
