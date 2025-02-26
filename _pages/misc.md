@@ -27,8 +27,6 @@ header:
 - List of [articles](./DMRG/) on the Density Matrix Renormalization Group (DMRG) method (nuclear physics, harmonic oscillator and Berggren bases).
 - List of [articles](./IMSRG/) on the In-Medium Similarity Renormalization Group (IM-SRG) method.
 
-- Links on [quantum computing](./qc/).
-
 
 ## Useful notes
 
