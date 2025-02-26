@@ -6,12 +6,6 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Overflow"
-    url: /overflow/
-
-  - title: "Research"
-    url: /research/
-
   - title: "Miscellaneous"
     url: /misc/
 
