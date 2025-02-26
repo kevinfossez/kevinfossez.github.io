@@ -6,21 +6,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Overflow"
-    url: /overflow/
-
-  - title: "Research"
-    url: /research/
-
   - title: "Miscellaneous"
     url: /misc/
 
   - title: "Nuclear charts"
     url: /charts/
-
-#  - title: "Talks"
-#    url: /talks/    
-
-#  - title: "Teaching"
-#    url: /teaching/    
- 
