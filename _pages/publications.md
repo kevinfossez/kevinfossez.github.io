@@ -22,9 +22,25 @@ header:
 
 ## Nuclear Physics
 
-17- H. L. Crawford, **K. Fossez**, S. K&ouml;nig, and A. Spyrou  
+21- N. Yapa, S. K\"onig, and **K. Fossez**  
+  _Towards scalable bound-to-resonance extrapolations for few- and many-body systems_  
+  Submitted to Phys. Rev. C (2025) [arXiv](https://arxiv.org/abs/2409.03116)  
+
+20- B. A. Brown, A. Gade, S. R. Stroberg, J. Escher, **K. Fossez**, P. Giuliani, C. R. Hoffman, W. Nazarewicz, C.-Y. Seng, A. Sorensen, N. Vassh, D. Bazin, K. W. Brown, M. A. Caprio, H. Crawford, P. Danielewicz, C. Drischler, R. F. Garcia Ruiz, K. Godbey, R. Grzywacz, J. W. Holt, H. Iwasaki, D. Lee, S. M. Lenzi, S. Liddick, R. Lubna, A. O. Macchiavelli, G. Martínez Pinedo, A. McCoy, A. Mercenne, K. Minamisono, B. Monteagudo, P. Navrátil, R. Ringle, G. Sargsyan, H. Schatz, M. -C. Spieker, A. Volya, R. G. T. Zegers, V. Zelevinsky, and X. Zhang  
+  _Motivations for early high-profile FRIB experiments_  
+  Accepted in J. Phys. G (2025) [arXiv](https://arxiv.org/abs/2410.06144)  
+
+19- P. André, A. Corsi, A. Revel, Y. Kubota, J. Casal, **K. Fossez**, J. Góomez-Camacho, G. Authelet, H. Baba, C. Caesar, D. Calvet, A. Delbart, M. Dozono, J. Feng, F. Flavigny, J.-M. Gheller, J. Gibelin, A. Giganon, A. Gillibert, K. Hasegawa, T. Isobe, Y. Kanaya, S. Kawakami, D. Kim, Y. Kiyokawa, M. Kobayashi, N. Kobayashi, T. Kobayashi, Y. Kondo, Z. Korkulu, S. Koyama, V. Lapoux, Y. Maeda, F.M. Marqués, T. Motobayashi, T. Miyazaki, T. Nakamura, N. Nakatsuka, Y. Nishio, A. Obertelli, A. Ohkura, N.A. Orr, S. Ota, H. Otsu, T. Ozaki, V. Panin, S. Paschalis, E.C. Pollacco, S. Reichert, J.-Y. Rousse, A.T. Saito, S. Sakaguchi, M. Sako, C. Santamaria, M. Sasano, H. Sato, M. Shikata, Y. Shimizu, Y. Shindo, L. Stuhl, T. Sumikama, Y.L. Sun, M. Tabata, Y. Togano, J. Tsubota, T. Uesaka, Z.H. Yang, J. Yasuda, K. Yoneda, and J. Zenihiro  
+  _Evolution of two-neutrons configuration from ${ {}^{11}\text{Li} }$ to ${ {}^{13}\text{Li} }$_  
+  Phys. Lett. B **857**, 138977 (2024) [arXiv](https://arxiv.org/abs/2501.11539)  
+
+18- H. L. Crawford, **K. Fossez**, S. K&ouml;nig, and A. Spyrou  
   _A vision for the science of rare isotopes_  
-  Submitted to Annual Reviews (2023) [arXiv](https://arxiv.org/abs/2312.09129)  
+  Annu. Rev. Nucl. Part. Sci. **74** (2024) [arXiv](https://arxiv.org/abs/2312.09129)  
+
+17- S. E. Campbell, G. Bollen, B. A. Brown, A. Dockery, C. M. Ireland, K. Minamisono, D. Puentes, B. J. Rickey, R. Ringle, I. T. Yandow, **K. Fossez**, A. Ortis-Cortes, S. Schwarz, C. S. Sumithrarachchi, and A. C. C. Villari  
+  _Precision mass measurement of the proton dripline halo candidate ${ {}^{22}\text{Al} }$_  
+  Phys. Rev. Lett. **132**, 152501 (2024) [arXiv](https://arxiv.org/abs/2312.11366)  
 
 16- N. Yapa, **K. Fossez**, and S. K&ouml;nig  
   _Eigenvector continuation for emulating and extrapolating two-body resonances_  
